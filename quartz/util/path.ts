@@ -50,9 +50,7 @@ export function getFullSlug(window: Window): FullSlug {
 function sluggify(s: string): string {
   return s
     .split("/")
-    .map((segment) =>
-      segment.replace(/\s/g, "-").replace(/%/g, "-percent").replace(/\?/g, "-q").replace(/#/g, ""),
-    ) // slugify all segments
+    .map((segment) => segment.replace(/\s/g, "-").replace(/%/g, "-percent").replace(/\?/g, "-q")) // slugify all segments
     .join("/") // always use / as sep
     .replace(/\/$/, "")
 }

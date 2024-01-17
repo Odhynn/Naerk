@@ -21,7 +21,7 @@ section {
 }
 
 .text-highlight {
-  background-color: #fff23688;
+  background-color: #ffab3688; // #fff23688
   padding: 0 0.1rem;
   border-radius: 5px;
 }
@@ -59,13 +59,13 @@ a {
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
-  display: inline-block;
 
   &:hover {
     color: var(--tertiary) !important;
   }
 
   &.internal {
+    font-weight: normal;
     text-decoration: none;
     background-color: var(--highlight);
     padding: 0 0.1rem;
@@ -75,15 +75,6 @@ a {
       background-color: none;
       border-radius: 0;
       padding: 0;
-    }
-  }
-
-  &.external .external-icon {
-    height: 1ex;
-    margin: 0 0.15em;
-
-    > path {
-      fill: var(--dark);
     }
   }
 }

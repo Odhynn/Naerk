@@ -18,22 +18,22 @@ interface BreadcrumbOptions {
    */
   rootName: string
   /**
-   * Whether to look up frontmatter title for folders (could cause performance problems with big vaults)
+   * wether to look up frontmatter title for folders (could cause performance problems with big vaults)
    */
   resolveFrontmatterTitle: boolean
   /**
-   * Whether to display breadcrumbs on root `index.md`
+   * Wether to display breadcrumbs on root `index.md`
    */
   hideOnRoot: boolean
   /**
-   * Whether to display the current page in the breadcrumbs.
+   * Wether to display the current page in the breadcrumbs.
    */
   showCurrentPage: boolean
 }
 
 const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
-  rootName: "Home",
+  rootName: "Ffynnonchwedl",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,

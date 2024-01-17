@@ -35,12 +35,12 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
   if (trim) {
     const includesCheck = (tok: string) =>
       tokenizedTerms.some((term) => tok.toLowerCase().startsWith(term.toLowerCase()))
-    const occurrencesIndices = tokenizedText.map(includesCheck)
+    const occurencesIndices = tokenizedText.map(includesCheck)
 
     let bestSum = 0
     let bestIndex = 0
     for (let i = 0; i < Math.max(tokenizedText.length - contextWindowWords, 0); i++) {
-      const window = occurrencesIndices.slice(i, i + contextWindowWords)
+      const window = occurencesIndices.slice(i, i + contextWindowWords)
       const windowSum = window.reduce((total, cur) => total + (cur ? 1 : 0), 0)
       if (windowSum >= bestSum) {
         bestSum = windowSum
@@ -122,10 +122,7 @@ document.addEventListener("nav", async (e: unknown) => {
 
       // add "#" prefix for tag search
       if (searchBar) searchBar.value = "#"
-    }
-
-    if (!container?.classList.contains("active")) return
-    else if (e.key === "Enter") {
+    } else if (e.key === "Enter") {
       // If result has focus, navigate to that one, otherwise pick first result
       if (results?.contains(document.activeElement)) {
         const active = document.activeElement as HTMLInputElement
@@ -199,7 +196,7 @@ document.addEventListener("nav", async (e: unknown) => {
       const termLower = term.toLowerCase()
       let matching = tags.filter((str) => str.includes(termLower))
 
-      // Subtract matching from original tags, then push difference
+      // Substract matching from original tags, then push difference
       if (matching.length > 0) {
         let difference = tags.filter((x) => !matching.includes(x))
 
