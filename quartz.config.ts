@@ -9,35 +9,35 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "github.com/Odhynn/naerk",
     ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
     defaultDateType: "created",
     theme: {
       typography: {
         header: "Ubuntu",
         body: "Ubuntu",
-        code: "IBM Plex Mono",
+        code: "Ubuntu",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#eceff4", // faf8f8 - page background
+          lightgray: "#d8dee9", // e5e5e5 - borders
+          gray: "#4c566a", // b8b8b8 - graph links, heavier borders
+          darkgray: "#4e4e4e", // 4e4e4e - body text
+          dark: "#D08770", // 2b2b2b - header text and icons
+          secondary: "#BF616A", // 284b63 - link colour, current graph node
+          tertiary: "#8FBCBB", // 84a59d - hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0.15)", // (143, 159, 169, 0.15) - internal link background, highlighted text
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#2E3440", // 161618
+          lightgray: "#3B4252", // 393639
+          gray: "#464F62", // 646464
+          darkgray: "#d4d4d4", // d4d4d4
+          dark: "#D08770", // ebebec
+          secondary: "#BF616A", // 7b97aa
+          tertiary: "#8FBCBB", // 84a59d
+          highlight: "rgba(143, 159, 169, 0.15)", // rgba(143, 159, 169, 0.15)
         },
       },
     },
