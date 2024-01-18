@@ -1,7 +1,6 @@
 ---
 date: 2021-07-25
 author: sfakias
-title: A bad day for shopping
 ---
 # A bad day for shopping
 
