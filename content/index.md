@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Naerk Wiki - 🚧 WIP
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [Obsidian](https://obsidian.md/)
+- Quartz [documentation](https://quartz.jzhao.xyz)
