@@ -9,7 +9,6 @@ tags:
   - countries/Fervolosh
   - countries/Bjåglant
 ---
-
 | male dwarf | alchemist (bomber) |
 | --- | --- |
 | `age` | 62 (b. 4756) |
