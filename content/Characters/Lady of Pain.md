@@ -20,7 +20,7 @@ tags:
 > _"Ugly name. For some reason they liked it, and they got used to it.""_
 
 Possible Leader of [[Order of the Cave]]
-Influential lady of [[Whistor]]
+Influential lady of [[Arbader]]
 Member of [[Crimson Steel]]
 Master Assassin
 Vampire and demon allies
