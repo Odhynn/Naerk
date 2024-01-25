@@ -3,11 +3,11 @@ title: Folegg Bugrilson
 date: 2024-1-20
 author: sfakias
 tags:
-  - characters/PCs
+  - characters/NPCs
   - factions/Dohjil
   - countries/Korhond
 ---
-| male human |
+| male human | prince |
 | --- | --- |
 | `age` | 22 (b. 4796) |
 | `birthplace` | Krannorvick, Korhond |

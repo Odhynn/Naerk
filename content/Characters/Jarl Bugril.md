@@ -3,7 +3,7 @@ title: Jarl Bugril
 date: 2024-1-20
 author: sfakias
 tags:
-  - characters/PCs
+  - characters/NPCs
   - character/jarls
   - factions/Dohjil
   - countries/Korhond

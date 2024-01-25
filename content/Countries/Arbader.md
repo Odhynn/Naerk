@@ -1,0 +1,18 @@
+---
+title: Lady of Pain
+date: 2024-1-26
+author: sfakias
+tags:
+  - countries/Arbader
+  - countries/Palaurim
+
+---
+| `Climate` | Temperate |
+| `Capital` | Hashnev |
+| `Government` | King |
+| `Languages` | Common, Goblin, Giant |
+| `Population` | 870000 |
+| `Religions` | Sergonial, Xeurim, Sennek, Berohath, Factar |
+| `Imports` | Wool, Oil, Spices, Timber |
+| `Exports` | Gold, Jewelry,  Grain, Wine |
+| `Important Events` | Decade War with South Darrok, Recent Revolt |
