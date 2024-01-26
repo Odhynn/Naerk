@@ -7,6 +7,7 @@ tags:
 
 ---
 | `Climate` | Continental, Cold |
+| --- | --- |
 | `Capital` | Talhad |
 | `Government` | Council and King |
 | `Languages` | Dwarven, Common, Giant, Orcish |

@@ -8,6 +8,7 @@ tags:
 
 ---
 | `Climate` | Temperate |
+| --- | --- |
 | `Capital` | Hashnev |
 | `Government` | King |
 | `Languages` | Common, Goblin, Giant, Shadow |

@@ -8,6 +8,7 @@ tags:
 
 ---
 | `Climate` | Temperate |
+| --- | --- |
 | `Capital` | Llykavann |
 | `Government` | Governor |
 | `Languages` | Common, Elven |
