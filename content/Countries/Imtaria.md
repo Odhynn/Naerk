@@ -4,6 +4,7 @@ date: 2024-1-26
 author: sfakias
 tags:
   - countries/Imtaria
+  - countries/Palaurim
 
 ---
 | `Climate` | Temperate, Warm |

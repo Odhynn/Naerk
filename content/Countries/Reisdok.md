@@ -4,6 +4,8 @@ date: 2024-1-26
 author: sfakias
 tags:
   - countries/Reisdok
+  - countries/Palaurim
+
 
 ---
 | `Climate` | Warm |
@@ -15,4 +17,4 @@ tags:
 | `Religions` | Maeronian, Yushan, Fyrlean, Sseratush  |
 | `Imports` | Metals, Weapons, Armor, Grain, Ivory |
 | `Exports` | Precious Metals, Diamonds, Fruits, Fish, Silk, Glass, Magic Items |
-| `Important Events` | Battle for Fellgaunt |
+| `Important Events` | Principia Magicka Codex |
