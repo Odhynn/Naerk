@@ -1,13 +1,24 @@
 ---
 title: Mordrydd Emberbeard
-date: 2024-1-19
+date: 2024-01-19
 author: odysseas
 tags:
   - characters/PCs
   - character/commoners
   - factions/Dohjil
-  - countries/Fervolosh
+  - countries/Korhond
   - countries/Bjåglant
+wiki:
+  gender: 'male'
+  ancestry: 'dwarf'
+  profession: 'alchemist'
+  born: 4756
+  birthplace: 'Thyrskogen'
+  nationality: [Bjåglant, Korhond]
+  height: "4'8''"
+  weight: '200 lb.'
+  appearance: 'chestnut hair, titian beard, brown eyes'
+  residence: 'Kranårvikk'
 ---
 | male dwarf | alchemist (bomber) |
 | --- | --- |
@@ -19,10 +30,8 @@ tags:
 | `appearance` | Chestnut hair, titian beard, brown eyes |
 | `residence` | Kranårvikk (as of 4808) |
 
-> _"Borðiði áður en það kólnar!"_
-
-physician to [[Jarl Bugril]]'s sickly son
-chosen in the shadow of the Torniv as a champion of the North, representing the [[Dohjil]] tribe
+physician to [[Jarl Bugril]]'s [[Folegg Bugrilson|sickly son]]
+chosen in the shadow of the [[Torniv]] as a champion of the North, representing the [[Dohjil]] tribe
 
 > [!quote] 
 > Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω.
