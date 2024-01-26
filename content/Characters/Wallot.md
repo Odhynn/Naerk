@@ -8,8 +8,9 @@ tags:
   - factions/Crimson Steel
   - countries/Arbader
 ---
-| male human? | master assassin |
+| | |
 | --- | --- |
+| male human? | master assassin |
 | `age` | unknown |
 | `weapon of choice` | scythe |
 | `birthplace` | Arbader? |

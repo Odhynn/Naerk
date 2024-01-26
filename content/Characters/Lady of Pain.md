@@ -9,8 +9,9 @@ tags:
   - factions/Order of the Cave
   - countries/Arbader
 ---
-| female vampire | Lady Assassin |
+| | |
 | --- | --- |
+| female vampire | Lady Assassin |
 | `age` | unknown |
 | `birthplace` | Hashnev, Arbader |
 | `nationality` | Arbader |

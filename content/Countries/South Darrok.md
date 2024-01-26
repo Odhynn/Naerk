@@ -7,8 +7,9 @@ tags:
   - countries/Palaurim
 
 ---
-| `Climate` | Temperate |
+| | |
 | --- | --- |
+| `Climate` | Temperate |
 | `Capital` | Llykavann |
 | `Government` | Governor |
 | `Languages` | Common, Elven |

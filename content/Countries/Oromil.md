@@ -7,8 +7,9 @@ tags:
   - countries/Palaurim
 
 ---
-| `Climate` | Temperate, Warm |
+| | |
 | --- | --- |
+| `Climate` | Temperate, Warm |
 | `Capital` | Fellgaunt |
 | `Government` | Merchant Council |
 | `Languages` | Common, Orc, Centaur, Halfling |

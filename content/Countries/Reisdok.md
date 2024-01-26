@@ -8,8 +8,9 @@ tags:
 
 
 ---
-| `Climate` | Warm |
+| | |
 | --- | --- |
+| `Climate` | Warm |
 | `Capital` | Kleyton |
 | `Government` | Council |
 | `Languages` | Common, Veth, Lizardtongue |

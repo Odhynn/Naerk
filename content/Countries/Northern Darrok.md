@@ -6,8 +6,9 @@ tags:
   - countries/North Darrok
 
 ---
-| `Climate` | Continental, Cold |
+| | |
 | --- | --- |
+| `Climate` | Continental, Cold |
 | `Capital` | Talhad |
 | `Government` | Council and King |
 | `Languages` | Dwarven, Common, Giant, Orcish |

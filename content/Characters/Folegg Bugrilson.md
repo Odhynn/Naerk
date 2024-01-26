@@ -7,8 +7,9 @@ tags:
   - factions/Dohjil
   - countries/Korhond
 ---
-| male human | prince |
+| | |
 | --- | --- |
+| male human | prince |
 | `age` | 22 (b. 4796) |
 | `birthplace` | Krannorvick, Korhond |
 | `nationality` | Korhond / Dohjil |

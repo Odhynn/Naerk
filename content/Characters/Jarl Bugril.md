@@ -8,8 +8,9 @@ tags:
   - factions/Dohjil
   - countries/Korhond
 ---
-| male human | jarl |
+| | |
 | --- | --- |
+| male human | jarl |
 | `age` | 64 (b. 4756) |
 | `birthplace` | Krannorvick, Korhond |
 | `nationality` | Korhond / Dohjil |

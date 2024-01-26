@@ -7,8 +7,9 @@ tags:
   - countries/Palaurim
 
 ---
-| `Climate` | Temperate |
+| | |
 | --- | --- |
+| `Climate` | Temperate |
 | `Capital` | Hashnev |
 | `Government` | King |
 | `Languages` | Common, Goblin, Giant, Shadow |

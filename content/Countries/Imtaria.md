@@ -7,8 +7,9 @@ tags:
   - countries/Palaurim
 
 ---
-| `Climate` | Temperate, Warm |
+| | |
 | --- | --- |
+| `Climate` | Temperate, Warm |
 | `Capital` | Vaëdar |
 | `Government` | Emperor |
 | `Languages` | Common, Aquan, Gnome |
