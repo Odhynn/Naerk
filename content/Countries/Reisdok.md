@@ -15,6 +15,6 @@ tags:
 | `Languages` | Common, Veth, Lizardtongue |
 | `Population` | 760000 |
 | `Religions` | Maeronian, Yushan, Fyrlean, Sseratush  |
-| `Imports` | Metals, Weapons, Armor, Grain, Ivory |
+| `Imports` | Metals, Weapons, Armor, Grain, Ivory, Potato |
 | `Exports` | Precious Metals, Diamonds, Fruits, Fish, Silk, Glass, Magic Items |
 | `Important Events` | Principia Magicka Codex |
