@@ -1,53 +1,38 @@
-import { FullSlug, _stripSlashes, joinSegments, pathToRoot, slugifyFilePath, TransformOptions, transformInternalLink, transformLink, resolveRelative, simplifySlug, FilePath } from "../util/path"
+import { htmlToJsx } from "../util/jsx"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
-// import { safeLoad } from 'js-yaml';
+import { Root } from "hast"
 
-export default (() => {
-  function Wikitable({fileData, allFiles}: QuartzComponentProps, ) {
-    const opts: TransformOptions = {
-      strategy: "shortest",
-      allSlugs: allFiles.map((fp) => fp.slug as FullSlug)
-    }
-    let wikitable = fileData.frontmatter?.wiki
-    let tableHtml = '<table>';
+
+function Content({ fileData, tree }: QuartzComponentProps) {
+
+  const wikitable = fileData.frontmatter?.wiki
+  let tableHtml = '';
     if (wikitable) {
       // wikitable = wikitable.replace(/['"\[\]]+/g, '')
       for (const key in wikitable) {
         if (wikitable.hasOwnProperty(key)) {
-          tableHtml += `<tr><td>${key}</td><td>${wikitable[key]}</td></tr>`;
+          tableHtml += `**${key}:** ${wikitable[key]}  `;
+          // tableHtml += `<tr><td>${key}</td><td>${wikitable[key]}</td></tr>`;
         }
-      
+
       }
-      tableHtml += '</table>';
-      let href = transformLink(fileData.slug!, wikitable, opts)
-      return (
-        <div class="wikitable">
-          <h4 style="margin-bottom:1rem">
-            Attributes 
-          </h4>
-          <table class="tb">{tableHtml}</table>
-        </div>
-        )
-      }
-      else {
-        return null;
-      }
+    } else {
+      return null
     }
-    
-    return Wikitable
-  }) satisfies QuartzComponentConstructor
-  
+  console.log(tableHtml)
 
-// function frontmatterToHtmlTable(frontmatter: string): string {
-//   const data = safeLoad(frontmatter);
-//   let tableHtml = '<table>';
+  const content =
+  (tree as Root).children.length === 0
+    ? fileData.frontmatter
+    : htmlToJsx(fileData.filePath!, tree)
 
-//   for (const key in data) {
-//     if (data.hasOwnProperty(key)) {
-//       tableHtml += `<tr><td>${key}</td><td>${data[key]}</td></tr>`;
-//     }
-//   }
+  return (
+      <div class="popover-hint">
+        <article>
+          <p>{content}</p>
+        </article>
+      </div>
+    )
+}
 
-//   tableHtml += '</table>';
-//   return tableHtml;
-// }
+export default (() => Content) satisfies QuartzComponentConstructor

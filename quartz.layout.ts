@@ -20,6 +20,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    // Component.MobileOnly(Component.Wikitable()),
   ],
   left: [
     Component.PageTitle(),
@@ -29,7 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    // Component.Wikitable(),
+    // Component.DesktopOnly(Component.Wikitable()),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
