@@ -17,4 +17,4 @@ tags:
 | `Religions` | Sigard, Yerastu, Factar, Laerion, Hydarax, Malahir |
 | `Imports` | Spices, Exotic Goods, Metals, Precious Metals, Silk |
 | `Exports` | Grain, Corn, Livestock, Cloth, Cotton, Pottery, Timber, Ships |
-| `Important Events` | Palaurim Treaty, Naval Battle of Mist, Paraselt Crusade |
+| `Important Events` | Brothers War, Palaurim Treaty, Naval Battle of Mist, Paraselt Crusade |

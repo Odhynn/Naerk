@@ -5,6 +5,8 @@ author: sfakias
 tags:
   - countries/Rammok Wastes
 ---
+
+
 | | |
 | --- | --- |
 | `Climate` | Desert |

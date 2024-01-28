@@ -9,10 +9,10 @@ tags:
 ---
 | | |
 | --- | --- |
-| `Climate` | Warm |
+| `Climate` | Tropical |
 | `Capital` | Sjemhe |
 | `Government` | King Regent |
-| `Languages` | Common, Aquan, Shadow |
+| `Languages` | Common, Aquan, Shadow, Lizardtongue |
 | `Population` | 644000 |
 | `Religions` | Hydarax, Jalerk, Fyrlean, Sennek, Sumril, Sigard, Hansa, Otynhash |
 | `Imports` | Trade Goods, Beer, Gems, Timber, Ships, Olive Oil |
