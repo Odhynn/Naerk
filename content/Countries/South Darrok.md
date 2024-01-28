@@ -9,7 +9,7 @@ tags:
 ---
 | | |
 | --- | --- |
-| `Climate` | Temperate |
+| `Climate` | Inner Sea |
 | `Capital` | Llykavann |
 | `Government` | Governor |
 | `Languages` | Common, Elven |

@@ -9,7 +9,7 @@ tags:
 ---
 | | |
 | --- | --- |
-| `Climate` | Temperate |
+| `Climate` | Inner Sea |
 | `Capital` | Hashnev |
 | `Government` | King |
 | `Languages` | Common, Goblin, Giant, Shadow |
