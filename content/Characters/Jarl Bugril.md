@@ -1,6 +1,6 @@
 ---
 title: Jarl Bugril
-date: 2024-1-20
+date: 2024-01-20
 author: sfakias
 tags:
   - characters/NPCs

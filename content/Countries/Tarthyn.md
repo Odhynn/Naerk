@@ -1,6 +1,6 @@
 ---
 title: Tarthyn
-date: 2024-1-28
+date: 2024-01-28
 author: sfakias
 tags:
   - countries/Tarthyn

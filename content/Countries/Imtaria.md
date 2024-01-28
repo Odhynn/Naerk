@@ -1,6 +1,6 @@
 ---
 title: Imtaria
-date: 2024-1-26
+date: 2024-01-26
 author: sfakias
 tags:
   - countries/Imtaria
