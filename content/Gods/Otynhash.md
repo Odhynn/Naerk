@@ -29,4 +29,4 @@ tags:
 | `Divine Skill` | Athletics |
 | `Favored Weapon` | Greataxe |
 | `Domains` | Ambition, Confidence, Might, Perfection |
-| `Cleric Spells` | 1st: Jump, 2nd: enlarge, 4th: winning streak |
+| `Cleric Spells` | 1st: Jump, 2nd: Enlarge, 4th: Winning Streak |
