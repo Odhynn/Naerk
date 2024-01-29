@@ -9,7 +9,9 @@ tags:
 
 
 ---
-| Patron of Power |
+| | |
+| --- | --- |
+| `"Patron of Power"` |
 | --- | --- |
 | `Category` | [[ demon archlord | archdemon ]], [[Conspirators]] |
 | `Edicts` | Chase power, Elevate above the others, Risk for personal gain |
@@ -20,6 +22,8 @@ tags:
 | `Plane` | [[Abyss]] |
 | --- | --- |
 ---
+| | |
+| --- | --- |
 | `Devotee Benefits` |
 | --- | --- |
 | `Divine Ability` | Bjåglant / Dohjil |
