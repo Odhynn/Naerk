@@ -1,7 +1,7 @@
 ---
 title: Otynhash
-date: 2024-01-19
-author: odysseas
+date: 2024-01-29
+author: sfakas
 tags:
   - gods/archdemons
   - planes/Abyss
@@ -11,7 +11,7 @@ tags:
 ---
 | | |
 | --- | --- |
-| `"Patron of Power"` |
+| "Patron of Power" |
 | `Category` | [[Demon Archlord|Archdemon]], [[Conspirators]] |
 | `Edicts` | Chase power, Elevate above the others, Risk for personal gain |
 | `Portfolio` | Empowerment, Egoism, Evolution, Personal Superiority, Duels, Daring Challenges |
