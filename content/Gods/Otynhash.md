@@ -1,7 +1,7 @@
 ---
 title: Otynhash
 date: 2024-01-29
-author: sfakas
+author: sfakias
 tags:
   - gods/archdemons
   - planes/Abyss
@@ -11,8 +11,8 @@ tags:
 ---
 | | |
 | --- | --- |
-| "Patron of Power" |
-| `Category` | [[Demon Archlord|Archdemon]], [[Conspirators]] |
+| `Title` | "Patron of Power" |
+| `Category` | [[Demon Archlords|Archdemon]], [[Conspirators]] |
 | `Edicts` | Chase power, Elevate above the others, Risk for personal gain |
 | `Portfolio` | Empowerment, Egoism, Evolution, Personal Superiority, Duels, Daring Challenges |
 | `Anathema` | Cowardice, Risk aversion, Procrastination |
@@ -24,7 +24,7 @@ tags:
 | | |
 | --- | --- |
 | `Devotee Benefits` |
-| `Divine Ability` | Bjåglant / Dohjil |
+| `Divine Ability` | Strength or Constitution |
 | `Divine Font` | Heal or Harm |
 | `Divine Skill` | Athletics |
 | `Favored Weapon` | Greataxe |
