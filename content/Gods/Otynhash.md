@@ -12,20 +12,18 @@ tags:
 | | |
 | --- | --- |
 | `"Patron of Power"` |
-| --- | --- |
-| `Category` | [[ demon archlord | archdemon ]], [[Conspirators]] |
+| `Category` | [[Demon Archlord|Archdemon]], [[Conspirators]] |
 | `Edicts` | Chase power, Elevate above the others, Risk for personal gain |
 | `Portfolio` | Empowerment, Egoism, Evolution, Personal Superiority, Duels, Daring Challenges |
 | `Anathema` | Cowardice, Risk aversion, Procrastination |
 | `Followers` | Warlords, Orcs, Giants, Demons |
 | `Pantheon` | Cyclopean, Gnoll, Demonic |
 | `Plane` | [[Abyss]] |
-| --- | --- |
+
 ---
 | | |
 | --- | --- |
 | `Devotee Benefits` |
-| --- | --- |
 | `Divine Ability` | Bjåglant / Dohjil |
 | `Divine Font` | Heal or Harm |
 | `Divine Skill` | Athletics |
