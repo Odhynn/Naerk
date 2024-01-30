@@ -1,5 +1,5 @@
 ---
-title: Otynhash
+title: Xeurim
 date: 2024-01-29
 author: sfakias
 tags:
@@ -12,7 +12,7 @@ tags:
 | | |
 | --- | --- |
 | `Title` | "Two-Faced, Lady of Lust" |
-| `Category` | [[Demon Archlords|Archdemon]], [[Conspirators]] |
+| `Category` | [[Demon Archlords\|Archdemon]], [[Conspirators]] |
 | `Edicts` | Deceive other fools, Manipulate persons of power, Gain influence, Terminate nuisances |
 | `Portfolio` | Manipulation, Deception, Disguise, Murder, Subterfuge, Charm |
 | `Anathema` | Spoil a secret, Ignore an opportunity |

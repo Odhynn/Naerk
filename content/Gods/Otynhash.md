@@ -12,7 +12,7 @@ tags:
 | | |
 | --- | --- |
 | `Title` | "Patron of Power" |
-| `Category` | [[Demon Archlords|Archdemon]], [[Conspirators]] |
+| `Category` | [[Demon Archlords\|Archdemon]], [[Conspirators]] |
 | `Edicts` | Chase power, Elevate above the others, Risk for personal gain |
 | `Portfolio` | Empowerment, Egoism, Evolution, Personal Superiority, Duels, Daring Challenges |
 | `Anathema` | Cowardice, Risk aversion, Procrastination |
