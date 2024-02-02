@@ -26,8 +26,7 @@ function TagContent(props: QuartzComponentProps) {
     (tree as Root).children.length === 0
       ? fileData.description
       : htmlToJsx(fileData.filePath!, tree)
-  const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-  const classes = ["popover-hint", ...cssClasses].join(" ")
+
   if (tag === "/") {
     const tags = [
       ...new Set(
@@ -38,8 +37,9 @@ function TagContent(props: QuartzComponentProps) {
     for (const tag of tags) {
       tagItemMap.set(tag, allPagesWithTag(tag))
     }
+
     return (
-      <div class={classes}>
+      <div class="popover-hint">
         <article>
           <p>{content}</p>
         </article>
@@ -62,13 +62,11 @@ function TagContent(props: QuartzComponentProps) {
                   </a>
                 </h2>
                 {content && <p>{content}</p>}
-                <div class="page-listing">
-                  <p>
-                    {pluralize(pages.length, "item")} with this tag.{" "}
-                    {pages.length > numPages && `Showing first ${numPages}.`}
-                  </p>
-                  <PageList limit={numPages} {...listProps} />
-                </div>
+                <p>
+                  {pluralize(pages.length, "item")} with this tag.{" "}
+                  {pages.length > numPages && `Showing first ${numPages}.`}
+                </p>
+                <PageList limit={numPages} {...listProps} />
               </div>
             )
           })}
@@ -83,13 +81,11 @@ function TagContent(props: QuartzComponentProps) {
     }
 
     return (
-      <div class={classes}>
+      <div class="popover-hint">
         <article>{content}</article>
-        <div class="page-listing">
-          <p>{pluralize(pages.length, "item")} with this tag.</p>
-          <div>
-            <PageList {...listProps} />
-          </div>
+        <p>{pluralize(pages.length, "item")} with this tag.</p>
+        <div>
+          <PageList {...listProps} />
         </div>
       </div>
     )

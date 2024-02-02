@@ -2,22 +2,11 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore
 import script from "./scripts/search.inline"
-import { classNames } from "../util/lang"
 
-export interface SearchOptions {
-  enablePreview: boolean
-}
-
-const defaultOptions: SearchOptions = {
-  enablePreview: true,
-}
-
-export default ((userOpts?: Partial<SearchOptions>) => {
+export default (() => {
   function Search({ displayClass }: QuartzComponentProps) {
-    const opts = { ...defaultOptions, ...userOpts }
-
     return (
-      <div class={classNames(displayClass, "search")}>
+      <div class={`search ${displayClass ?? ""}`}>
         <div id="search-icon">
           <p>Search</p>
           <div></div>
@@ -46,7 +35,7 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label="Search for something"
               placeholder="Search for something"
             />
-            <div id="search-layout" data-preview={opts.enablePreview}></div>
+            <div id="results-container"></div>
           </div>
         </div>
       </div>
