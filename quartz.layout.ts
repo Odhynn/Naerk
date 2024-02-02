@@ -31,7 +31,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     // Component.DesktopOnly(Component.Wikitable()),
-    Component.Graph(),
+    // Component.Graph(),
+    // Component.Properties(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
     Component.MobileOnly(Component.Explorer()),
