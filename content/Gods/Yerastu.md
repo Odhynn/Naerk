@@ -18,7 +18,7 @@ tags:
 | `Anathema` | Raise Undead, Break time or space, Steal soul |
 | `Followers` | Pilgrims, Guardians, Sages, [[Baelarch]], [[Gatewatch]], [[Sapphire Guard]] |
 | `Pantheon` | [[The Just]] |
-| `Plane` | [[Tailway]] |
+| `Plane` | [[Tailway]], [[Fortress of the Just]] |
 
 ---
 | | |

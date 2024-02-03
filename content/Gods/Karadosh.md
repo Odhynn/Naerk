@@ -27,6 +27,6 @@ tags:
 | `Divine Ability` | Strength or Dexterity |
 | `Divine Font` | Harm |
 | `Divine Skill` | Survival |
-| `Favored Weapon` | Jaws or Handaxe |
+| `Favored Weapon` | Jaws or Hatchet |
 | `Domains` | Ambition, Decay, Destruction, Might, Moon, Nature, Pain |
 | `Cleric Spells` | 1st: Pass Without Trace, 4th: Beastial Curse, 5th: Moon Frenzy |
