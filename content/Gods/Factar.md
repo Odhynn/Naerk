@@ -16,7 +16,7 @@ tags:
 | `Edicts` | Help those in need, Humility, Aid by example |
 | `Portfolio` | Healing, Farming, Fertility, Wanderers, Poor |
 | `Anathema` | Αrrogance, Egotism above others, Cold shoulder |
-| `Followers` | Hospitalers, Healers, Pilgrims, Priests, Farmers, Midwives, Herbalists, [[Green Hills]], [[Luminous Order]] |
+| `Followers` | Hospitalers, Healers, Pilgrims, Travelers, Midwives, Herbalists, Priests, Commonfolk, [[Luminous Order]] |
 | `Pantheon` | Luminous Walkers |
 | `Plane` | [[Golden Palace]] |
 
@@ -24,7 +24,7 @@ tags:
 | | |
 | --- | --- |
 | `Devotee Benefits` |
-| `Divine Ability` | Intelligence or Wisdom |
+| `Divine Ability` | Wisdom or Charisma |
 | `Divine Font` | Heal |
 | `Divine Skill` | Medicine |
 | `Favored Weapon` | Sickle |

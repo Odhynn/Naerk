@@ -18,7 +18,7 @@ tags:
 | `Anathema` | Cowardice, Dishonor, Knavery |
 | `Followers` | Warriors, Paladins, Knights, Guards, Hospitalers, Templars, [[Green Hills]], [[Luminous Order]], [[Luminous Sword]] |
 | `Pantheon` | Luminous Walkers |
-| `Plane` | [[Golden Palace]] |
+| `Plane` | [[Fortress of the Just]] |
 
 ---
 | | |

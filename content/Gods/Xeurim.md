@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Harm |
 | `Divine Skill` | Deception |
 | `Favored Weapon` | Dagger |
-| `Domains` | Ambition, Cities, Change, Passion, Secrecy |
+| `Domains` | Ambition, Cities, Change, Passion, Secrecy, Wealth |
 | `Cleric Spells` | 1st: Illusory Disguise, 3rd: Sculpt Sound, 4th: Modify Memory |

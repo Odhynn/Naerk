@@ -8,12 +8,11 @@ tags:
   - planes/Utopia
 
 
-
 ---
 | | |
 | --- | --- |
 | `Title` | "The Elevated Spirit", "Inner Self" |
-| `Category` | - |
+| `Category` | Primordial |
 | `Edicts` | Self-Perfection, Path to clarity, Sense of purpose |
 | `Portfolio` | Limpidity, Personal struggle, Purity, Harmony |
 | `Anathema` | Procrastination, Indolence, Recklessness |

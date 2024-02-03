@@ -7,6 +7,7 @@ tags:
 
 
 
+
 ---
 | | |
 | --- | --- |
@@ -27,5 +28,5 @@ tags:
 | `Divine Font` | Heal or Harm |
 | `Divine Skill` | Religion |
 | `Favored Weapon` | Longsword |
-| `Domains` | Duty, Protection, Repose, Soul, Truth, Vigil |
+| `Domains` | Duty, Fate, Protection, Repose, Soul, Truth, Vigil |
 | `Cleric Spells` | 1st: True Strike, 3rd: Ghostly Weapon, 9th: Summon Irii |
