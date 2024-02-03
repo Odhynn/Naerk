@@ -2,6 +2,11 @@
 title: Naerk Wiki
 ---
 
-🚧 WIP
+## Fantasy Worldbuilding Project
 
-- Quartz [documentation](https://quartz.jzhao.xyz)
+- #gods
+- #countries
+- #characters
+- #factions
+
+original material: [Naerk Blogspot](http://aclashofstoneandsteel.blogspot.com/) 
