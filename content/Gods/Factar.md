@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Heal |
 | `Divine Skill` | Medicine |
 | `Favored Weapon` | Sickle |
-| `Domains` | Cities, Family, Healing, Protection, Sun, Travel |
+| `Domains` | Cities, Family, Healing, Protection, Sun, Travel, Wood |
 | `Cleric Spells` | 1st: Soothe, 3rd: Cozy Cabin, 6th: Collective Transposition |
