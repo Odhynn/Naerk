@@ -10,7 +10,7 @@ tags:
 | | |
 | --- | --- |
 | `Climate` | Continental Cold, Taiga |
-| `Capital` | Kranårvick |
+| `Capital` | - |
 | `Government` | Tribal Monarchy |
 | `Languages` | Common, Giant, Elvish, Orcish |
 | `Population` | 560000 |

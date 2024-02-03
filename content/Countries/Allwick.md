@@ -10,7 +10,7 @@ tags:
 | | |
 | --- | --- |
 | `Climate` | Arid Desert |
-| `Capital` | Xe'Farom |
+| `Capital` | - |
 | `Government` | Loose |
 | `Languages` | Common, Auran, Ignan, Gnoll, Shadow |
 | `Population` | Unknown, at least 580000 |

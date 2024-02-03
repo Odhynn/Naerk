@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Harm |
 | `Divine Skill` | Intimidation |
 | `Favored Weapon` | Greataxe |
-| `Domains` | Abomination, Duty, Fire, Pain, Tyranny, Zeal |
+| `Domains` | Abomination, Delirium, Duty, Fire, Pain, Tyranny, Zeal |
 | `Cleric Spells` | 1st: Phantom Pain, 2nd: Slough Skin, 4th: Crushing Despair |

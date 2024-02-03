@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Heal or Harm |
 | `Divine Skill` | Athletics |
 | `Favored Weapon` | Trident |
-| `Domains` | Healing, Nature, Travel, Water |
+| `Domains` | Cold, Healing, Nature, Travel, Water |
 | `Cleric Spells` | 1st: Hydraulic Push, 3rd: Feet to Fins, 5th: Control Water |

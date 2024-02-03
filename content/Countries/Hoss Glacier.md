@@ -1,5 +1,5 @@
 ---
-title: Hoss
+title: Hoss Glacier
 date: 2024-01-28
 author: sfakias
 tags:

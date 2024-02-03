@@ -1,5 +1,5 @@
 ---
-title: Xeurim
+title: Xeurim-Xaurim
 date: 2024-01-29
 author: sfakias
 tags:
@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Harm |
 | `Divine Skill` | Deception |
 | `Favored Weapon` | Dagger |
-| `Domains` | Ambition, Cities, Change, Passion, Secrecy, Wealth |
+| `Domains` | Ambition, Cities, Change, Darkness, Passion, Secrecy, Wealth |
 | `Cleric Spells` | 1st: Illusory Disguise, 3rd: Sculpt Sound, 4th: Modify Memory |
