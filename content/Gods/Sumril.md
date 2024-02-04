@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Limpidity, Personal struggle, Purity, Harmony |
 | `Anathema` | Procrastination, Indolence, Recklessness |
 | `Followers` | Wanderers, Monks, Disciples, Acolytes, Seekers, Selanahri, Hithlen |
-| `Pantheon` | [[Divinalis]], [[Sapphire Guard]] |
+| `Pantheon` | [[Divinalis]], [[Sapphire Guard]], Hithlen |
 | `Plane` | [[Utopia]] |
 
 ---

@@ -16,7 +16,7 @@ tags:
 | `Edicts` | Steadfast determination, Stability, Strong foundations |
 | `Portfolio` | Earth, Minerals, Stone, Masonry |
 | `Anathema` | Create deliberate inferior works, Blend metal alloys into weaker |
-| `Followers` | Mountaineers, masons, smiths, engineers, stonefolk, giants, dwarves |
+| `Followers` | Mountaineers, masons, smiths, engineers, stonefolk, giants, titans, dwarves |
 | `Pantheon` | Dwarven, Giant |
 | `Plane` | [[Elemental Ring]] |
 

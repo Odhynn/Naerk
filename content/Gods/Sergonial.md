@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Chain of command, Army discipline, Obey laws and superiors, Scrolls of the Supreme Tyrant |
 | `Anathema` | Disobedience to superiors, Subordinate revolt and anarchy |
 | `Followers` | Tyrrants, Soldiers, Commanders, [[Kenorex]], [[Kambah]], dark elves |
-| `Pantheon` | Kenorex, Kambah, dark elf |
+| `Pantheon` | Kenorex, Kambah, Dark Elf |
 | `Plane` | [[Hell]] |
 
 ---

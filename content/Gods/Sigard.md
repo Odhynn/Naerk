@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Reconciliation, Honesty, Peace, Lawkeeping |
 | `Anathema` | War, Violence |
 | `Followers` | Knights, officers, judges, priests, frontier commonfolk |
-| `Pantheon` | [[Divinalis]] |
+| `Pantheon` | [[Divinalis]], [[The Just]] |
 | `Plane` | [[Golden Palace]] |
 
 ---

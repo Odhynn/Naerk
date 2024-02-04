@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Animals, Plants, Life, Harmony |
 | `Anathema` | Wanton killing, Deliberate forest destruction, Nature polution, Undead creation |
 | `Followers` | Druids, woodsmen, herbalists, rangers, wild folk, numerous tribes, plant creatures, elves, gnomes, fey |
-| `Pantheon` | Druidic, Elven |
+| `Pantheon` | Druidic, Elven, Luminous Walkers, Leshy |
 | `Plane` | [[Evergrowing Forest]] |
 
 ---

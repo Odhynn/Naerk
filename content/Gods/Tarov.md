@@ -18,7 +18,7 @@ tags:
 | `Anathema` | Ley line destruction, Secret breaking |
 | `Followers` | Miners, seekers, acolytes, tribes, dwarves, gnomes, stone creatures, Deep races |
 | `Pantheon` | Gnome, tribal |
-| `Plane` | [[Evergrowing Forest]], [[Elemental Plane]] |
+| `Plane` | [[Evergrowing Forest]], [[Elemental Ring]] |
 
 ---
 | | |
