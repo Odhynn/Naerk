@@ -16,8 +16,8 @@ tags:
 | `Edicts` | Warfare, Valiant Combat, Loyalty |
 | `Portfolio` | War, Tactics, Resolve, Altruism |
 | `Anathema` | Flee from battle, Abandon an injured |
-| `Followers` | Warriors, generals, footmen, defenders, dwarves, North Darrok |
-| `Pantheon` | Dwarven |
+| `Followers` | Warriors, generals, footmen, defenders, dwarves, halflings, North Darrok |
+| `Pantheon` | Dwarven, Halfling |
 | `Plane` | [[Kelzadam]] |
 
 ---
