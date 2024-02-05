@@ -14,7 +14,7 @@ tags:
 | `Title` | "Life Giver" |
 | `Category` | Primordial |
 | `Edicts` | Bring life, Protect living souls, Circle of life |
-| `Portfolio` | Animals, Plants, Life, Harmony |
+| `Portfolio` | Animals, Plants, Life, Harmony, forests, ecosystems |
 | `Anathema` | Wanton killing, Deliberate forest destruction, Nature polution, Undead creation |
 | `Followers` | Druids, woodsmen, herbalists, rangers, wild folk, numerous tribes, plant creatures, elves, gnomes, fey |
 | `Pantheon` | Druidic, Elven, Luminous Walkers, Leshy |

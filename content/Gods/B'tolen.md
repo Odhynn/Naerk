@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Unbound travel, Learning, Luck, Exploration |
 | `Anathema` | Permanent settlers |
 | `Followers` | Travelers, wanderers, pilgrims, sailors, elves, tribes |
-| `Pantheon` | Tribal, Elven |
+| `Pantheon` | Tribal, Elven, Druidic |
 | `Plane` | [[Evergrowing Forest]] |
 
 ---

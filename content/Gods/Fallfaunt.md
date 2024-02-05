@@ -13,7 +13,7 @@ tags:
 | --- | --- |
 | `Title` | "Snow's Softness" |
 | `Category` | Aspects |
-| `Edicts` | Cruelty of Cold, Lovestroke, Endurance  |
+| `Edicts` | Cruelty of Cold, Lovestroke, Endurance |
 | `Portfolio` | Lust, Perdition, Sorrow, Preservance |
 | `Anathema` | Change way of life, find new love |
 | `Followers` | Cold sailors, mountaineers, giants, frost creatures, elves, [[Hoss Glacier]] |

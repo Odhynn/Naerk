@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Heal |
 | `Divine Skill` | Arcana |
 | `Favored Weapon` | Quarterstaff |
-| `Domains` | Dreams, Introspection, Magic, Perfection, Protection, Soul, Truth |
+| `Domains` | Dreams, Introspection, Magic, Perfection, Repose, Soul, Truth |
 | `Cleric Spells` | 1st: True Strike, 2nd: Comprehend Language, 4th: Clairvoyance |
