@@ -24,12 +24,12 @@ wiki:
   residence: '[[Kranårvikk]]'
 ---
 
-> [!attributes]+ male dwarf alchemist
+> [!attributes]+ Mordrydd Emberbeard
 > > [!grid]
 > > 
 > > ![[../img/Mordrydd-20240205.jpg]]
 > 
-> > [!quote]+ Characteristics
+> > [!quote]+ male dwarf alchemist
 > >
 > > | | |
 > > | --- | --- |
@@ -46,6 +46,12 @@ wiki:
 > > | allegiance | Dohjil |
 > > | residence | Kranårvikk |
 > > | band | Champions of the North |
+
+> [!quote] 
+> Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω.
+> Θες ένα μηλίτη αρκετά τούμπανο ώστε να ξυπνήσεις στο Κάρροχ το επόμενο πρωί αγκαλιά με μια γίδα και δυο σακκιά πατάτες; Έχω.
+> Θες αλοιφή για την αλωπεκιασμένη γενειάδα της μανούλας σου; Κι αυτό το έχω.
+> Με κάθε αγορά μια μπόμπα δώρο για να καλημερίσεις τον ενοχλητικό σου γείτονα.
 
 ## Background
 
@@ -70,9 +76,3 @@ After the first explosion (which was [[a-bad-day-for-shopping|technically not hi
 In the Gathering under the [[Torniv]] on 1 Rainfalls 4818, to his surprise he won the lottery and was chosen as a Champion of the North, representing the [[Dohjil]] tribe.
 Many jeers were heard that he, a foreigner, would be picked for this otherwise supposedly ceremonial honour; his reactionary attitude towards traditions was overcome by the desire to shut everyone's mouth, and he accepted the mantle.
 Ever since, he has been roaming around with the other chosen, on a quest to prove to the [[Aspects]] that the North is not completely beyond redemption. 
-
-> [!quote] 
-> Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω.
-> Θες ένα μηλίτη αρκετά τούμπανο ώστε να ξυπνήσεις στο Κάρροχ το επόμενο πρωί αγκαλιά με μια γίδα και δυο σακκιά πατάτες; Έχω.
-> Θες αλοιφή για την αλωπεκιασμένη γενειάδα της μανούλας σου; Κι αυτό το έχω.
-> Με κάθε αγορά μια μπόμπα δώρο για να καλημερίσεις τον ενοχλητικό σου γείτονα.
