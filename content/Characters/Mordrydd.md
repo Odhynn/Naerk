@@ -49,22 +49,21 @@ wiki:
 
 ## Background
 
-Mordrydd was born in the early winter of 4756 in the mixed dwarven/human town of Thyrskogen, in the wooded heartlands of Bjåglant.
+Mordrydd was born in the early winter of 4756 in the mixed dwarven/human town of Thyrskogen, in the wooded heartlands of [[Bjåglant]].
 Following in the long tradition of Clan Emberbeard, he studied alchemy, developing a particular penchant for reactive materials.
 
 ### Service in the Arrival Wars
 
-Around the turn of the millenium when the Bjåglanders clashed with the Sennarii over territory, Mordrydd deployed in one of the abandoned riverside villages on the south frontier of the Athar Hunting Grounds, as a footsman in the 32nd Sappers.
-The stream that crossed the village flowed down into the Draugrelfr, but the bloody conflict there was unlikely to reach that far north. The upstream terrain was very rugged however, and the village boasted the only bridge for many miles, so the 32nd Sappers were stationed there to guard against any flanking operations. 
-Tasked with the guarding of this humble yet very strategic crossing, they dug in and watched the days go by, more cautious about stray oni or karpanthr at their rear than the Sennarii.
+Around the turn of the millenium when the Bjåglanders clashed with the Sennarii over territory, Mordrydd deployed in one of the abandoned riverside villages on the south frontier of the [[Athar]] Hunting Grounds, as a footsman in the 32nd Sappers.
+The stream that crossed the village flowed down into the Draugrelfr, the bloody conflict there unlikely to reach that far north. The upstream terrain was very rugged however, and the village had the only bridge for many miles. Stationed there to guard against any flanking operations, the 32nd Sappers dug in and watched the days go by, more cautious about stray oni or karpanthr at their rear than the Sennarii.
 Their posting turned out to have much merit: in 23 Seedsowing 4803 a detachment of Sennari cavalry unexpectedly appeared and attempted to cross and seize the village.
-Before they could cross however, Mordrydd blew up the bridge out of his own initiative. For this he was initially chastised, then promoted to Lance Bombardier.
+Before they could get to the Bjåglander side however, Mordrydd blew up the bridge out of his own initiative, taking one or two of the first riders with it. For this he was initially chastised for acting without orders, then promoted to Lance Bombardier.
 
 ## Korhond
 
 After chafing against the traditional outlook of his family, Mordrydd departed from Bjåglant on a [[Nagstad]] ship, eventually ending up in Belgosreim.
 After travelling along the coast a while and subsisting by selling medicines and salves, he settled in [[Krannårvikk]], where he opened up an alchemical shop. While the potions and salves remained his most basic source of income, reactive materials and bombs remained his passion, and the shop blew up twice during his stay.
-After the first explosion (which was technically not his fault), he was hired as a pharmacist and physician by [[Jarl Bugril]]'s to tend to him and his [[Folegg Bugrilson|sickly son]].
+After the first explosion (which was [[a-bad-day-for-shopping|technically not his fault]]), he was hired as a pharmacist and physician by [[Jarl Bugril]]'s to tend to him and his [[Folegg Bugrilson|sickly son]].
 
 ## Champion of the North
 
