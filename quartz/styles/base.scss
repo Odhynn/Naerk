@@ -4,7 +4,6 @@
 
 html {
   scroll-behavior: smooth;
-  -webkit-text-size-adjust: none;
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
@@ -21,7 +20,7 @@ section {
 }
 
 .text-highlight {
-  background-color: #ffab3688; // #fff23688
+  background-color: #fff23688;
   padding: 0 0.1rem;
   border-radius: 5px;
 }
@@ -65,7 +64,6 @@ a {
   }
 
   &.internal {
-    font-weight: normal;
     text-decoration: none;
     background-color: var(--highlight);
     padding: 0 0.1rem;
@@ -76,6 +74,15 @@ a {
       background-color: none;
       border-radius: 0;
       padding: 0;
+    }
+  }
+
+  &.external .external-icon {
+    height: 1ex;
+    margin: 0 0.15em;
+
+    > path {
+      fill: var(--dark);
     }
   }
 }
@@ -269,7 +276,6 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
-    display: inline-block;
     font-family: var(--codeFont);
     user-select: none;
   }
@@ -348,6 +354,7 @@ pre {
     counter-increment: line 0;
     display: grid;
     padding: 0.5rem 0;
+    overflow-x: scroll;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);
