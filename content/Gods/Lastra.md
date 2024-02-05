@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Glaive |
 | `Domains` | Family, Nature, Protection, Swarm, Trickery |
 | `Cleric Spells` | 1st: Summon Animal, 2nd: Pack Attack, 3th: Nondetection |
+
+> [!quote] 
+>"We hunt as one."

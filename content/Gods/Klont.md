@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Maul |
 | `Domains` | Earth, Creation, Fire, Metal, Toil |
 | `Cleric Spells` | 1st: Forge, 2nd: Heat Metal, 5th: Mantle of the Melting Heart |
+
+> [!quote] 
+>"I crafted my hammer, the First One. I built mountains, I built cliffs. I built stout folk and gave them weapons and armor. And thus, after all these millenia, my service is no longer needed."

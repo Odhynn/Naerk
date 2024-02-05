@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Bladed Scarf |
 | `Domains` | Change, Freedom, Knowledge, Luck, Magic, Time, Travel |
 | `Cleric Spells` | 1st: Illusory Disguise, 2nd: Mirror Image, 4th: Dimension Door |
+
+> [!quote] 
+>“Our self-realization is the most beautiful lie there is. I am the most conceited and prime liar. Lies are the enemy of stagnation and my self-salvation. How could we appreciate the shining beauty of my house of lies,” spoke Yushan, arching his supple back, “if there was always such a house? How could we appreciate [[Hansa]] if there was always such a Hansa?”

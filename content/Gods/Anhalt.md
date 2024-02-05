@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Warhammer |
 | `Domains` | Confidence, Duty, Fire, Might, Protection, Vigil, Zeal |
 | `Cleric Spells` | 1st: True Strike, 4th: Fire Shield, 5th: Mantle of the Magma Heart |
+
+> [!quote] 
+>"Eat this, fiend!"

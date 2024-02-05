@@ -1,5 +1,5 @@
 ---
-title: B'tolen
+title: Berohath
 date: 2024-02-05
 author: sfakias
 tags:
@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Dagger |
 | `Domains` | Darkness, Luck, Moon, Secrecy, Trickery |
 | `Cleric Spells` | 1st: Invisible Item, 2nd: Invisibility, 5th: Chameleon Coat |
+
+> [!quote] 
+>"In the dark of the moon, one cannot tell a fox from an owl. But the fox and the owl both know."
