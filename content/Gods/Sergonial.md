@@ -30,3 +30,6 @@ tags:
 | `Favored Weapon` | Halberd |
 | `Domains` | Ambition, Duty, Might, Truth, Tyranny |
 | `Cleric Spells` | 1st: Charm, 2nd: Blistering Invective, 4th: Clairvoyance |
+
+> [!quote] 
+>"We will make our own world, a Just one, as it should be! We will make it with the experience we have gained, we will regroup and we will become more numerous. And then, neither God nor Demon will be able to treat us as inferiors!"
