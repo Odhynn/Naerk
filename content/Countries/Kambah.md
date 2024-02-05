@@ -14,7 +14,7 @@ tags:
 | `Government` | Tyrrant |
 | `Languages` | Common, Orc, Goblin, Giant |
 | `Population` | 1600000 |
-| `Religions` | Sergonial, Veiroch, Drokasner, Fyrlean |
+| `Religions` | [[Sergonial]], [[Veiroch]], [[Drokasner]], [[Fyrlean]] |
 | `Imports` | Iron Ore, Armor, Weapons, Fruits, Vegetables, Wine |
 | `Exports` | Slaves, Beer, Ships, Jewelry, Timber |
 | `Important Events` | Naval Victory of Mist Sea, War of Karahath, The Defeated Army, Tarthyn Invasion |

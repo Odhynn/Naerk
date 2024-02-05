@@ -14,7 +14,7 @@ tags:
 | `Government` | Queen |
 | `Languages` | Elven |
 | `Population` | 470000 |
-| `Religions` | Malahir, Valanshore, B'tolen, Vol'rek |
+| `Religions` | [[Malahir]], [[Valanshore]], [[B'tolen]], [[Vol'rek]] |
 | `Imports` | Ore, Salt, Marble, Ivory |
 | `Exports` | Woodwork, Fruits, Magic Items, Alchemical Materials, Herbs, Wine, Ale |
 | `Important Events` | Elvehnans rise and fall, Nature rebirth, Hithlen Expansion, Sylvanaya and Silvertails |

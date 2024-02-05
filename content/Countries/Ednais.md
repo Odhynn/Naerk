@@ -14,7 +14,7 @@ tags:
 | `Government` | Draconic Oligarchy |
 | `Languages` | Draconic |
 | `Population` | 288000 |
-| `Religions` | Klemnestron, Amehan |
+| `Religions` | [[Klemnestron]], [[Amehan]] |
 | `Imports` | Meat, Livestock, Gold, Gems, Pearls, Slaves |
 | `Exports` | Weapons, Timber, Grain, Oats, Potato |
 | `Important Events` | Draconic Rampage, Blaburry Expansion |

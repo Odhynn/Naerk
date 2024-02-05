@@ -12,7 +12,7 @@ tags:
 | `Government` | Clan Oligarchy |
 | `Languages` | Common, Elven |
 | `Population` | 80000 |
-| `Religions` | Yerastu, Hansa, Sumril, Reszek |
+| `Religions` | [[Yerastu]], [[Hansa]], [[Sumril]], [[Reszek]] |
 | `Imports` | Livestock, Fruit |
 | `Exports` | Forged Metals, Grain |
 

@@ -14,7 +14,7 @@ tags:
 | `Government` | King |
 | `Languages` | Common, Halfling |
 | `Population` | 415000 |
-| `Religions` | Laerion, Factar, Malahir, Yerastu |
+| `Religions` | [[Laerion]], [[Factar]], [[Malahir]], [[Yerastu]] |
 | `Imports` | Iron, Timber, Exotic Goods, Fruits, Beer |
 | `Exports` | Horses, Livestock, Grain, Corn |
 | `Important Events` | Shadowflame Wars |

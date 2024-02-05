@@ -13,7 +13,7 @@ tags:
 | `Government` | Monarchy |
 | `Languages` | Common, Giant, Elvish, Orcish, Goblin |
 | `Population` | 89000 |
-| `Religions` | Fallfaunt, Drokasner, Jalerk, Amehan |
+| `Religions` | [[Fallfaunt]], [[Drokasner]], [[Jalerk]], [[Amehan]] |
 | `Imports` | Food, Pottery, Livestock, Ale |
 | `Exports` | Fish, Whale Oil, Furs, Gems, Metals, Armor, Weapons |
 | `Important Events` | White Marvel, Wendigo Threat |

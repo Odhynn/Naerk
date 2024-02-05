@@ -14,7 +14,7 @@ tags:
 | `Government` | Queen |
 | `Languages` | Aquan |
 | `Population` | 55000 |
-| `Religions` | Jalerk |
+| `Religions` | [[Jalerk]] |
 | `Imports` | Slaves, Forged Metals |
 | `Exports` | Slaves, Fish, Exotic Weapons, Pearls Mercenaries, Sailors, Pirates |
 | `Important Events` | Raiding Pirates |

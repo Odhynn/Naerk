@@ -14,7 +14,7 @@ tags:
 | `Government` | King |
 | `Languages` | Giant, Orcish, Goblin |
 | `Population` | Unknown |
-| `Religions` | Drokasner, Tarov, Fallfaunt, Amehan |
+| `Religions` | [[Drokasner]], [[Tarov]], [[Fallfaunt]], [[Amehan]] |
 | `Imports` | Grain, Livestock, Ale, Beer, Wine |
 | `Exports` | Slaves, Mercenaries, Furs, Jewelry, Forged Metals, Weapons |
 | `Important Events` | Gadrunen Empire |

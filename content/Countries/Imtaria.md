@@ -14,7 +14,7 @@ tags:
 | `Government` | Emperor |
 | `Languages` | Common, Aquan, Gnome |
 | `Population` | 5400000 |
-| `Religions` | Sigard, Yerastu, Factar, Laerion, Hydarax, Malahir |
+| `Religions` | [[Sigard]], [[Yerastu]], [[Factar]], [[Laerion]], [[Hydarax]], [[Malahir]] |
 | `Imports` | Spices, Exotic Goods, Metals, Precious Metals, Silk |
 | `Exports` | Grain, Corn, Livestock, Cloth, Cotton, Pottery, Timber, Ships |
 | `Important Events` | Brothers War, Palaurim Treaty, Naval Battle of Mist, Paraselt Crusade |

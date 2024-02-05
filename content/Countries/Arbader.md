@@ -14,7 +14,7 @@ tags:
 | `Government` | King |
 | `Languages` | Common, Goblin, Giant, Shadow |
 | `Population` | 870000 |
-| `Religions` | Sergonial, Xeurim, Sennek, Berohath, Factar |
+| `Religions` | [[Sergonial]], [[Xeurim]], [[Sennek]], [[Βerohath]], [[Factar]] |
 | `Imports` | Wool, Oil, Spices, Timber |
 | `Exports` | Gold, Jewelry,  Grain, Wine |
 | `Important Events` | Decade War with South Darrok, Recent Revolt |

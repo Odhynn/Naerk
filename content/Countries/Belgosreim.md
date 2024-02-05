@@ -14,7 +14,7 @@ tags:
 | `Government` | Tribal Monarchy |
 | `Languages` | Common, Giant, Elvish, Orcish, Goblin |
 | `Population` | 249000 |
-| `Religions` | Jalerk, Drokasner, Fallfaunt, Crel'vach, Huntsman |
+| `Religions` | [[Jalerk]], [[Drokasner]], [[Fallfaunt]], [[Crel'vach]], [[Huntsman]] |
 | `Imports` | Fruit, Silk, Precious Metals, Olive Oil, Beer |
 | `Exports` | Fish, Whale Oil, Timber, Tamed Beasts, Ships, Sailors |
 | `Important Events` | Clapten Siege, Kraken Attack |

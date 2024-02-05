@@ -12,7 +12,7 @@ tags:
 | `Government` | Confederate Oligarchy |
 | `Languages` | Common, Elven, Halfling,  |
 | `Population` | 80000 |
-| `Religions` | Jalerk, Yerastu, Sennek, Hydarax, Yushan, Drokasner, Klemnestron |
+| `Religions` | [[Jalerk]], [[Yerastu]], [[Sennek]], [[Hydarax]], [[Yushan]], [[Drokasner]], [[Klemnestron]] |
 
 - an informal collection of maritime settlements, merchant colonies, and pirate strongholds
 
