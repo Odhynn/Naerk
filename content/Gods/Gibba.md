@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Earth, Minerals, Stone, Masonry |
 | `Anathema` | Create deliberate inferior works, Blend metal alloys into weaker |
 | `Followers` | Mountaineers, masons, smiths, engineers, stonefolk, giants, titans, dwarves |
-| `Pantheon` | Dwarven, Giant |
+| `Pantheon` | Dwarven |
 | `Plane` | [[Elemental Ring]] |
 
 ---

@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Healing, Farming, Fertility, Wanderers, Poor |
 | `Anathema` | Αrrogance, Egotism above others, Cold shoulder |
 | `Followers` | Hospitalers, Healers, Pilgrims, Travelers, Midwives, Herbalists, Priests, Commonfolk, [[Luminous Order]] |
-| `Pantheon` | Luminous Walkers |
+| `Pantheon` | Luminous Walkers, halfling |
 | `Plane` | [[Golden Palace]] |
 
 ---

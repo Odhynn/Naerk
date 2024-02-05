@@ -5,7 +5,7 @@ author: sfakias
 tags:
   - gods/Ascended
   - planes/Kelzadam
-  - planes/[[Fortress of the Just]]
+  - planes/Fortress of the Just
 
 
 ---

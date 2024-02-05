@@ -28,5 +28,5 @@ tags:
 | `Divine Font` | Heal or Harm |
 | `Divine Skill` | Occultism |
 | `Favored Weapon` | Spiked Chain |
-| `Domains` | Abomination, Delirium, Healing, Nightmares, Pain, Sorrow, Zeal |
+| `Domains` | Abomination, Delirium, Healing, Nightmares, Pain, Sorrow, Undeath |
 | `Cleric Spells` | 1st: Endure, 5th: Ectoplasmic Expulsion, 9th: Unspeakable Shadow |

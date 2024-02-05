@@ -17,7 +17,7 @@ tags:
 | `Portfolio` | Fire, Forges, Lava, Liberation |
 | `Anathema` | Quenching a fire, Stop a riot |
 | `Followers` | Renegades, smiths, acolytes, alchemists, firefolk, Flame Gulf, Demorado |
-| `Pantheon` | Elemental |
+| `Pantheon` | Elemental, Dark Elf |
 | `Plane` | [[Elemental Ring]] |
 
 ---

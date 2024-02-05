@@ -11,7 +11,7 @@ tags:
 ---
 | | |
 | --- | --- |
-| `Title` | "Two-Faced, Lady of Lust" |
+| `Title` | "Two-Faced", "Lady of Lust" |
 | `Category` | [[Demon Archlords\|Archdemon]], [[Conspirators]] |
 | `Edicts` | Deceive other fools, Manipulate persons of power, Gain influence, Terminate nuisances |
 | `Portfolio` | Manipulation, Deception, Disguise, Murder, Subterfuge, Charm |

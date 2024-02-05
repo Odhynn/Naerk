@@ -3,7 +3,7 @@ title: Volrek
 date: 2024-02-03
 author: sfakias
 tags:
-  - gods/Aspect
+  - gods/Aspects
   - planes/Evergrowing Forest
 
 
@@ -12,7 +12,7 @@ tags:
 | | |
 | --- | --- |
 | `Title` | "Tree Fluid" |
-| `Category` | Aspect |
+| `Category` | Aspects |
 | `Edicts` | Vitality and health, Plant Life, Photosynthesis |
 | `Portfolio` | Plants, Roots, Ley Lines, Connection of living and inanimate |
 | `Anathema` | Tree razing, Unnatural forest fires, Plagues, Undead creation |

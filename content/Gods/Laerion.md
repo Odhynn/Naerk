@@ -5,7 +5,7 @@ author: sfakias
 tags:
   - gods/Ascended
   - planes/Golden Palace
-
+  - planes/Fortress of the Just
 
 
 ---
