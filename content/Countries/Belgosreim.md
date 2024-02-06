@@ -18,3 +18,5 @@ tags:
 | `Imports` | Fruit, Silk, Precious Metals, Olive Oil, Beer |
 | `Exports` | Fish, Whale Oil, Timber, Tamed Beasts, Ships, Sailors |
 | `Important Events` | Clapten Siege, Kraken Attack |
+
+A cold, inhospitable tundra full of great linnorms, frost giants, goblins and orc tribes. Home to the dreadful acolytes of [[Twilight Veil]]. On the western shores lies the whaler town of [[Clapten]]. Kraken and other sea monsters have plagued these frozen reaches and there are many instances of such attacks on ships and ports.
