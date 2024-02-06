@@ -1,5 +1,6 @@
 ---
 title: Mordrydd Emberbeard
+subtitle: male dwarf alchemist
 date: 2024-01-19
 author: odysseas
 tags:
@@ -8,7 +9,6 @@ tags:
   - factions/Dohjil
   - countries/Korhond
   - countries/Bjåglant
-subtitle: male dwarf alchemist
 wiki:
   gender: male
   ancestry: dwarf
@@ -19,7 +19,7 @@ wiki:
   residence: Kranårvikk
 ---
 
-> [!attributes]+ Mordrydd Emberbeard
+> [!attributes] Mordrydd Emberbeard
 > > [!grid]
 > > 
 > > ![[../img/Mordrydd-20240205.jpg]]
