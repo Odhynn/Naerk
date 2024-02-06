@@ -3,7 +3,7 @@ title: Water Quarter
 date: 2024-02-06
 author: sfakias
 tags:
-  - planes/Water Quarter
+  - planes/Elemental Ring
 
 ---
 | | |

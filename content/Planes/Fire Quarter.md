@@ -3,7 +3,7 @@ title: Fire Quarter
 date: 2024-02-06
 author: sfakias
 tags:
-  - planes/Fire Quarter
+  - planes/Elemental Ring
 
 ---
 | | |
