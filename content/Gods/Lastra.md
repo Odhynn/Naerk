@@ -11,7 +11,7 @@ tags:
 ---
 | | |
 | --- | --- |
-| `Title` | "The Endless Hunt" |
+| `Title` | "The Unstoppable Hunt" |
 | `Category` | Aspects |
 | `Edicts` | Cooperation on the Hunt, Heart of the pack, Strength in numbers |
 | `Portfolio` | Community, Hunting, Solidarity, Tactics |
