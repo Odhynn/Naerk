@@ -4,7 +4,7 @@ date: 2024-02-03
 author: sfakias
 tags:
 
-  -planes/Fortress of the Just
+  - planes/Fortress of the Just
 
 
 
