@@ -4,7 +4,7 @@ date: 2024-01-28
 author: sfakias
 tags:
   - characters/NPCs
-  - character/leaders
+  - characters/leaders
   - characters/dead
   - countries/Whistor
 ---

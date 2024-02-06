@@ -4,7 +4,7 @@ date: 2024-01-26
 author: sfakias
 tags:
   - characters/NPCs
-  - character/leaders
+  - characters/leaders
   - factions/Crimson Steel
   - factions/Order of the Cave
   - countries/Arbader

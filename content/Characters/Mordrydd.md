@@ -4,24 +4,19 @@ date: 2024-01-19
 author: odysseas
 tags:
   - characters/PCs
-  - character/commoners
+  - characters/commoners
   - factions/Dohjil
   - countries/Korhond
   - countries/Bjåglant
 subtitle: male dwarf alchemist
 wiki:
-  gender: 'male'
-  ancestry: 'dwarf'
-  profession: 'alchemist'
-  born: '4756'
-  birthplace: 'Thyrskogen'
-  nationality: 
-    - '[[Bjåglant]]'
-    - '[[Korhond]]'
-  height: "4'8''"
-  weight: '200 lb.'
-  appearance: chestnut hair, titian beard, brown eyes
-  residence: '[[Kranårvikk]]'
+  gender: male
+  ancestry: dwarf
+  profession: alchemist
+  born: 4756
+  height: 4'8"
+  weight: 200 lb.
+  residence: Kranårvikk
 ---
 
 > [!attributes]+ Mordrydd Emberbeard
@@ -29,7 +24,7 @@ wiki:
 > > 
 > > ![[../img/Mordrydd-20240205.jpg]]
 > 
-> > [!quote]+ male dwarf alchemist
+> > [!quote] Characteristics
 > >
 > > | | |
 > > | --- | --- |
@@ -39,19 +34,19 @@ wiki:
 > > | weight | 200 lb. |
 > > | appearance | <li>chestnut hair</li><li>titian beard</li><li>brown eyes</li> |
 >
-> > [!quote]+ Affiliations
+> > [!quote] Affiliations
 > > 
 > > | | |
 > > | --- | --- |
-> > | allegiance | Dohjil |
-> > | residence | Kranårvikk |
+> > | allegiance | [[Dohjil]] |
+> > | residence | [[Kranårvikk]] |
 > > | band | Champions of the North |
 
 > [!quote] 
-> Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω.
-> Θες ένα μηλίτη αρκετά τούμπανο ώστε να ξυπνήσεις στο Κάρροχ το επόμενο πρωί αγκαλιά με μια γίδα και δυο σακκιά πατάτες; Έχω.
-> Θες αλοιφή για την αλωπεκιασμένη γενειάδα της μανούλας σου; Κι αυτό το έχω.
-> Με κάθε αγορά μια μπόμπα δώρο για να καλημερίσεις τον ενοχλητικό σου γείτονα.
+> _Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω._
+> _Θες ένα μηλίτη αρκετά τούμπανο ώστε να ξυπνήσεις στο Κάρροχ το επόμενο πρωί αγκαλιά με μια γίδα και δυο σακκιά πατάτες; Έχω._
+> _Θες αλοιφή για την αλωπεκιασμένη γενειάδα της μανούλας σου; Κι αυτό το έχω._
+> _Με κάθε αγορά μια μπόμπα δώρο για να καλημερίσεις τον ενοχλητικό σου γείτονα._
 
 ## Background
 
@@ -68,7 +63,7 @@ Before they could get to the Bjåglander side however, Mordrydd blew up the brid
 ## Korhond
 
 After chafing against the traditional outlook of his family, Mordrydd departed from Bjåglant on a [[Nagstad]] ship, eventually ending up in Belgosreim.
-After travelling along the coast a while and subsisting by selling medicines and salves, he settled in [[Krannårvikk]], where he opened up an alchemical shop. While the potions and salves remained his most basic source of income, reactive materials and bombs remained his passion, and the shop blew up twice during his stay.
+After travelling along the coast a while and subsisting by selling medicines and salves, he settled in [[Kranårvikk]], where he opened up an alchemical shop. While the potions and salves remained his most basic source of income, reactive materials and bombs remained his passion, and the shop blew up twice during his stay.
 After the first explosion (which was [[a-bad-day-for-shopping|technically not his fault]]), he was hired as a pharmacist and physician by [[Jarl Bugril]]'s to tend to him and his [[Folegg Bugrilson|sickly son]].
 
 ## Champion of the North

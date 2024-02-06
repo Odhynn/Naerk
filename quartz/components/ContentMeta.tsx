@@ -23,14 +23,19 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: string[] = []
 
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
-      }
+      // if (fileData.dates) {
+      //   segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+      // }
 
-      // Display reading time if enabled
-      if (options.showReadingTime) {
-        const { text: timeTaken, words: _words } = readingTime(text)
-        segments.push(timeTaken)
+      // // Display reading time if enabled
+      // if (options.showReadingTime) {
+      //   const { text: timeTaken, words: _words } = readingTime(text)
+      //   segments.push(timeTaken)
+      // }
+
+      if (fileData.frontmatter?.subtitle) {
+        const subtitle = fileData.frontmatter?.subtitle as string
+        segments.push(subtitle)
       }
 
       return <p class={`content-meta ${displayClass ?? ""}`}>{segments.join(", ")}</p>
@@ -42,8 +47,10 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   ContentMetadata.css = `
   .content-meta {
     margin-top: 0;
-    color: var(--gray);
+    color: var(--dark);
   }
   `
+  // color: var(--gray);
+
   return ContentMetadata
 }) satisfies QuartzComponentConstructor
