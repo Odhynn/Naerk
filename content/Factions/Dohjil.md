@@ -11,6 +11,6 @@ tags:
 | --- | --- |
 | `Meaning` | Salmon |
 | `Symbol` | River with fins and tail |
-| `Region` | River Kranor, Southwest [[Fervolosh]] |
+| `Region` | River [[Kranor]], Southwest [[Fervolosh]] |
 | `Capital` | [[Kranårvikk]] |
 | `Leader` | [[Jarl Bugril|Jarl Bugril Menilson]] |
