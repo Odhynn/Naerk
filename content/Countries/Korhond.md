@@ -19,6 +19,9 @@ tags:
 | `Exports` | Fish, Furs, Leather, Mercenaries, Timber, Sailors |
 | `Important Events` | Hlafengrond Siege, Wendigo Totems, Ferelga Blight, Wardens of the North, Torniv Gathering |
 
+> [!quote] 
+> "Your place is attained, not given by birth."
+
 The history of  Korhond is lost in the centuries before the first cities and the development of trade. Its roots go back to the first humans, six and a half millennia ago. In ancient times, the North was an assembly place for many tribes, who fought for territorial claims and access to hunting and later, for reasons of honor, vendetta and revenge. When orcs came from the east and began to expand into the area, the conflicts became even more fierce. The orcs and humans that survived were either the strongest and most resistant to hardships, either those that hid in mountains, caves and glaciers, or those that were able to form alliances and call upon them in times of invasion or war.
 
 The first tribes settled after many hardships in the foothills of Hlafentar, as well as in the forests of present-day Fervolosh. The ancient North had infinite dangers. On one hand the goblins and hobgoblins, who were already in Hlafentar and the forest and were constantly raiding the rest, with no inclination to share their territories with others. On the other hand, numerous wild beasts, which still sow terror in the North. The danger of both predators and many herbivores left no place in the Korhond where one could feel safe. The groups that hunted some of them out of necessity were made up of people who did not always belong to the same tribe, so they formed strong friendship bonds. And finally, there were Giants from the Empire of [[Godrunen]], who had settlements and fortresses on the mountains and could scatter in their wake entire armies of the bravest warriors.
@@ -33,11 +36,4 @@ In later years, as many tribes were weakened, goblin incursions into the east be
 
 When the most serious challenges of the Wail and the goblins were over, the Northmen emerged stronger than ever. This, combined with the recent alliances, led to the creation and establishment of the [[Vølrad]], the battle through which territorial and other disputes in Fervolosh are settled. [[Torniv]], the Stone House remains to this day the most important cultural place of Korhond and marks its unification in dire times, as well as its glorious history.
 
-
-
-
-
-
-
-
-
+Hardships, adversities and skirmishes in the North with all sorts of two-legged or four-legged adversaries are daily, and only those accustomed to such a life can stay there for long.
