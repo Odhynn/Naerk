@@ -1,5 +1,5 @@
 ---
-title: Earth Quarter
+title: Elemental Ring
 date: 2024-02-06
 author: sfakias
 tags:
