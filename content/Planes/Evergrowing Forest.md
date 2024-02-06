@@ -1,9 +1,9 @@
 ---
-title: Fortress of the Just
+title: Evergrowing Forest
 date: 2024-02-06
 author: sfakias
 tags:
-  - planes/Fortress of the Just
+  - planes/Evergrowing Forest
 
 ---
 | | |
