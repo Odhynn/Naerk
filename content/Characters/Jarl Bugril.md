@@ -21,7 +21,7 @@ tags:
 
 > _"Watch and learn!"_
 
-Jarl of [[Kranårvikk]] and the [[Dohjil]] tribe
+Jarl Bugril Menilson of [[Kranårvikk]] and the [[Dohjil]] tribe
 Father of [[Folegg Bugrilson]]
 Bad health, cough
 
