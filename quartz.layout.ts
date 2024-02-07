@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     // Component.DesktopOnly(Component.Wikitable()),
+    Component.Graph(),
     Component.TagList(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),

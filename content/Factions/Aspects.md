@@ -11,7 +11,7 @@ The Northerners of [[Korhond]], elves and nomadic orcs, from [[Belgosreim]] to t
 
 Frequently, Aspects walk into the Material Plane and interfere with important events there in their own, indirect way. They manifest in the form of animals, plants or natural phenomena. Their intervention is multifaceted: From helping warriors in battle, resurrecting the most worthy of them (a typical example is the legendary warlord [[Yoll]]), to fertilizing crops and plants or bringing fair wind to the sails of ships. Their presence is very strong and  interconnected between their domains of influence. As a result, despite ther rivalries, there has been no major conflict between them, but even more so, there are very few cultures that renounce them in the regions they manifest. Mortals who have ben granted the blessing of Aspects bear the Aspect's Mark on their chest.
 
->[[../img/Aspect's Mark.png]]
+![[../img/Aspect's Mark.png]]
 
 The Aspects are:
 
