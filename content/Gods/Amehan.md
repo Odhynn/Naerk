@@ -30,3 +30,4 @@ tags:
 | `Favored Weapon` | Mace |
 | `Domains` | Destruction, Decay, Dust, Pain, Sorrow, Void |
 | `Cleric Spells` | 1st: Phantom Pain, 6th: Disintegrate, 9th: Disjunction |
+
