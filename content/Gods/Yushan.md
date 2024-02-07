@@ -52,20 +52,22 @@ Excerpts of the Tome of True Lies, the holy book of Yushan.
 1. Yushan said: let there not be a genesis, for beginnings are false and I am a consummate liar.
 2. The full of it is this – the circular existence of Gods is the perfection of matter.
 3. Yushan lied once and said he had nine hundred and ninety nine thousand names. This is true, but it is also a barefaced lie.
-4. Living is an exercise of paradoxes. Exercise of paradoxes is the fate of living. Yushan understands that fate being paradoxical is a paradox itself, and is amused by that
+4. Living is an exercise of paradoxes. Exercise of paradoxes is the fate of living. Yushan understands that fate being paradoxical is a paradox itself, and is amused by that.
 5. Paradoxes are circular. Perception is not circular and lacks flawlessness- therefore, rejoice in imperfect things, for their rareness is not lacking!
 6. Only an idiot cannot place his absolute certainty in paradoxes. The divine is a perfect paradox. A man cannot exist without paradoxes – that is the full of it.
-II.
 
-**THE FIVE PARADOXICAL TRUTH-LIES OF YUSHAN**
+
+
+## The five paradoxical truth-lies of Yushan
 
 1. It was once said that Yushan had many names. This is true, but all of them are false save the name Yushan, which in itself is a paradox.
 2. Yushan is the weakest thing there is and the smallest crawling thing, and the worm upon the earth and in the earth.
 3. Yushan is capable of contemplating nothing.
 4. To speak general truths about Yushan is to lie intimately; in truth one must learn the tongues but the matter remains that Yushan is the unparalleled master of the fundamental art of lying. The best practice of lying is self deception.
 5. Yushan once said: ‘Selfish tongues revolt and refuse to invert the contents of their brains – even if it were a lie, this insurrection of our flesh would do us great offense.’
-———————–
-i. The Parable of the giant and the ant.
+
+
+##  I. The Parable of the giant and the ant.
 Yushan sat once with his disciple Hansa in Yushan’s palace. Hansa was one of his most ardent students and a grand questioner of Yushan. He posessed a miserly scrutiny and a heart of iron nails.
 Hansa’s questions were thus:
 ‘Lord, how must I question space?’
@@ -76,8 +78,9 @@ Hansa was discontent with this answer and rubbed the stem of his long and worn p
 ‘Lord, then which should I be, the giant or the ant?’
 ‘Both,’ spoke Yushan,’ or either, when it suits you. '
 Hansa contemplated this in silence. Later he would recount this proverb to his daughter.
-———————–
-ii. The tale the iron plum
+
+
+## II. The tale the iron plum
 There was once a succubus named Payam who  ruled a palace of burnished gold and fire and dispensed malice in all things. It was let known once that Payam had grown an extraordinary plum – enormous in size, with adamant skin that was burnished as a breastplate and fifty times as hardy. Payam was desirous of a pillow friend of fiery heart and excellent skill with their mouth and let know that whosoever could break the skin of that plum with their teeth she would swear to share her bed with for three nights in whatever disposition they may desire.
 Many demons, mortals and gods were in attendance at Payam’s hall on the first day, and even more on the second day, but by the third day of this strange contest few remained who had not tested their mettle, for the plum remained implacable and immaculate and turned many away with sore teeth and roiling frustration in their brains. A great cry rose up and Yushan was called forth from his palace. In companionship with Yushan was Hansa, who followed along.
 “See this Payam!” cried the crowd. “She deceives us! "
@@ -88,8 +91,10 @@ Yushan was very fond of plums and immediately grasped the iron plum and took a l
 Yushan said, “I told you of this and, believing it, it was so. In truth, it is whichever you prefer. In truth, there is no plum at all, just as there is no Yushan.  A plum has no shape, form, or color at all, in truth, but these are all things I find pleasing about it. A plum has no taste at all for it has no flesh or substance, but I find its sweetness intoxicating. A plum is a thing that does not exist. But it is my favorite fruit.”
 “A pipe is a thing that does exist, and it is my favorite past time,” said Hansa, lacking understanding, and growing in cynicism.
 “What a paradox!” said Yushan, smiling, “I shall share my love tenderly with Payam.”
-———————–
-iii. The story of the water house
+
+
+## III. The story of the water house
+
 Yushan and Hansa walked the planes once, drinking plum wine.
 “Dearest Hansa,” spoke Yushan, after a moment, as they strolled along an expanse of fractal glass and cold fire, “Would you like to learn a lesson ?".
 "Of course, my lord" Spoke Hansa, curious of Yushan's contemplative nature
@@ -115,8 +120,10 @@ Hansa was silent a moment.
 They sat in stillness a while longer.
 “In truth, we would get very bored,” said Hansa, after a while.
 “In truth, we would,” said Yushan.
-———————–
-iv. The First and Last lesson.
+
+
+##  IV. The First and Last lesson.
+
 Hansa was of sound mind and proud soul and only once asked Yushan a conceited question, when he was very old and his bones were set about with the dust and bent with age. It was about his own death.
 “Lord,” said Hansa, allowing a doubt to blossom, “What is ending?”
 It was said later he regretted this question but none could confirm the suspicion.
