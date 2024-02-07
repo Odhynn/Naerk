@@ -11,9 +11,9 @@ tags:
 | `Country` | Beyond |
 | `Region` | Beyond |
 
-The Pale Moon
+**The Pale Moon**
 
-Na'erk's second and smallest moon is also known as the Dead Giant or Pale Titan by those who know more about it. To the rest of the world it is known as Veth, the pale moon. In fact, this moon is a [[Primordial]], an ancient mighty being that died by the [[Equalizer]] when the world was still young in a [[Primordial War|battle of colossal proportions]] because he defied the laws of [[Material Plane]] and invented his own with some help from [[Nahema]]. Since then, its shape has become almost spherical and compressed due to gravity. 
+Na'erk's second and smallest moon is also known as the Dead Giant or Pale Titan by those who know more about it. To the rest of the world it is known as Veth, the pale moon. In fact, this moon is a [[Primordial]], an ancient mighty being that died by the [[Equalizer]] when the world was still young in a [[Primordial War|battle of colossal proportions]] because he defied the laws of [[Material Plane]] and invented his own with some help from [[Nahema]]. Its body was kept as an example to what would happen if anyone defied the Equalizer. Since then, its shape has become almost spherical and compressed due to gravity. 
 
 Veth's invasion on the Material Plane was accompanied by a series of apocalyptic events that shocked Na'erk. His very existence challenged the rules of the Material Plane set by the Equalizer. When he died, the vast energy at his disposal began to release in various ways. The Fathomless Force it radiates is responsible for the arcane magic (the radiance of Veth) in Naer'k. Too many creatures, gods and mortals, tried to use it, either directly by their own effort, by inheriting this power from their Vethfolk ancestors, or through the help of other beings or nature itself.
 
