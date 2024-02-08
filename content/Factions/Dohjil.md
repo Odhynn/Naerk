@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Salmon |
-| `Symbol` | River with fins and tail |
-| `Region` | River [[Kranor]], Southwest [[Fervolosh]] |
-| `Capital` | [[Kranårvikk]] |
-| `Leader` | [[Jarl Bugril|Jarl Bugril Menilson]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Salmon |
+> > | Symbol |  River with fins and tail |
+> > | Region |  River [[Kranor]], Southwest [[Fervolosh]] |
+> > | Capital |  [[Kranårvikk]] |
+> > | Leader |  [[Jarl Bugril|Jarl Bugril Menilson]] |

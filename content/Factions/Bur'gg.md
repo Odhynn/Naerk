@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Lakemen |
-| `Symbol` | Two serpents forming a lake |
-| `Region` | [[Åperbung]], east [[Volostrol]], north [[Volosherg]] |
-| `Capital` | [[Bur'gg]] |
-| `Leader` | [[Jarlskona Darma]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Lakemen |
+> > | Symbol |  Two serpents forming a lake |
+> > | Region |  [[Åperbung]], east [[Volostrol]], north [[Volosherg]] |
+> > | Capital |  [[Bur'gg]] |
+> > | Leader |  [[Jarlskona Darma]] |

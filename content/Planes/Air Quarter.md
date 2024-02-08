@@ -6,9 +6,13 @@ tags:
   - planes/Elemental Ring
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Air Essence, Microgravity, Enhanced Magic (Air) |
-| `Category` | Elemental Ring |
-| `Divinities` | [[Saekla]], [[Drokasner]] |
-| `Native Inhabitants` | Air Elementals, Sky Dragons, winged creatures, windfolk souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Air Essence, Microgravity, Enhanced Magic (Air) |
+> > | Category |  Elemental Ring |
+> > | Divinities |  [[Saekla]], [[Drokasner]] |
+> > | Native Inhabitants |  Air Elementals, Sky Dragons, winged creatures, windfolk souls |

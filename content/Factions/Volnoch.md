@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Underpine |
-| `Symbol` | Pine with roots |
-| `Region` | North [[Fervolosh]] |
-| `Capital` | [[Volteg]] |
-| `Leader` | [[Elder Kaldran\| Elder Kaldran Tarnek]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Underpine |
+> > | Symbol |  Pine with roots |
+> > | Region |  North [[Fervolosh]] |
+> > | Capital |  [[Volteg]] |
+> > | Leader |  [[Elder Kaldran\| Elder Kaldran Tarnek]] |

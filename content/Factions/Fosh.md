@@ -7,10 +7,14 @@ tags:
   - countries/Hoss Glacier
   - factions/North
 ---
-| | |
-| --- | --- |
-| `Meaning` | Glacier |
-| `Symbol` | Five ice polygons forming a glacier |
-| `Region` | Southwest [[Hoss Glacier]] |
-| `Capital` | [[Osfån]] |
-| `Leader` | [[Jarlskona Lengosha Rakfun\|Jarlskona Lengosha]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Glacier |
+> > | Symbol |  Five ice polygons forming a glacier |
+> > | Region |  Southwest [[Hoss Glacier]] |
+> > | Capital |  [[Osfån]] |
+> > | Leader |  [[Jarlskona Lengosha Rakfun\|Jarlskona Lengosha]] |

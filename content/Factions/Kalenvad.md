@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Golden Eagle |
-| `Symbol` | Diving eagle |
-| `Region` | Northwest [[Hlafentar]] |
-| `Capital` | [[Hlafengrond]] |
-| `Leader` | [[Galnagh Yuradal\|Galnagh Yuradal Kasnajar]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Golden Eagle |
+> > | Symbol |  Diving eagle |
+> > | Region |  Northwest [[Hlafentar]] |
+> > | Capital |  [[Hlafengrond]] |
+> > | Leader |  [[Galnagh Yuradal\|Galnagh Yuradal Kasnajar]] |

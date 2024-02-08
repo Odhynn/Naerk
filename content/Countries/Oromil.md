@@ -7,14 +7,18 @@ tags:
   - countries/Palaurim
 
 ---
-| | |
-| --- | --- |
-| `Climate` | Temperate, Warm |
-| `Capital` | Fellgaunt |
-| `Government` | Merchant Council |
-| `Languages` | Common, Orc, Centaur, Halfling |
-| `Population` | 1360000 |
-| `Religions` | [[Reszek]], [[Factar]], [[Sennek]], [[Karadosh]], [[Huntsman]], [[Valanshore]] |
-| `Imports` | Metals, Precious Metals, Timber, Coal, Ivory |
-| `Exports` | Meat, Grain, Corn, Livestock, Horses, Mercenaries |
-| `Important Events` | Battle for Fellgaunt |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Climate |  Temperate, Warm |
+> > | Capital |  Fellgaunt |
+> > | Government |  Merchant Council |
+> > | Languages |  Common, Orc, Centaur, Halfling |
+> > | Population |  1360000 |
+> > | Religions |  [[Reszek]], [[Factar]], [[Sennek]], [[Karadosh]], [[Huntsman]], [[Valanshore]] |
+> > | Imports |  Metals, Precious Metals, Timber, Coal, Ivory |
+> > | Exports |  Meat, Grain, Corn, Livestock, Horses, Mercenaries |
+> > | Important Events |  Battle for Fellgaunt |

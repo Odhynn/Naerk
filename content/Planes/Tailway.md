@@ -6,9 +6,13 @@ tags:
   - planes/Tailway
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Timeless, Static Morphic, Subjective Gravity |
-| `Category` | River Styx |
-| `Divinities` | [[Yerastu]] |
-| `Native Inhabitants` | Kenemi, unjudged souls, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Timeless, Static Morphic, Subjective Gravity |
+> > | Category |  River Styx |
+> > | Divinities |  [[Yerastu]] |
+> > | Native Inhabitants |  Kenemi, unjudged souls, devoted souls |

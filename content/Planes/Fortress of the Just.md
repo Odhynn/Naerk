@@ -6,9 +6,13 @@ tags:
   - planes/Fortress of the Just
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Flowing Time |
-| `Category` | Outer |
-| `Divinities` | [[Anhalt]], [[Nentha]], [[Laerion]], [[Sigard]], [[Yerastu]], Celestial Emissaries |
-| `Native Inhabitants` | Angels, archons, metallic dragons, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Flowing Time |
+> > | Category |  Outer |
+> > | Divinities |  [[Anhalt]], [[Nentha]], [[Laerion]], [[Sigard]], [[Yerastu]], Celestial Emissaries |
+> > | Native Inhabitants |  Angels, archons, metallic dragons, devoted souls |

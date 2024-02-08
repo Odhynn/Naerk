@@ -1,5 +1,6 @@
 ---
 title: Folegg Bugrilson
+subtitle: male human prince
 date: 2024-01-20
 author: sfakias
 tags:
@@ -7,16 +8,19 @@ tags:
   - factions/Dohjil
   - countries/Korhond
 ---
-| | |
-| --- | --- |
-| male human | prince |
-| `age` | 22 (b. 4796) |
-| `birthplace` | Krannorvick, Korhond |
-| `nationality` | Korhond / Dohjil |
-| `height` | 5'11" |
-| `weight` | 132 lb. |
-| `appearance` | golden hair, barely a moustache |
-| `residence` | Kranårvikk (as of 4818) |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | age |  22 (b. 4796) |
+> > | birthplace |  Krannorvick, Korhond |
+> > | nationality |  Korhond / Dohjil |
+> > | height |  5'11" |
+> > | weight |  132 lb. |
+> > | appearance |  golden hair, barely a moustache |
+> > | residence |  Kranårvikk (as of 4818) |
 
 
 Son of [[Folegg Bugrilson]]

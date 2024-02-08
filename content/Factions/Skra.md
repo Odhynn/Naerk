@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Steady Hand |
-| `Symbol` | Intersecting Claws |
-| `Region` | [[Hlafentar]] Hills, Northwest [[Fervolosh]] |
-| `Capital` | [[Skrudok]] |
-| `Leader` | [[Galdosh Uldrek]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Steady Hand |
+> > | Symbol |  Intersecting Claws |
+> > | Region |  [[Hlafentar]] Hills, Northwest [[Fervolosh]] |
+> > | Capital |  [[Skrudok]] |
+> > | Leader |  [[Galdosh Uldrek]] |

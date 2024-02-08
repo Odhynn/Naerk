@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Swift Bow |
-| `Symbol` | Symmetrical bows with an arrow |
-| `Region` | West [[Fervolosh]] |
-| `Capital` | [[Lampsir]] |
-| `Leader` | [[Bolka Falgyrd\|Jarl Falgyrd Bolrag]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Swift Bow |
+> > | Symbol |  Symmetrical bows with an arrow |
+> > | Region |  West [[Fervolosh]] |
+> > | Capital |  [[Lampsir]] |
+> > | Leader |  [[Bolka Falgyrd\|Jarl Falgyrd Bolrag]] |

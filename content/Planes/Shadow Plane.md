@@ -6,9 +6,13 @@ tags:
   - planes/Shadow Plane
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Shadow Essence, Negative Essence |
-| `Category` | Fifth Dimension |
-| `Divinities` | [[Voolthow]] |
-| `Native Inhabitants` | Undead, shadow creatures, devoted souls, wayangs, shadowfolk souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Shadow Essence, Negative Essence |
+> > | Category |  Fifth Dimension |
+> > | Divinities |  [[Voolthow]] |
+> > | Native Inhabitants |  Undead, shadow creatures, devoted souls, wayangs, shadowfolk souls |

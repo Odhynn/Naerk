@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Razor Tusks |
-| `Symbol` | Spear with tusks and feathers |
-| `Region` | west [[Mherg Tundra]], east [[Rhaemar Tundra]] |
-| `Capital` | [[Razortusk]] |
-| `Leader` | [[Galdosh Caltrak\|Galdosh Caltrak Ulbar]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Razor Tusks |
+> > | Symbol |  Spear with tusks and feathers |
+> > | Region |  west [[Mherg Tundra]], east [[Rhaemar Tundra]] |
+> > | Capital |  [[Razortusk]] |
+> > | Leader |  [[Galdosh Caltrak\|Galdosh Caltrak Ulbar]] |

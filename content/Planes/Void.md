@@ -6,9 +6,13 @@ tags:
   - planes/Void Plane
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Enhanced Magic (Occult), Microgravity, Immeasurable Scope |
-| `Category` | Fifth Dimension |
-| `Divinities` | [[Yast]] |
-| `Native Inhabitants` | Aberrations, abominations, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Enhanced Magic (Occult), Microgravity, Immeasurable Scope |
+> > | Category |  Fifth Dimension |
+> > | Divinities |  [[Yast]] |
+> > | Native Inhabitants |  Aberrations, abominations, devoted souls |

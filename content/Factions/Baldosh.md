@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Wise Dragon |
-| `Symbol` | Knotted dragon |
-| `Region` | South [[Foltar]], South [[Volostrol]], [[Norfol]] |
-| `Capital` | [[Tarfuhl]] |
-| `Leader` | [[Jarl Carlog\|Jarl Carlog Gorberosh]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Wise Dragon |
+> > | Symbol |  Knotted dragon |
+> > | Region |  South [[Foltar]], South [[Volostrol]], [[Norfol]] |
+> > | Capital |  [[Tarfuhl]] |
+> > | Leader |  [[Jarl Carlog\|Jarl Carlog Gorberosh]] |

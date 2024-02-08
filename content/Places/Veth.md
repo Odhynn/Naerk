@@ -6,10 +6,14 @@ tags:
   - countries/Korhond
 
 ---
-| | |
-| --- | --- |
-| `Country` | Beyond |
-| `Region` | Beyond |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Country |  Beyond |
+> > | Region |  Beyond |
 
 **The Pale Moon**
 

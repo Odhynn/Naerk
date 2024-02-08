@@ -6,10 +6,14 @@ tags:
   - countries/Korhond
 
 ---
-| | |
-| --- | --- |
-| `Place` | [[Korhond]], secret location |
-| `Time` | 4221 till now |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Place |  [[Korhond]], secret location |
+> > | Time |  4221 till now |
 
 
 > [!quote] 

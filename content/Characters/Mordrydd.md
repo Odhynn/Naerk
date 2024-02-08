@@ -18,7 +18,6 @@ wiki:
   weight: 200 lb.
   residence: Kranårvikk
 ---
-
 > [!attributes] Mordrydd Emberbeard
 > > [!grid]
 > > 

@@ -1,5 +1,6 @@
 ---
 title: Lady of Pain
+subtitle: female vampire assassin
 date: 2024-01-26
 author: sfakias
 tags:
@@ -9,14 +10,17 @@ tags:
   - factions/Order of the Cave
   - countries/Arbader
 ---
-| | |
-| --- | --- |
-| female vampire | Lady Assassin |
-| `age` | unknown |
-| `birthplace` | Hashnev, Arbader |
-| `nationality` | Arbader |
-| `appearance` | Black hair, pale skin, rose eyes |
-| `residence` | Arbader (as of 4818) |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | age |  unknown |
+> > | birthplace |  Hashnev, Arbader |
+> > | nationality |  Arbader |
+> > | appearance |  Black hair, pale skin, rose eyes |
+> > | residence |  Arbader (as of 4818) |
 
 > _"Ugly name. For some reason they liked it, and they got used to it.""_
 

@@ -6,9 +6,13 @@ tags:
   - planes/Creation
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Timeless, Sentient Morphic, Positive Essence |
-| `Category` | Outer |
-| `Divinities` | [[Nahema]] |
-| `Native Inhabitants` | Positive Outsiders, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Timeless, Sentient Morphic, Positive Essence |
+> > | Category |  Outer |
+> > | Divinities |  [[Nahema]] |
+> > | Native Inhabitants |  Positive Outsiders, devoted souls |

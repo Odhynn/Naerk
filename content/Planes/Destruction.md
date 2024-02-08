@@ -6,9 +6,13 @@ tags:
   - planes/Destruction
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Timeless, Sentient Morphic, Negative Essence |
-| `Category` | Outer |
-| `Divinities` | [[Amehan]], [[Neverborn]] |
-| `Native Inhabitants` | Negative Outsiders, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Timeless, Sentient Morphic, Negative Essence |
+> > | Category |  Outer |
+> > | Divinities |  [[Amehan]], [[Neverborn]] |
+> > | Native Inhabitants |  Negative Outsiders, devoted souls |

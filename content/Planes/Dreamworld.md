@@ -6,9 +6,13 @@ tags:
   - planes/Dreamworld
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Immeasurable Scope, Microgravity, Erratic Time, Enhanced Magic (Occult) |
-| `Category` | Fifth Dimension |
-| `Divinities` | - |
-| `Native Inhabitants` | dreams, nightmares, occult dragons, abominations, sleeping souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Immeasurable Scope, Microgravity, Erratic Time, Enhanced Magic (Occult) |
+> > | Category |  Fifth Dimension |
+> > | Divinities |  - |
+> > | Native Inhabitants |  dreams, nightmares, occult dragons, abominations, sleeping souls |

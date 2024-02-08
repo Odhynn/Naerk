@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Fir |
-| `Symbol` | Shapable tree branch with leaf |
-| `Region` | Northwest [[Fervolosh]] |
-| `Capital` | [[Volanir]] |
-| `Leader` | [[Queen Alinwe]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Fir |
+> > | Symbol |  Shapable tree branch with leaf |
+> > | Region |  Northwest [[Fervolosh]] |
+> > | Capital |  [[Volanir]] |
+> > | Leader |  [[Queen Alinwe]] |

@@ -1,5 +1,6 @@
 ---
 title: King Raldon
+subtitle: male human king
 date: 2024-01-28
 author: sfakias
 tags:
@@ -8,14 +9,17 @@ tags:
   - characters/dead
   - countries/Whistor
 ---
-| | |
-| --- | --- |
-| male human | bulky |
-| `birthplace` | Whistor, 4717 |
-| `age of death` | 60 |
-| `nationality` | Whistor |
-| `appearance` | Gold Hair, Blue Eyes, Tan Skin |
-| `residence` | Arbader (as of 4818) |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | birthplace |  Whistor, 4717 |
+> > | age of death |  60 |
+> > | nationality |  Whistor |
+> > | appearance |  Gold Hair, Blue Eyes, Tan Skin |
+> > | residence |  Arbader (as of 4818) |
 
 > _"It's all his fault"_
 

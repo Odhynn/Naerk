@@ -1,5 +1,6 @@
 ---
 title: Jarl Bugril
+subtitle: male human jarl
 date: 2024-01-20
 author: sfakias
 tags:
@@ -8,16 +9,19 @@ tags:
   - factions/Dohjil
   - countries/Korhond
 ---
-| | |
-| --- | --- |
-| male human | jarl |
-| `age` | 64 (b. 4756) |
-| `birthplace` | Kranårvikk, Korhond |
-| `nationality` | Korhond / Dohjil |
-| `height` | 5'10" |
-| `weight` | 180 lb. |
-| `appearance` | White hair and beard, brown eyes |
-| `residence` | Kranårvikk |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | age |  64 (b. 4756) |
+> > | birthplace |  Kranårvikk, Korhond |
+> > | nationality |  Korhond / Dohjil |
+> > | height |  5'10" |
+> > | weight |  180 lb. |
+> > | appearance |  White hair and beard, brown eyes |
+> > | residence |  Kranårvikk |
 
 > _"Watch and learn!"_
 

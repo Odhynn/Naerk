@@ -6,12 +6,16 @@ tags:
   - planes/Tartara
 
 ---
-| | |
-| --- | --- |
-| `Traits` | Erratic Time, Immeasurable scope |
-| `Category` | River Styx |
-| `Divinities` | [[Klemnestron]], Fiendish Lords |
-| `Native Inhabitants` | Erevi, vulga, titans, vethralls, fiends, tortured souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  Erratic Time, Immeasurable scope |
+> > | Category |  River Styx |
+> > | Divinities |  [[Klemnestron]], Fiendish Lords |
+> > | Native Inhabitants |  Erevi, vulga, titans, vethralls, fiends, tortured souls |
 
 ## Creation
 

@@ -5,14 +5,18 @@ author: odysseas
 tags:
   - countries/Alagon
 ---
-| | |
-| --- | --- |
-| `Climate` | Tropical Wet-and-Dry |
-| `Capital` | Qillport |
-| `Government` | Confederate Oligarchy |
-| `Languages` | Common, Elven, Halfling,  |
-| `Population` | 80000 |
-| `Religions` | [[Jalerk]], [[Yerastu]], [[Sennek]], [[Hydarax]], [[Yushan]], [[Drokasner]], [[Klemnestron]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Climate |  Tropical Wet-and-Dry |
+> > | Capital |  Qillport |
+> > | Government |  Confederate Oligarchy |
+> > | Languages |  Common, Elven, Halfling,  |
+> > | Population |  80000 |
+> > | Religions |  [[Jalerk]], [[Yerastu]], [[Sennek]], [[Hydarax]], [[Yushan]], [[Drokasner]], [[Klemnestron]] |
 
 - an informal collection of maritime settlements, merchant colonies, and pirate strongholds
 

@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Three Wolves |
-| `Symbol` | Three Wolf heads |
-| `Region` | South [[Fervolosh]] |
-| `Capital` | [[Ferglund]] |
-| `Leader` | [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Three Wolves |
+> > | Symbol |  Three Wolf heads |
+> > | Region |  South [[Fervolosh]] |
+> > | Capital |  [[Ferglund]] |
+> > | Leader |  [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |

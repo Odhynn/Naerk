@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Avalance |
-| `Symbol` | Three white lines circling a mountain |
-| `Region` | Northeast [[Hlafentar]] |
-| `Capital` | [[Higg]] |
-| `Leader` | [[Kworion Frostwind]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Avalance |
+> > | Symbol |  Three white lines circling a mountain |
+> > | Region |  Northeast [[Hlafentar]] |
+> > | Capital |  [[Higg]] |
+> > | Leader |  [[Kworion Frostwind]] |

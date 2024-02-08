@@ -6,9 +6,13 @@ tags:
   - planes/Abyss
 
 ---
-| | |
-| --- | --- |
-| `Traits` | - |
-| `Category` | River Styx |
-| `Divinities` | [[Xeurim]], [[Otynhash]], [[Diisiklek]], Fiendish Lords |
-| `Native Inhabitants` | Demons, tortured souls, stolen souls, other fiends, cultist souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |  - |
+> > | Category |  River Styx |
+> > | Divinities |  [[Xeurim]], [[Otynhash]], [[Diisiklek]], Fiendish Lords |
+> > | Native Inhabitants |  Demons, tortured souls, stolen souls, other fiends, cultist souls |

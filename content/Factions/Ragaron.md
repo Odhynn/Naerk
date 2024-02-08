@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Bloody Axes |
-| `Symbol` | Crossed axes dripping blood |
-| `Region` | East [[Foltar]], north [[Norfol]], West [[Volostrol]] |
-| `Capital` | [[Garvach]] |
-| `Leader` | [[Warlord Darabal\|Warlord Darabal Øren]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Bloody Axes |
+> > | Symbol |  Crossed axes dripping blood |
+> > | Region |  East [[Foltar]], north [[Norfol]], West [[Volostrol]] |
+> > | Capital |  [[Garvach]] |
+> > | Leader |  [[Warlord Darabal\|Warlord Darabal Øren]] |

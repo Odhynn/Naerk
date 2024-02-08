@@ -6,10 +6,14 @@ tags:
   - countries/Korhond
 
 ---
-| | |
-| --- | --- |
-| `Country` | [[Korhond]] |
-| `Region` | [[Fervolosh]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Country |  [[Korhond]] |
+> > | Region |  [[Fervolosh]] |
 
 The Stone House was built after the Northmen of Korhond and [[Belgosreim]] emerged victorious from their battles against the goblins and giants, as well as overcomed the [[Ferelga]] plague.
 

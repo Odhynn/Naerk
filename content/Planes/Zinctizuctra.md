@@ -6,9 +6,13 @@ tags:
   - planes/Zinctizuctra
 
 ---
-| | |
-| --- | --- |
-| `Traits` |  Enhanced Magic (Arcane), Erratic Time, Metamorphic, Subjective Gravity |
-| `Category` | Outer |
-| `Divinities` | [[Maeronian]], [[Yushan]] |
-| `Native Inhabitants` | Vethians, Vethralls, vethfolk souls, devoted souls |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Traits |   Enhanced Magic (Arcane), Erratic Time, Metamorphic, Subjective Gravity |
+> > | Category |  Outer |
+> > | Divinities |  [[Maeronian]], [[Yushan]] |
+> > | Native Inhabitants |  Vethians, Vethralls, vethfolk souls, devoted souls |

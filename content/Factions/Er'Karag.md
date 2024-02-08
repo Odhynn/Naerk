@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Sea Lion |
-| `Symbol` | Sea lion in water currents |
-| `Region` | Northern [[Walrus Shores]] |
-| `Capital` | [[Keldrev]] |
-| `Leader` | [[Elder Vaddlash]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Sea Lion |
+> > | Symbol |  Sea lion in water currents |
+> > | Region |  Northern [[Walrus Shores]] |
+> > | Capital |  [[Keldrev]] |
+> > | Leader |  [[Elder Vaddlash]] |

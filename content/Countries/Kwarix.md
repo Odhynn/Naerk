@@ -5,16 +5,20 @@ author: odysseas
 tags:
   - countries/Kwarix
 ---
-| | |
-| --- | --- |
-| `Climate` | Temperate Oceanic |
-| `Capital` | Brass Eyrie |
-| `Government` | Constitutional Monarchy |
-| `Languages` | Gnomish |
-| `Population` | 120000 |
-| `Religions` | [[Klont]], [[Vard]], [[Heddba]], [[Υerastu]] |
-| `Imports` | - |
-| `Exports` | - |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Climate |  Temperate Oceanic |
+> > | Capital |  Brass Eyrie |
+> > | Government |  Constitutional Monarchy |
+> > | Languages |  Gnomish |
+> > | Population |  120000 |
+> > | Religions |  [[Klont]], [[Vard]], [[Heddba]], [[Υerastu]] |
+> > | Imports |  - |
+> > | Exports |  - |
 
 - isolationist gnome nation in the southern tip of [[Athalaar]]
 - advanced clockwork technology tapping on ancient Selanaari heritage

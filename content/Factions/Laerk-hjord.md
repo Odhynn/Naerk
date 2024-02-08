@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Herd of the Larch |
-| `Symbol` | Horsehoof |
-| `Region` | East [[Fervolosh]], southeast [[Mherg Tundra]] |
-| `Capital` | [[Laerov]] |
-| `Leader` | [[Norladar Sunderhoof\|Norladar Sorag]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Herd of the Larch |
+> > | Symbol |  Horsehoof |
+> > | Region |  East [[Fervolosh]], southeast [[Mherg Tundra]] |
+> > | Capital |  [[Laerov]] |
+> > | Leader |  [[Norladar Sunderhoof\|Norladar Sorag]] |

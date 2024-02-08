@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Red Ears |
-| `Symbol` | Ear-shaped lines |
-| `Region` | North [[Raemar Tundra]] |
-| `Capital` | [[Drafhün]] |
-| `Leader` | [[Jarl Carlog\|Jarl Carlog Gorberosh]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Red Ears |
+> > | Symbol |  Ear-shaped lines |
+> > | Region |  North [[Raemar Tundra]] |
+> > | Capital |  [[Drafhün]] |
+> > | Leader |  [[Jarl Carlog\|Jarl Carlog Gorberosh]] |

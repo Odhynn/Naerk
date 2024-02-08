@@ -7,10 +7,14 @@ tags:
   - factions/North
  
 ---
-| | |
-| --- | --- |
-| `Meaning` | Shield Bearers |
-| `Symbol` | Five rhombus shields |
-| `Region` | Northeast [[Fervolosh]], east [[Mherg Tundra]] |
-| `Capital` | [[Karjanal]] |
-| `Leader` | [[Jarl Molodek\|Jarl Molodek Ironwood]] |
+> [!attributes]
+> 
+> > [!quote] Characteristics
+> >
+> > | | |
+> > | --- | --- |
+> > | Meaning |  Shield Bearers |
+> > | Symbol |  Five rhombus shields |
+> > | Region |  Northeast [[Fervolosh]], east [[Mherg Tundra]] |
+> > | Capital |  [[Karjanal]] |
+> > | Leader |  [[Jarl Molodek\|Jarl Molodek Ironwood]] |
