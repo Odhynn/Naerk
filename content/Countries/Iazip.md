@@ -9,16 +9,16 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Cold Antarctic |
-> > | Capital |  Kleoktra |
-> > | Government |  Oligarchy |
-> > | Languages |  Vethian |
-> > | Population |  105000 |
-> > | Religions |  [[Maeronian]], [[Yushan]], [[Hansa]] |
-> > | Imports |  Meat, Corn, Potato, Gems, Metals |
-> > | Exports |  Artwork, Sculpture, Fish, Whale Oil |
-> > | Important Events |  Realms of Chaos |
+> > | Climate | Cold Antarctic |
+> > | Capital | Kleoktra |
+> > | Government | Oligarchy |
+> > | Languages | Vethian |
+> > | Population | 105000 |
+> > | Religions | [[Maeronian]], [[Yushan]], [[Hansa]] |
+> > | Imports | Meat, Corn, Potato, Gems, Metals |
+> > | Exports | Artwork, Sculpture, Fish, Whale Oil |
+> > | Important Events | Realms of Chaos |

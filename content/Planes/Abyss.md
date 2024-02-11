@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  - |
-> > | Category |  River Styx |
-> > | Divinities |  [[Xeurim]], [[Otynhash]], [[Diisiklek]], Fiendish Lords |
-> > | Native Inhabitants |  Demons, tortured souls, stolen souls, other fiends, cultist souls |
+> > | Traits | - |
+> > | Category | River Styx |
+> > | Divinities | [[Xeurim]], [[Otynhash]], [[Diisiklek]], Fiendish Lords |
+> > | Native Inhabitants | Demons, tortured souls, stolen souls, other fiends, cultist souls |

@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Flowing Time |
-> > | Category |  Outer |
-> > | Divinities |  [[Anhalt]], [[Nentha]], [[Laerion]], [[Sigard]], [[Yerastu]], Celestial Emissaries |
-> > | Native Inhabitants |  Angels, archons, metallic dragons, devoted souls |
+> > | Traits | Flowing Time |
+> > | Category | Outer |
+> > | Divinities | [[Anhalt]], [[Nentha]], [[Laerion]], [[Sigard]], [[Yerastu]], Celestial Emissaries |
+> > | Native Inhabitants | Angels, archons, metallic dragons, devoted souls |

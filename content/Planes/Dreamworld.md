@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Immeasurable Scope, Microgravity, Erratic Time, Enhanced Magic (Occult) |
-> > | Category |  Fifth Dimension |
-> > | Divinities |  - |
-> > | Native Inhabitants |  dreams, nightmares, occult dragons, abominations, sleeping souls |
+> > | Traits | Immeasurable Scope, Microgravity, Erratic Time, Enhanced Magic (Occult) |
+> > | Category | Fifth Dimension |
+> > | Divinities | - |
+> > | Native Inhabitants | dreams, nightmares, occult dragons, abominations, sleeping souls |

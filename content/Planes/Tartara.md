@@ -8,14 +8,14 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Erratic Time, Immeasurable scope |
-> > | Category |  River Styx |
-> > | Divinities |  [[Klemnestron]], Fiendish Lords |
-> > | Native Inhabitants |  Erevi, vulga, titans, vethralls, fiends, tortured souls |
+> > | Traits | Erratic Time, Immeasurable scope |
+> > | Category | River Styx |
+> > | Divinities | [[Klemnestron]], Fiendish Lords |
+> > | Native Inhabitants | Erevi, vulga, titans, vethralls, fiends, tortured souls |
 
 ## Creation
 

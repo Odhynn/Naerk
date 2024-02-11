@@ -11,26 +11,27 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Title |  "The Elevated Spirit", "Inner Self" |
-> > | Category |  Primordial |
-> > | Edicts |  Self-Perfection, Path to clarity, Sense of purpose |
-> > | Portfolio |  Limpidity, Personal struggle, Purity, Harmony |
-> > | Anathema |  Procrastination, Indolence, Recklessness |
-> > | Followers |  Wanderers, Monks, Disciples, Acolytes, Seekers, Selanahri, Hithlen |
-> > | Pantheon |  [[Divinalis]], [[Sapphire Guard]], Hithlen |
-> > | Plane |  [[Utopia]] |
+> > | Title | "The Elevated Spirit", "Inner Self" |
+> > | Category | Primordial |
+> > | Edicts | Self-Perfection, Path to clarity, Sense of purpose |
+> > | Portfolio | Limpidity, Personal struggle, Purity, Harmony |
+> > | Anathema | Procrastination, Indolence, Recklessness |
+> > | Followers | Wanderers, Monks, Disciples, Acolytes, Seekers, Selanahri, Hithlen |
+> > | Pantheon | [[Divinalis]], [[Sapphire Guard]], Hithlen |
+> > | Plane | [[Utopia]] |
 >
-> > [!quote] Devotee Benefits
+> > [!quote]
 > > 
+> > ###### Devotee Benefits
 > > | | |
 > > | --- | --- |
-> > | Divine Ability |  Constitution or Wisdom |
-> > | Divine Font |  Heal |
-> > | Divine Skill |  Arcana |
-> > | Favored Weapon |  Quarterstaff |
-> > | Domains |  Dreams, Introspection, Magic, Perfection, Repose, Soul, Truth |
-> > | Cleric Spells |  1st: True Strike, 2nd: Comprehend Language, 4th: Clairvoyance |
+> > | Divine Ability | Constitution or Wisdom |
+> > | Divine Font | Heal |
+> > | Divine Skill | Arcana |
+> > | Favored Weapon | Quarterstaff |
+> > | Domains | Dreams, Introspection, Magic, Perfection, Repose, Soul, Truth |
+> > | Cleric Spells | 1st: True Strike, 2nd: Comprehend Language, 4th: Clairvoyance |

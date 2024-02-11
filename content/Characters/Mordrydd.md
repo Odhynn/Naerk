@@ -18,23 +18,24 @@ wiki:
   weight: 200 lb.
   residence: Kranårvikk
 ---
-> [!attributes] Mordrydd Emberbeard
+> [!attributes] 
 > > [!grid]
-> > 
-> > ![[../img/Mordrydd-20240205.jpg]]
+> >
+> > ![[../img/Tordun-by-Magnus-Toren.jpg]]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4756<br> Thyrskogen, [[Bjåglant]] |
+> > | born | 4756, Thyrskogen |
 > > | nationality | Bjåglander |
 > > | height | 4'8" |
 > > | weight | 200 lb. |
 > > | appearance | <li>chestnut hair</li><li>titian beard</li><li>brown eyes</li> |
 >
-> > [!quote] Affiliations
+> > [!quote]
 > > 
+> > ###### Affiliations
 > > | | |
 > > | --- | --- |
 > > | allegiance | [[Dohjil]] |
@@ -70,3 +71,7 @@ After the first explosion (which was [[a-bad-day-for-shopping|technically not hi
 In the Gathering under the [[Torniv]] on 1 Rainfalls 4818, to his surprise he won the lottery and was chosen as a Champion of the North, representing the [[Dohjil]] tribe.
 Many jeers were heard that he, a foreigner, would be picked for this otherwise supposedly ceremonial honour; his reactionary attitude towards traditions was overcome by the desire to shut everyone's mouth, and he accepted the mantle.
 Ever since, he has been roaming around with the other chosen, on a quest to prove to the [[Aspects]] that the North is not completely beyond redemption. 
+
+---
+
+> artwork: "Tordun" by [Magnus Norén](https://www.artstation.com/magnoren)

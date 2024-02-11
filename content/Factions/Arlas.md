@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Three Wolves |
-> > | Symbol |  Three Wolf heads |
-> > | Region |  South [[Fervolosh]] |
-> > | Capital |  [[Ferglund]] |
-> > | Leader |  [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |
+> > | Meaning | Three Wolves |
+> > | Symbol | Three Wolf heads |
+> > | Region | South [[Fervolosh]] |
+> > | Capital | [[Ferglund]] |
+> > | Leader | [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |

@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Wise Dragon |
-> > | Symbol |  Knotted dragon |
-> > | Region |  South [[Foltar]], South [[Volostrol]], [[Norfol]] |
-> > | Capital |  [[Tarfuhl]] |
-> > | Leader |  [[Jarl Carlog\|Jarl Carlog Gorberosh]] |
+> > | Meaning | Wise Dragon |
+> > | Symbol | Knotted dragon |
+> > | Region | South [[Foltar]], South [[Volostrol]], [[Norfol]] |
+> > | Capital | [[Tarfuhl]] |
+> > | Leader | [[Jarl Carlog\|Jarl Carlog Gorberosh]] |

@@ -7,18 +7,18 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Boreal, Tundra |
-> > | Capital |  Bärshamn |
-> > | Government |  Clan Monarchy |
-> > | Languages |  Common, Dwarven, Giant, Orcish |
-> > | Population |  190000 |
-> > | Religions |  [[Drokasner]], [[Crel'vach]], [[Volrek]], [[Lastra]], [[Klont]], [[Vard]], [[Kromlek]] |
-> > | Imports |  Fruit, Grain, Silk |
-> > | Exports |  Fish, Forged Metal, Precious Metals, Timber |
+> > | Climate | Boreal, Tundra |
+> > | Capital | Bärshamn |
+> > | Government | Clan Monarchy |
+> > | Languages | Common, Dwarven, Giant, Orcish |
+> > | Population | 190000 |
+> > | Religions | [[Drokasner]], [[Crel'vach]], [[Volrek]], [[Lastra]], [[Klont]], [[Vard]], [[Kromlek]] |
+> > | Imports | Fruit, Grain, Silk |
+> > | Exports | Fish, Forged Metal, Precious Metals, Timber |
 
 - nordic kingdom of dwarven clans and human jarldoms that have persisted in the northeastern reaches of [[Athalaar]] for centuries
 

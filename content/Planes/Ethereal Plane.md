@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Immeasurable scope, Subjective Gravity, Timeless, Enhanced Magic (Occult) |
-> > | Category |  Fifth Dimension |
-> > | Divinities |  - |
-> > | Native Inhabitants |  spectres, phantoms, ghosts, occult dragons, wandering souls |
+> > | Traits | Immeasurable scope, Subjective Gravity, Timeless, Enhanced Magic (Occult) |
+> > | Category | Fifth Dimension |
+> > | Divinities | - |
+> > | Native Inhabitants | spectres, phantoms, ghosts, occult dragons, wandering souls |

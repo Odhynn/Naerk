@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Low Gravity |
-> > | Category |  River Styx |
-> > | Divinities |  [[Lainek]], [[Heddba]], Celestial Emissaries |
-> > | Native Inhabitants |  Azata, Angels, halfling souls, devoted souls |
+> > | Traits | Low Gravity |
+> > | Category | River Styx |
+> > | Divinities | [[Lainek]], [[Heddba]], Celestial Emissaries |
+> > | Native Inhabitants | Azata, Angels, halfling souls, devoted souls |

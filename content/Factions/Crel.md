@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Bear |
-> > | Symbol |  Bearpaw with two axeheads |
-> > | Region |  Southwest [[Fervolosh]] |
-> > | Capital |  [[Kreida]] |
-> > | Leader |  [[Jarl Snåfr\|Jarl Snåfr Kugroên]] |
+> > | Meaning | Bear |
+> > | Symbol | Bearpaw with two axeheads |
+> > | Region | Southwest [[Fervolosh]] |
+> > | Capital | [[Kreida]] |
+> > | Leader | [[Jarl Snåfr\|Jarl Snåfr Kugroên]] |

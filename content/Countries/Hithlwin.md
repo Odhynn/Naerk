@@ -9,16 +9,16 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Warm |
-> > | Capital |  Elmatassi |
-> > | Government |  Loose |
-> > | Languages |  Hithlen |
-> > | Population |  3200000 |
-> > | Religions |  [[Sumril]], [[Yerastu]], [[Hansa]], [[Yast]], [[Neverborn]] |
-> > | Imports |  Steel, Granite, Slaves, Marble, Livestock, Gold, Diamonds |
-> > | Exports |  Corn, Grain, Meat, Elephants, Poetry, Artworks, Slaves, Ivory |
-> > | Important Events |  Swords of Balaruna, Expanding Empire |
+> > | Climate | Warm |
+> > | Capital | Elmatassi |
+> > | Government | Loose |
+> > | Languages | Hithlen |
+> > | Population | 3200000 |
+> > | Religions | [[Sumril]], [[Yerastu]], [[Hansa]], [[Yast]], [[Neverborn]] |
+> > | Imports | Steel, Granite, Slaves, Marble, Livestock, Gold, Diamonds |
+> > | Exports | Corn, Grain, Meat, Elephants, Poetry, Artworks, Slaves, Ivory |
+> > | Important Events | Swords of Balaruna, Expanding Empire |

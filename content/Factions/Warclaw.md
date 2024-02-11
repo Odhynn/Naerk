@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Members |  Skinwalkers, savages, werewolves |
-> > | Symbol |  Mark of Four Claws |
-> > | Region |  [[Rammok Wastes]], [[Karrokh]], [[Allwick]], numerous other regions |
-> > | Capital |  [[Tas-Meir]] |
-> > | Leader |  unknown, possibly a Rammok warlord |
+> > | Members | Skinwalkers, savages, werewolves |
+> > | Symbol | Mark of Four Claws |
+> > | Region | [[Rammok Wastes]], [[Karrokh]], [[Allwick]], numerous other regions |
+> > | Capital | [[Tas-Meir]] |
+> > | Leader | unknown, possibly a Rammok warlord |

@@ -11,26 +11,27 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Title |  "The Creator" |
-> > | Category |  - |
-> > | Edicts |  Creativity, Create beatiful things, Passion for life, Gains |
-> > | Portfolio |  Creation, Beauty, Life, Love, Arts, Hope |
-> > | Anathema |  Destuction, Pillaging, Slaughter, Destroy artwork |
-> > | Followers |  Bards, poets, sculptors, artisans, lovers, healers, commonfolk |
-> > | Pantheon |  - |
-> > | Plane |  [[Creation]] |
+> > | Title | "The Creator" |
+> > | Category | - |
+> > | Edicts | Creativity, Create beatiful things, Passion for life, Gains |
+> > | Portfolio | Creation, Beauty, Life, Love, Arts, Hope |
+> > | Anathema | Destuction, Pillaging, Slaughter, Destroy artwork |
+> > | Followers | Bards, poets, sculptors, artisans, lovers, healers, commonfolk |
+> > | Pantheon | - |
+> > | Plane | [[Creation]] |
 >
-> > [!quote] Devotee Benefits
+> > [!quote]
 > > 
+> > ###### Devotee Benefits
 > > | | |
 > > | --- | --- |
-> > | Divine Ability |  Dexterity or Intelligence |
-> > | Divine Font |  Heal |
-> > | Divine Skill |  Crafting |
-> > | Favored Weapon |  Spear |
-> > | Domains |  Creation, Cities, Family, Healing, Passion |
-> > | Cleric Spells |  1st: Instant Pottery, 2nd: Instant Parade, 4th: Creation |
+> > | Divine Ability | Dexterity or Intelligence |
+> > | Divine Font | Heal |
+> > | Divine Skill | Crafting |
+> > | Favored Weapon | Spear |
+> > | Domains | Creation, Cities, Family, Healing, Passion |
+> > | Cleric Spells | 1st: Instant Pottery, 2nd: Instant Parade, 4th: Creation |

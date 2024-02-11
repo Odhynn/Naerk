@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Deadly Harpoon |
-> > | Symbol |  Narwhal with harpoon horn |
-> > | Region |  South [[Walrus Shores]] |
-> > | Capital |  [[Finrek]] |
-> > | Leader |  [[Jarl Kraja\|Jarl Kraja Blugar]] |
+> > | Meaning | Deadly Harpoon |
+> > | Symbol | Narwhal with harpoon horn |
+> > | Region | South [[Walrus Shores]] |
+> > | Capital | [[Finrek]] |
+> > | Leader | [[Jarl Kraja\|Jarl Kraja Blugar]] |

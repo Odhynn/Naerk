@@ -11,16 +11,14 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | age |  unknown |
-> > | weapon of choice |  scythe |
-> > | birthplace |  Arbader? |
-> > | nationality |  Arbader? |
-> > | appearance |  Bald, Hooded |
-> > | residence |  Arbader (as of 4818) |
+> > | born | unknown year |
+> > | appearance | Bald, Hooded |
+> > | weapon | scythe
+> > | residence | Arbader |
 
 > _"Mysterious figure. Just when you think you know enough, he surprises you yet again."_
 

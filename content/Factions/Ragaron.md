@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Bloody Axes |
-> > | Symbol |  Crossed axes dripping blood |
-> > | Region |  East [[Foltar]], north [[Norfol]], West [[Volostrol]] |
-> > | Capital |  [[Garvach]] |
-> > | Leader |  [[Warlord Darabal\|Warlord Darabal Øren]] |
+> > | Meaning | Bloody Axes |
+> > | Symbol | Crossed axes dripping blood |
+> > | Region | East [[Foltar]], north [[Norfol]], West [[Volostrol]] |
+> > | Capital | [[Garvach]] |
+> > | Leader | [[Warlord Darabal\|Warlord Darabal Øren]] |

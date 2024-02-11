@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Red Ears |
-> > | Symbol |  Ear-shaped lines |
-> > | Region |  North [[Raemar Tundra]] |
-> > | Capital |  [[Drafhün]] |
-> > | Leader |  [[Jarl Carlog\|Jarl Carlog Gorberosh]] |
+> > | Meaning | Red Ears |
+> > | Symbol | Ear-shaped lines |
+> > | Region | North [[Raemar Tundra]] |
+> > | Capital | [[Drafhün]] |
+> > | Leader | [[Jarl Carlog\|Jarl Carlog Gorberosh]] |

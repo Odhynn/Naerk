@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Swift Bow |
-> > | Symbol |  Symmetrical bows with an arrow |
-> > | Region |  West [[Fervolosh]] |
-> > | Capital |  [[Lampsir]] |
-> > | Leader |  [[Bolka Falgyrd\|Jarl Falgyrd Bolrag]] |
+> > | Meaning | Swift Bow |
+> > | Symbol | Symmetrical bows with an arrow |
+> > | Region | West [[Fervolosh]] |
+> > | Capital | [[Lampsir]] |
+> > | Leader | [[Bolka Falgyrd\|Jarl Falgyrd Bolrag]] |

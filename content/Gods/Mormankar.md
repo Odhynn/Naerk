@@ -11,26 +11,27 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Title |  "The Diligent Beaver" |
-> > | Category |  Aspects |
-> > | Edicts |  Communal building, constant effort |
-> > | Portfolio |  Community, hard work, creating amenities and facilities |
-> > | Anathema |  constant sloth, letting a foundation become ruin |
-> > | Followers |  Builders, tacticians, jarls, engineers, laborers, lumberjacks, tribes, gnomes |
-> > | Pantheon |  tribal, Gnome |
-> > | Plane |  [[Evergrowing Forest]] |
+> > | Title | "The Diligent Beaver" |
+> > | Category | Aspects |
+> > | Edicts | Communal building, constant effort |
+> > | Portfolio | Community, hard work, creating amenities and facilities |
+> > | Anathema | constant sloth, letting a foundation become ruin |
+> > | Followers | Builders, tacticians, jarls, engineers, laborers, lumberjacks, tribes, gnomes |
+> > | Pantheon | tribal, Gnome |
+> > | Plane | [[Evergrowing Forest]] |
 >
-> > [!quote] Devotee Benefits
+> > [!quote]
 > > 
+> > ###### Devotee Benefits
 > > | | |
 > > | --- | --- |
-> > | Divine Ability |  Constitution or Intelligence |
-> > | Divine Font |  Heal |
-> > | Divine Skill |  Crafting |
-> > | Favored Weapon |  Hatchet |
-> > | Domains |  Cities, Family, Protection, Toil, Wood |
-> > | Cleric Spells |  1st: Weave Wood, 3rd: Wall of Thorns, 5th: Wall of Stone |
+> > | Divine Ability | Constitution or Intelligence |
+> > | Divine Font | Heal |
+> > | Divine Skill | Crafting |
+> > | Favored Weapon | Hatchet |
+> > | Domains | Cities, Family, Protection, Toil, Wood |
+> > | Cleric Spells | 1st: Weave Wood, 3rd: Wall of Thorns, 5th: Wall of Stone |

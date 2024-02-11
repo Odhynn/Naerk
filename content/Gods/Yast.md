@@ -11,26 +11,27 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Title |  "Void", "Outer Child", "Resentful" |
-> > | Category |  [[Fifth Dimension]] |
-> > | Edicts |  Invade and destroy material plane, Grief, Hate |
-> > | Portfolio |  Destruction, Fear, Sorrow, Outer beings |
-> > | Anathema |  Bind to objects, Wealth |
-> > | Followers |  lunatics, nihilists, aberrations, abominations |
-> > | Pantheon |  - |
-> > | Plane |  [[Void]] |
+> > | Title | "Void", "Outer Child", "Resentful" |
+> > | Category | [[Fifth Dimension]] |
+> > | Edicts | Invade and destroy material plane, Grief, Hate |
+> > | Portfolio | Destruction, Fear, Sorrow, Outer beings |
+> > | Anathema | Bind to objects, Wealth |
+> > | Followers | lunatics, nihilists, aberrations, abominations |
+> > | Pantheon | - |
+> > | Plane | [[Void]] |
 >
-> > [!quote] Devotee Benefits
+> > [!quote]
 > > 
+> > ###### Devotee Benefits
 > > | | |
 > > | --- | --- |
-> > | Divine Ability |  Intelligence or Charisma |
-> > | Divine Font |  Harm |
-> > | Divine Skill |  Occultism |
-> > | Favored Weapon |  Bastard Sword |
-> > | Domains |  Abomination, Darkness, Destruction, Nightmares, Pain, Sorrow, Star, Void |
-> > | Cleric Spells |  1st: Grim Tendrils, 5th: Aberrant Form, 9th: Astral Labyrinth |
+> > | Divine Ability | Intelligence or Charisma |
+> > | Divine Font | Harm |
+> > | Divine Skill | Occultism |
+> > | Favored Weapon | Bastard Sword |
+> > | Domains | Abomination, Darkness, Destruction, Nightmares, Pain, Sorrow, Star, Void |
+> > | Cleric Spells | 1st: Grim Tendrils, 5th: Aberrant Form, 9th: Astral Labyrinth |

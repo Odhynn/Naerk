@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  - |
-> > | Category |  Elemental |
-> > | Divinities |  [[Nentha]], Aspects |
-> > | Native Inhabitants |  animals, plants, humanoids, giants, dragons and numerous other races and creatures |
+> > | Traits | - |
+> > | Category | Elemental |
+> > | Divinities | [[Nentha]], Aspects |
+> > | Native Inhabitants | animals, plants, humanoids, giants, dragons and numerous other races and creatures |

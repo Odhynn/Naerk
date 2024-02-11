@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Razor Tusks |
-> > | Symbol |  Spear with tusks and feathers |
-> > | Region |  west [[Mherg Tundra]], east [[Rhaemar Tundra]] |
-> > | Capital |  [[Razortusk]] |
-> > | Leader |  [[Galdosh Caltrak\|Galdosh Caltrak Ulbar]] |
+> > | Meaning | Razor Tusks |
+> > | Symbol | Spear with tusks and feathers |
+> > | Region | west [[Mherg Tundra]], east [[Rhaemar Tundra]] |
+> > | Capital | [[Razortusk]] |
+> > | Leader | [[Galdosh Caltrak\|Galdosh Caltrak Ulbar]] |

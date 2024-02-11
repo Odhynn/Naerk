@@ -11,21 +11,20 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | age |  64 (b. 4756) |
-> > | birthplace |  Kranårvikk, Korhond |
-> > | nationality |  Korhond / Dohjil |
-> > | height |  5'10" |
-> > | weight |  180 lb. |
-> > | appearance |  White hair and beard, brown eyes |
-> > | residence |  Kranårvikk |
+> > | age | 4756, Kranårvikk |
+> > | nationality | Dohjil Korhonder |
+> > | height | 5'10" |
+> > | weight | 180 lb. |
+> > | appearance | White hair and beard, brown eyes |
+> > | residence | Kranårvikk |
 
 > _"Watch and learn!"_
 
-Jarl Bugril Menilson of [[Kranårvikk]] and the [[Dohjil]] tribe
+**Bugril Menilson**, Jarl of [[Kranårvikk]] and the [[Dohjil]] tribe
 Father of [[Folegg Bugrilson]]
 Bad health, cough
 

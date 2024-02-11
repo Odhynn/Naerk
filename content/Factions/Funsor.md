@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Avalance |
-> > | Symbol |  Three white lines circling a mountain |
-> > | Region |  Northeast [[Hlafentar]] |
-> > | Capital |  [[Higg]] |
-> > | Leader |  [[Kworion Frostwind]] |
+> > | Meaning | Avalance |
+> > | Symbol | Three white lines circling a mountain |
+> > | Region | Northeast [[Hlafentar]] |
+> > | Capital | [[Higg]] |
+> > | Leader | [[Kworion Frostwind]] |

@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Shield Bearers |
-> > | Symbol |  Five rhombus shields |
-> > | Region |  Northeast [[Fervolosh]], east [[Mherg Tundra]] |
-> > | Capital |  [[Karjanal]] |
-> > | Leader |  [[Jarl Molodek\|Jarl Molodek Ironwood]] |
+> > | Meaning | Shield Bearers |
+> > | Symbol | Five rhombus shields |
+> > | Region | Northeast [[Fervolosh]], east [[Mherg Tundra]] |
+> > | Capital | [[Karjanal]] |
+> > | Leader | [[Jarl Molodek\|Jarl Molodek Ironwood]] |

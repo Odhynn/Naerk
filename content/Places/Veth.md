@@ -8,12 +8,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Country |  Beyond |
-> > | Region |  Beyond |
+> > | Country | Beyond |
+> > | Region | Beyond |
 
 **The Pale Moon**
 

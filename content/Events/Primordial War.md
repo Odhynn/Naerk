@@ -8,12 +8,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Place |  [[Void]], [[Material Plane]] |
-> > | Time |  millenia ago |
+> > | Place | [[Void]], [[Material Plane]] |
+> > | Time | millenia ago |
 
 *In the beginning, the world did not exist as we know it now. Time and space were concepts that held little or no meaning, until much later.*
 

@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Timeless, Static Morphic, Subjective Gravity |
-> > | Category |  River Styx |
-> > | Divinities |  [[Yerastu]] |
-> > | Native Inhabitants |  Kenemi, unjudged souls, devoted souls |
+> > | Traits | Timeless, Static Morphic, Subjective Gravity |
+> > | Category | River Styx |
+> > | Divinities | [[Yerastu]] |
+> > | Native Inhabitants | Kenemi, unjudged souls, devoted souls |

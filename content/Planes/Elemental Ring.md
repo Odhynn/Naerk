@@ -8,13 +8,13 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Enhanced Magic (Primal) |
-> > | Category |  Elemental Ring |
-> > | Divinities |  [[Gibba]], [[Fyrlean]], [[Saekla]], [[Hydarax]] |
-> > | Native Inhabitants |  Elementals |
+> > | Traits | Enhanced Magic (Primal) |
+> > | Category | Elemental Ring |
+> > | Divinities | [[Gibba]], [[Fyrlean]], [[Saekla]], [[Hydarax]] |
+> > | Native Inhabitants | Elementals |
 
 Contains [[Earth Quarter]], [[Fire Quarter]], [[Air Quarter]] and [[Water Quarter]].

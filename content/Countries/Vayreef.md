@@ -9,16 +9,16 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Cold Aquatic |
-> > | Capital |  Zeirr |
-> > | Government |  Queen |
-> > | Languages |  Aquan |
-> > | Population |  55000 |
-> > | Religions |  [[Jalerk]] |
-> > | Imports |  Slaves, Forged Metals |
-> > | Exports |  Slaves, Fish, Exotic Weapons, Pearls Mercenaries, Sailors, Pirates |
-> > | Important Events |  Raiding Pirates |
+> > | Climate | Cold Aquatic |
+> > | Capital | Zeirr |
+> > | Government | Queen |
+> > | Languages | Aquan |
+> > | Population | 55000 |
+> > | Religions | [[Jalerk]] |
+> > | Imports | Slaves, Forged Metals |
+> > | Exports | Slaves, Fish, Exotic Weapons, Pearls Mercenaries, Sailors, Pirates |
+> > | Important Events | Raiding Pirates |

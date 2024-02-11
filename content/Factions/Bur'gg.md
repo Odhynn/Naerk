@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Lakemen |
-> > | Symbol |  Two serpents forming a lake |
-> > | Region |  [[Åperbung]], east [[Volostrol]], north [[Volosherg]] |
-> > | Capital |  [[Bur'gg]] |
-> > | Leader |  [[Jarlskona Darma]] |
+> > | Meaning | Lakemen |
+> > | Symbol | Two serpents forming a lake |
+> > | Region | [[Åperbung]], east [[Volostrol]], north [[Volosherg]] |
+> > | Capital | [[Bur'gg]] |
+> > | Leader | [[Jarlskona Darma]] |

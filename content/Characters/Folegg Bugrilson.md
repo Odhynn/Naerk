@@ -10,21 +10,20 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | age |  22 (b. 4796) |
-> > | birthplace |  Krannorvick, Korhond |
-> > | nationality |  Korhond / Dohjil |
-> > | height |  5'11" |
-> > | weight |  132 lb. |
-> > | appearance |  golden hair, barely a moustache |
-> > | residence |  Kranårvikk (as of 4818) |
+> > | born | 4796, Kranårvikk |
+> > | nationality | Dohjil Korhonder |
+> > | height | 5'11" |
+> > | weight | 132 lb. |
+> > | appearance | golden hair, barely a moustache |
+> > | residence | Kranårvikk (as of 4818) |
 
 
-Son of [[Folegg Bugrilson]]
-Patient of [[Mordrydd]]
+Son of [[Jarl Bugril]] Menilson
+Patient of [[Mordrydd|Mordrydd Emberbeard]]
 Selfish, weakling
 
 > [!quote] 

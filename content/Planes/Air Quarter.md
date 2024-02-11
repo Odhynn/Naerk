@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Air Essence, Microgravity, Enhanced Magic (Air) |
-> > | Category |  Elemental Ring |
-> > | Divinities |  [[Saekla]], [[Drokasner]] |
-> > | Native Inhabitants |  Air Elementals, Sky Dragons, winged creatures, windfolk souls |
+> > | Traits | Air Essence, Microgravity, Enhanced Magic (Air) |
+> > | Category | Elemental Ring |
+> > | Divinities | [[Saekla]], [[Drokasner]] |
+> > | Native Inhabitants | Air Elementals, Sky Dragons, winged creatures, windfolk souls |

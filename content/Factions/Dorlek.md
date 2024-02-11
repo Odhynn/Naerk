@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Flesh Tearers |
-> > | Symbol |  Crossed black and white daggers with a blood drop |
-> > | Region |  Central [[Fervolosh]] |
-> > | Capital |  [[Dorlek]] |
-> > | Leader |  [[Mother Kala Bloodfang]] |
+> > | Meaning | Flesh Tearers |
+> > | Symbol | Crossed black and white daggers with a blood drop |
+> > | Region | Central [[Fervolosh]] |
+> > | Capital | [[Dorlek]] |
+> > | Leader | [[Mother Kala Bloodfang]] |

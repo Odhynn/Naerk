@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Golden Eagle |
-> > | Symbol |  Diving eagle |
-> > | Region |  Northwest [[Hlafentar]] |
-> > | Capital |  [[Hlafengrond]] |
-> > | Leader |  [[Galnagh Yuradal\|Galnagh Yuradal Kasnajar]] |
+> > | Meaning | Golden Eagle |
+> > | Symbol | Diving eagle |
+> > | Region | Northwest [[Hlafentar]] |
+> > | Capital | [[Hlafengrond]] |
+> > | Leader | [[Galnagh Yuradal\|Galnagh Yuradal Kasnajar]] |

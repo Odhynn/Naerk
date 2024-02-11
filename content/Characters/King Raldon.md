@@ -11,15 +11,14 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | birthplace |  Whistor, 4717 |
-> > | age of death |  60 |
-> > | nationality |  Whistor |
-> > | appearance |  Gold Hair, Blue Eyes, Tan Skin |
-> > | residence |  Arbader (as of 4818) |
+> > | born | 4717, Whistor |
+> > | diedh | 4767, Whistor |
+> > | nationality | Whistorian |
+> > | appearance | Gold Hair, Blue Eyes, Tan Skin |
 
 > _"It's all his fault"_
 

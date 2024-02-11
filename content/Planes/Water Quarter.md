@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Water Essence, Enhanced Magic (Water) |
-> > | Category |  Elemental Ring |
-> > | Divinities |  [[Hydarax]], [[Jalerk]], [[Fallfaunt]] |
-> > | Native Inhabitants |  Water Elementals, sea monsters, devoted souls, finfolk souls |
+> > | Traits | Water Essence, Enhanced Magic (Water) |
+> > | Category | Elemental Ring |
+> > | Divinities | [[Hydarax]], [[Jalerk]], [[Fallfaunt]] |
+> > | Native Inhabitants | Water Elementals, sea monsters, devoted souls, finfolk souls |

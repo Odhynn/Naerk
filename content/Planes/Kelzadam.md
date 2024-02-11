@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  High Gravity, Finite Scope |
-> > | Category |  Elemental Ring |
-> > | Divinities |  [[Klont]], [[Vard]], [[Kromlek]], [[Anhalt]] |
-> > | Native Inhabitants |  Elementals, dwarven souls, gnome souls, devoted souls |
+> > | Traits | High Gravity, Finite Scope |
+> > | Category | Elemental Ring |
+> > | Divinities | [[Klont]], [[Vard]], [[Kromlek]], [[Anhalt]] |
+> > | Native Inhabitants | Elementals, dwarven souls, gnome souls, devoted souls |

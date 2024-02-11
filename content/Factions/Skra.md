@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Steady Hand |
-> > | Symbol |  Intersecting Claws |
-> > | Region |  [[Hlafentar]] Hills, Northwest [[Fervolosh]] |
-> > | Capital |  [[Skrudok]] |
-> > | Leader |  [[Galdosh Uldrek]] |
+> > | Meaning | Steady Hand |
+> > | Symbol | Intersecting Claws |
+> > | Region | [[Hlafentar]] Hills, Northwest [[Fervolosh]] |
+> > | Capital | [[Skrudok]] |
+> > | Leader | [[Galdosh Uldrek]] |

@@ -12,15 +12,14 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | age |  unknown |
-> > | birthplace |  Hashnev, Arbader |
-> > | nationality |  Arbader |
-> > | appearance |  Black hair, pale skin, rose eyes |
-> > | residence |  Arbader (as of 4818) |
+> > | born | unknown year, Hashnev |
+> > | nationality | Arbaderi |
+> > | appearance | Black hair, pale skin, rose eyes |
+> > | residence | Arbader |
 
 > _"Ugly name. For some reason they liked it, and they got used to it.""_
 

@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Herd of the Larch |
-> > | Symbol |  Horsehoof |
-> > | Region |  East [[Fervolosh]], southeast [[Mherg Tundra]] |
-> > | Capital |  [[Laerov]] |
-> > | Leader |  [[Norladar Sunderhoof\|Norladar Sorag]] |
+> > | Meaning | Herd of the Larch |
+> > | Symbol | Horsehoof |
+> > | Region | East [[Fervolosh]], southeast [[Mherg Tundra]] |
+> > | Capital | [[Laerov]] |
+> > | Leader | [[Norladar Sunderhoof\|Norladar Sorag]] |

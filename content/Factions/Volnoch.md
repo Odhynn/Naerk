@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Underpine |
-> > | Symbol |  Pine with roots |
-> > | Region |  North [[Fervolosh]] |
-> > | Capital |  [[Volteg]] |
-> > | Leader |  [[Elder Kaldran\| Elder Kaldran Tarnek]] |
+> > | Meaning | Underpine |
+> > | Symbol | Pine with roots |
+> > | Region | North [[Fervolosh]] |
+> > | Capital | [[Volteg]] |
+> > | Leader | [[Elder Kaldran\| Elder Kaldran Tarnek]] |

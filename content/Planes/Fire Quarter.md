@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Fire Essence, Enhanced Magic (Fire) |
-> > | Category |  Elemental Ring |
-> > | Divinities |  [[Fyrlean]], [[Klemnestron]] |
-> > | Native Inhabitants |  Fire elementals, red dragons, fire giants, devoted souls, firefolk souls |
+> > | Traits | Fire Essence, Enhanced Magic (Fire) |
+> > | Category | Elemental Ring |
+> > | Divinities | [[Fyrlean]], [[Klemnestron]] |
+> > | Native Inhabitants | Fire elementals, red dragons, fire giants, devoted souls, firefolk souls |

@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Timeless, Sentient Morphic, Negative Essence |
-> > | Category |  Outer |
-> > | Divinities |  [[Amehan]], [[Neverborn]] |
-> > | Native Inhabitants |  Negative Outsiders, devoted souls |
+> > | Traits | Timeless, Sentient Morphic, Negative Essence |
+> > | Category | Outer |
+> > | Divinities | [[Amehan]], [[Neverborn]] |
+> > | Native Inhabitants | Negative Outsiders, devoted souls |

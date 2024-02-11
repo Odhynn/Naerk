@@ -7,16 +7,16 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Temperate Continental, Tundra |
-> > | Capital |  - |
-> > | Government |  Tribal Council |
-> > | Languages |  Orcish |
-> > | Population |  80000 |
-> > | Religions |  [[Malahir]], [[Karadosh]], [[Huntsman]], [[B'tolen]], [[Crel'vach]] |
+> > | Climate | Temperate Continental, Tundra |
+> > | Capital | - |
+> > | Government | Tribal Council |
+> > | Languages | Orcish |
+> > | Population | 80000 |
+> > | Religions | [[Malahir]], [[Karadosh]], [[Huntsman]], [[B'tolen]], [[Crel'vach]] |
 
 - loose confederation of orc tribes living on the fringes of the eastern Harrowlands
 

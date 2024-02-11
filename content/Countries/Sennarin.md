@@ -7,18 +7,18 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Temperate Continental, Temperate Oceanic |
-> > | Capital |  Yoakyuuden |
-> > | Government |  Clan Oligarchy |
-> > | Languages |  Common, Elven |
-> > | Population |  80000 |
-> > | Religions |  [[Yerastu]], [[Hansa]], [[Sumril]], [[Reszek]] |
-> > | Imports |  Livestock, Fruit |
-> > | Exports |  Forged Metals, Grain |
+> > | Climate | Temperate Continental, Temperate Oceanic |
+> > | Capital | Yoakyuuden |
+> > | Government | Clan Oligarchy |
+> > | Languages | Common, Elven |
+> > | Population | 80000 |
+> > | Religions | [[Yerastu]], [[Hansa]], [[Sumril]], [[Reszek]] |
+> > | Imports | Livestock, Fruit |
+> > | Exports | Forged Metals, Grain |
 
 - nation of human and elven refugees fleeing from a cataclysmic event in their homeworld of the Realms Beyond
 

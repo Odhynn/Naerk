@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Broken Skull |
-> > | Symbol |  Broken skull |
-> > | Region |  East [[Fervolosh]], West [[Foltar]] |
-> > | Capital |  [[No'Crel]] |
-> > | Leader |  [[Elder Gorhald\|Elder Gorhald Baragon]] |
+> > | Meaning | Broken Skull |
+> > | Symbol | Broken skull |
+> > | Region | East [[Fervolosh]], West [[Foltar]] |
+> > | Capital | [[No'Crel]] |
+> > | Leader | [[Elder Gorhald\|Elder Gorhald Baragon]] |

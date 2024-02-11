@@ -8,12 +8,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Place |  [[Korhond]], secret location |
-> > | Time |  4221 till now |
+> > | Place | [[Korhond]], secret location |
+> > | Time | 4221 till now |
 
 
 > [!quote] 

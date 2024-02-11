@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Storm Tree |
-> > | Symbol |  Thunder in a tree background |
-> > | Region |  [[Volosherg]], south [[Folumb]] |
-> > | Capital |  [[Jaldram]] |
-> > | Leader |  [[Jarl Nargil\|Jarl Nargil Dalbach]] |
+> > | Meaning | Storm Tree |
+> > | Symbol | Thunder in a tree background |
+> > | Region | [[Volosherg]], south [[Folumb]] |
+> > | Capital | [[Jaldram]] |
+> > | Leader | [[Jarl Nargil\|Jarl Nargil Dalbach]] |

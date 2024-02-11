@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Static Morphic, Flowing Time, Immeasurable Scope |
-> > | Category |  Fifth Dimension |
-> > | Divinities |  [[Sumril]], [[Hansa]], [[Sennek]] |
-> > | Native Inhabitants |  Hermit outsiders, extraplanar dragons, asura, devoted souls, pilgrims |
+> > | Traits | Static Morphic, Flowing Time, Immeasurable Scope |
+> > | Category | Fifth Dimension |
+> > | Divinities | [[Sumril]], [[Hansa]], [[Sennek]] |
+> > | Native Inhabitants | Hermit outsiders, extraplanar dragons, asura, devoted souls, pilgrims |

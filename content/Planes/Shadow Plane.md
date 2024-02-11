@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Shadow Essence, Negative Essence |
-> > | Category |  Fifth Dimension |
-> > | Divinities |  [[Voolthow]] |
-> > | Native Inhabitants |  Undead, shadow creatures, devoted souls, wayangs, shadowfolk souls |
+> > | Traits | Shadow Essence, Negative Essence |
+> > | Category | Fifth Dimension |
+> > | Divinities | [[Voolthow]] |
+> > | Native Inhabitants | Undead, shadow creatures, devoted souls, wayangs, shadowfolk souls |

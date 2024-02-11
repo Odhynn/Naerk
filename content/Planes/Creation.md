@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Timeless, Sentient Morphic, Positive Essence |
-> > | Category |  Outer |
-> > | Divinities |  [[Nahema]] |
-> > | Native Inhabitants |  Positive Outsiders, devoted souls |
+> > | Traits | Timeless, Sentient Morphic, Positive Essence |
+> > | Category | Outer |
+> > | Divinities | [[Nahema]] |
+> > | Native Inhabitants | Positive Outsiders, devoted souls |

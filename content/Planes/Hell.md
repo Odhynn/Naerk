@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  - |
-> > | Category |  Outer |
-> > | Divinities |  [[Sergonial]], [[Veiroch]], Fiendish Lords |
-> > | Native Inhabitants |  Devils, condemned souls, pact souls, devoted souls |
+> > | Traits | - |
+> > | Category | Outer |
+> > | Divinities | [[Sergonial]], [[Veiroch]], Fiendish Lords |
+> > | Native Inhabitants | Devils, condemned souls, pact souls, devoted souls |

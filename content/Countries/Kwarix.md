@@ -7,18 +7,18 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Climate |  Temperate Oceanic |
-> > | Capital |  Brass Eyrie |
-> > | Government |  Constitutional Monarchy |
-> > | Languages |  Gnomish |
-> > | Population |  120000 |
-> > | Religions |  [[Klont]], [[Vard]], [[Heddba]], [[Υerastu]] |
-> > | Imports |  - |
-> > | Exports |  - |
+> > | Climate | Temperate Oceanic |
+> > | Capital | Brass Eyrie |
+> > | Government | Constitutional Monarchy |
+> > | Languages | Gnomish |
+> > | Population | 120000 |
+> > | Religions | [[Klont]], [[Vard]], [[Heddba]], [[Υerastu]] |
+> > | Imports | - |
+> > | Exports | - |
 
 - isolationist gnome nation in the southern tip of [[Athalaar]]
 - advanced clockwork technology tapping on ancient Selanaari heritage

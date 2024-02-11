@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Fir |
-> > | Symbol |  Shapable tree branch with leaf |
-> > | Region |  Northwest [[Fervolosh]] |
-> > | Capital |  [[Volanir]] |
-> > | Leader |  [[Queen Alinwe]] |
+> > | Meaning | Fir |
+> > | Symbol | Shapable tree branch with leaf |
+> > | Region | Northwest [[Fervolosh]] |
+> > | Capital | [[Volanir]] |
+> > | Leader | [[Queen Alinwe]] |

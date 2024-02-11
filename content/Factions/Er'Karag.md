@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Sea Lion |
-> > | Symbol |  Sea lion in water currents |
-> > | Region |  Northern [[Walrus Shores]] |
-> > | Capital |  [[Keldrev]] |
-> > | Leader |  [[Elder Vaddlash]] |
+> > | Meaning | Sea Lion |
+> > | Symbol | Sea lion in water currents |
+> > | Region | Northern [[Walrus Shores]] |
+> > | Capital | [[Keldrev]] |
+> > | Leader | [[Elder Vaddlash]] |

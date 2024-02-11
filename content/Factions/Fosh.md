@@ -9,12 +9,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Meaning |  Glacier |
-> > | Symbol |  Five ice polygons forming a glacier |
-> > | Region |  Southwest [[Hoss Glacier]] |
-> > | Capital |  [[Osfån]] |
-> > | Leader |  [[Jarlskona Lengosha Rakfun\|Jarlskona Lengosha]] |
+> > | Meaning | Glacier |
+> > | Symbol | Five ice polygons forming a glacier |
+> > | Region | Southwest [[Hoss Glacier]] |
+> > | Capital | [[Osfån]] |
+> > | Leader | [[Jarlskona Lengosha Rakfun\|Jarlskona Lengosha]] |

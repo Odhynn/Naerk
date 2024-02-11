@@ -7,11 +7,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Unbounded Scope |
-> > | Category |  Outer |
-> > | Divinities |  [[Reszek]], [[Factar]], [[Laerion]], Celestial Emissaries |
-> > | Native Inhabitants |  Celestial outsiders, angels, agathions, metallic dragons, devoted souls |
+> > | Traits | Unbounded Scope |
+> > | Category | Outer |
+> > | Divinities | [[Reszek]], [[Factar]], [[Laerion]], Celestial Emissaries |
+> > | Native Inhabitants | Celestial outsiders, angels, agathions, metallic dragons, devoted souls |

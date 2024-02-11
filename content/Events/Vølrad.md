@@ -8,12 +8,12 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Place |  [[Korhond]], [[Belgosreim]] |
-> > | Time |  2858 till now |
+> > | Place | [[Korhond]], [[Belgosreim]] |
+> > | Time | 2858 till now |
 
 According to the annals of Arothal the Distant, it is estimated that in total there have been more than sixty tribes in Fervolosh throughout the ages. From this admission alone it is not puzzling to understand how much bloodshed under normal circumstances would have taken place in the effort of all these tribes for their dominance and influence in the forest. And that's because the amount of land each person has available for hunting, fishing, water, natural resources and shelter is vital to a tribe's survival. At the same time, many tribes had disputes over ceremonies, rituals, kinsmen and other issues. Jealousies and disputes in the forest could potentially reach great proportions.
 

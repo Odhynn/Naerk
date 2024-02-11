@@ -8,11 +8,11 @@ tags:
 ---
 > [!attributes]
 > 
-> > [!quote] Characteristics
+> > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Traits |  Enhanced Magic (Occult), Microgravity, Immeasurable Scope |
-> > | Category |  Fifth Dimension |
-> > | Divinities |  [[Yast]] |
-> > | Native Inhabitants |  Aberrations, abominations, devoted souls |
+> > | Traits | Enhanced Magic (Occult), Microgravity, Immeasurable Scope |
+> > | Category | Fifth Dimension |
+> > | Divinities | [[Yast]] |
+> > | Native Inhabitants | Aberrations, abominations, devoted souls |
