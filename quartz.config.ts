@@ -10,13 +10,13 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "drafts"],
+    ignorePatterns: ["private", "templates", ".obsidian", "drafts", ".trash", ".csv"],
     defaultDateType: "created",
     theme: {
       typography: {
         header: "Ubuntu",
         body: "Ubuntu",
-        code: "Ubuntu Mono",
+        code: "Cascadia Code",
       },
       colors: {
         lightMode: {

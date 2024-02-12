@@ -29,7 +29,7 @@ wiki:
 > > | --- | --- |
 > > | born | 4756, Thyrskogen |
 > > | nationality | Bjåglander |
-> > | height | 4'8" |
+> > | height | 4'8'' |
 > > | weight | 200 lb. |
 > > | appearance | <li>chestnut hair</li><li>titian beard</li><li>brown eyes</li> |
 >
@@ -40,7 +40,7 @@ wiki:
 > > | --- | --- |
 > > | allegiance | [[Dohjil]] |
 > > | residence | [[Kranårvikk]] |
-> > | band | Champions of the North |
+> > | band | [[Champions of the North\|Torniv Conscripts]] |
 
 > [!quote] 
 > _Θες μανιταρόσουπα ταράνδου για το συνάχι; Έχω._
