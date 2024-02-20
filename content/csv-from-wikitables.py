@@ -18,7 +18,8 @@ for filename in os.listdir(directory):
         with open(f"{csv_dir}/{name}.tsv", 'w') as output:
             output.write(f"Name\t{name}\n")
             for line in targets:
-                parsed_line = line.replace("\"","'")
+                parsed_line = line
+                # parsed_line = parsed_line.replace("\"","'")
                 parsed_line = parsed_line.replace("> > | ","")
                 parsed_line = parsed_line.replace(" | ","\t")
                 parsed_line = parsed_line.replace(" |","")
