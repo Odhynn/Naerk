@@ -21,3 +21,4 @@ tags:
 *The Scarred*, *The Deprived*
 Founding dragon of [[Dragonpact]]
 Vanquisher of [[Klivichkie]]
+Enmity with [[Erizkiero]]

@@ -38,3 +38,7 @@ tags:
 
 > [!quote] 
 > "I crafted my hammer, the First One. I built mountains, I built cliffs. I built stout folk and gave them weapons and armor. And thus, after all these millenia, my service is no longer needed."
+
+The First Smith
+Creator of Dwarves
+Creator of numerous artifacts, among them [[Equilibrium]], [[Grondharr]], [[Bastion of the Inheritor]], [[The Pitiless Lance]], [[Aegis of 10000 Emperors]], [[Gae Bolg]], [[Zaitan the Nightcaller]], [[Armor of the Nameless Warrior]], [[Viperhide]], [[Aegis of the Storm]], [[Shatterwinds]] during the [[Winter's War]].

@@ -35,3 +35,7 @@ tags:
 > > | Favored Weapon | Battleaxe |
 > > | Domains | Duty, Healing, Might, Protection, Zeal |
 > > | Cleric Spells | 1st: Fleet Step, 4th: Chromatic Armor, 9th: Magnetic Dominion |
+
+Valorous Warrior
+Patron of dwarven armies
+Common worship by warriors and guards

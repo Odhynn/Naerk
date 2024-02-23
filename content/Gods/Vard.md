@@ -35,3 +35,8 @@ tags:
 > > | Favored Weapon | Greatpick |
 > > | Domains | Cities, Duty, Earth, Family, Glyph, Protection, Vigil |
 > > | Cleric Spells | 1st: Ant Haul, 4th: Shape Stone, 5th: Wall of Stone |
+
+Builder of Fortifications
+Worshipped by many architects and engineers
+Strict and measured
+Dwarven creation overseer

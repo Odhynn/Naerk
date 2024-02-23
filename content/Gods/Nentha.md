@@ -35,3 +35,9 @@ tags:
 > > | Favored Weapon | Claws or Longsword |
 > > | Domains | Cities, Duty, Knowledge, Truth, Wealth, Wyrmkin |
 > > | Cleric Spells | 1st: Burning Hands, 4th: Reflective Scales, 6th: Dragon Form |
+
+Wise Ruler of [[Sunshine]]
+Vanquisher of [[Klivichkie]]
+Father of [[Orhodrai]] and [[Erizkiero]]
+Mentor of adventurers
+Founder of [[Dragonpact]] and the dragon knights

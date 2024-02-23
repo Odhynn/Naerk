@@ -35,3 +35,9 @@ tags:
 > > | Favored Weapon | Crossbow |
 > > | Domains | Ambition, Creation, Freedom, Luck, Passion, Travel, Trickery |
 > > | Cleric Spells | 1st: Fashionista, 2nd: Hideous Laughter, 5th: Infectious Comedy |
+
+*_"Sometimes, he is just a child discovering the world_*
+
+Founder of dwarven souls
+Traveller to [[Evergrowing Forest]], halfling and gnome lands
+Wanderlust
