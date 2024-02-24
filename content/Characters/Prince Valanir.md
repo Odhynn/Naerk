@@ -1,5 +1,5 @@
 ---
-title: King Sajanu
+title: Prince Valanir
 subtitle: male human prince
 date: 2024-02-24
 author: sfakias
