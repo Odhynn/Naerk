@@ -55,3 +55,11 @@ According to the Observer, there is no act a mere mortal can do that would disqu
 His servants though, the Kenemi, began to multiply over time, and although at first the Observer held them under iron discipline, slowly several of them began to develop different opinions and approaches for the souls' final destination. The most organized group of them were from those who had taken it upon themselves to take souls to the other planes.
 
 Those souls who were not accepted into the dimensions they were going to were the first target of this group, which later became known as [[demons]]. Their power was strengthened by souls who felt too miserable to serve eternally, by those who experienced rejection and emptiness, and by those who were convinced overtime to follow them. They went to great lengths to go undetected by Yerasthu, who was otherwise tasked with controlling them as well. Then, they agreed to escape, and while seemingly transporting souls to other planes, they gathered at the farthest point of the Styx river, and there they made their kingdom: the [[Abyss]].
+
+When Yerastu realized the treachery of the demons, he was overcome with rage. He punished everyone in his service that he believed to be even slightly complicit or disobedient. His next move was to regroup all the Kenemi, his servants. He established a very tight and strict framework of rules, and imposed penalties on anyone who did not follow them to the letter. Very soon, there was no doubt that everyone under his authority was completely devoted and loyal.
+
+## The [[Eternal Slaughter]]
+
+After taking care of the safety of souls and the planar routes, he ordered the leader of the Kenemi, [[Sergonial]], to attack the demons. Based in the Abyss, they constantly organized raids on Styx, where they stole the souls they found defenseless. The demons were determined and focused their power on their goals: They wanted to take revenge on the Observer and destroy the circle of life.
+
+Sergonial's army met the demon hordes at Tartara and started one of the biggest wars ever fought. Demons and Kenemi clashed for untold centuries upon the sundered fields. Yerastu decided eventually that this war led to no end and called Sergonial to retreat and return back. His messenger was slain and Sergonial defied his will, taking his armies with him and forming [[Hell]] and [[devils]].
