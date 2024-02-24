@@ -1,5 +1,5 @@
 ---
-title: "Μια μπύρα στη Χρυσή Σοδειά"
+title: "A beer at the Golden Harvest"
 date: 2016-07-29
 author: sfakias
 ---
