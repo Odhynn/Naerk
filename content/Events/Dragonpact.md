@@ -13,7 +13,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | [[Sunshine]] |
-> > | Time | 1983 till now |
+> > | Time | 1983 |
 
 ## History of Dragons
 
@@ -29,12 +29,12 @@ The Wyrmsfall were a group of skilled hunters, trappers, warriors and wizards ta
 
 Then the wisest of the dragons realized that the effects of their arrogance were getting worse and worse for themselves. Their numbers were constantly dwindling, while the civilizations of the small tribes spread, and they could replenish their population very quickly. Then six dragons gathered at [[Sunshine]], in [[Gaulgir]]:
 
-**i) [[Draun'vlohoth]], the Scarred**
-**ii) [[Fraugmeneir]]**
-**iii) [[Kensalea]], Fury of the Storm**
-**iv) [[Nentha]] the Wise**
-**v) [[Pangra-Lu]]**
-**vi) [[Merinthinix]]**
+1. **[[Draun'vlohoth]], the Scarred**
+2. **[[Fraugmeneir]]**
+3. **[[Kensalea]], Fury of the Storm**
+4. **[[Nentha]] the Wise**
+5. **[[Pangra-Lu]]**
+6. **[[Merinthinix]]**
 
 These six dragons called the chieftains of the Wyrmsfall, as well as the kings of each country, to a meeting, and many responded to their call.
 
@@ -42,14 +42,9 @@ Immediately, the reason for the meeting was revealed: the dragons sought a truce
 
 ## The Dragonpact
 
-*I) A dragon does not have the right to invade within a radius of half a mile in a society of 30-100 inhabitants, one mile in a society of up to 500 inhabitants, two miles in a society of up to 2000 inhabitants, five miles in a society of up to 5000 inhabitants , ten miles in a society of as many as 10000 inhabitants and twenty miles in larger ones. He may enter this zone only with the agreement of the local authority.*
-
-*II) The radius of an adult dragon's territory is an area equal to the distance it can fly and return to its nest in one day. Another population or another dragon may settle in this area, but their safety is not guaranteed by the treaty and they do not have the right to attack the dragon.*
-
-*III) A female dragon with eggs or young is considered an adult and gains territory for ten years. Anyone from either side who unnecessarily disturbs her in her territory is punished by the [[Pactkeepers]].*
-
-*IV) A dead dragon's territory passes to the first adult dragon or society to settle there, unless there is an adult heir designated by the dead dragon.*
-
-*V) Those countries that sign the treaty, must observe it and ensure that it is enforced, as well as appoint the creation of Pactkeepers, who punish anyone who does not observe it with the help of Wyrmsfall. For this purpose, 6 Listeners, who detect illegalities, and 12 enforcers, who deliver justice, are appointed. 1/3 of them are set to be Wyrmsfall and 1/3 of them dragons.*
-
-*VI) In any case, the Council of Three, consisting of the Dragon King of Sunshine, the leader of the Pactkeepers and the representative of the Wyrmsfall, has the final say on any issue. Listeners vote for the leader with a tie being broken by a randomly elected enforcer, and a leader's maximum term is 30 years.*
+> 1. *A dragon does not have the right to invade within a radius of half a mile in a society of 30-100 inhabitants, one mile in a society of up to 500 inhabitants, two miles in a society of up to 2000 inhabitants, five miles in a society of up to 5000 inhabitants , ten miles in a society of as many as 10000 inhabitants and twenty miles in larger ones. He may enter this zone only with the agreement of the local authority.*
+> 2. *The radius of an adult dragon's territory is an area equal to the distance it can fly and return to its nest in one day. Another population or another dragon may settle in this area, but their safety is not guaranteed by the treaty and they do not have the right to attack the dragon.*
+> 3. *A female dragon with eggs or young is considered an adult and gains territory for ten years. Anyone from either side who unnecessarily disturbs her in her territory is punished by the [[Pactkeepers]].*
+> 4. *A dead dragon's territory passes to the first adult dragon or society to settle there, unless there is an adult heir designated by the dead dragon.*
+> 5. *Those countries that sign the treaty, must observe it and ensure that it is enforced, as well as appoint the creation of Pactkeepers, who punish anyone who does not observe it with the help of Wyrmsfall. For this purpose, 6 Listeners, who detect illegalities, and 12 enforcers, who deliver justice, are appointed. 1/3 of them are set to be Wyrmsfall and 1/3 of them dragons.*
+> 6. *In any case, the Council of Three, consisting of the Dragon King of Sunshine, the leader of the Pactkeepers and the representative of the Wyrmsfall, has the final say on any issue. Listeners vote for the leader with a tie being broken by a randomly elected enforcer, and a leader's maximum term is 30 years.*

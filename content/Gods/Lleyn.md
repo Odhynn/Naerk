@@ -16,7 +16,7 @@ tags:
 > > | Edicts | Observe the world, Be steadfast in your watch, Shelter and guide travellers, Contemplate the night skies |
 > > | Portfolio | Moon, Water, Vigilance, Travel, Outer Beings |
 > > | Anathema | Abandon your post, turn away a traveller in need |
-> > | Followers | Pilgrims, Guardians, Wanderers, Astronomers, Duskwalkers, [[Sennarin|the Sennarii]] |
+> > | Followers | Pilgrims, Guardians, Wanderers, Astronomers, Duskwalkers, [[Sennarin\|the Sennarii]] |
 > > | Pantheon | [[The Just]] |
 > > | Plane | [[Fortress of the Just]] |
 >
@@ -51,15 +51,15 @@ This role was traditionally held by elven matrons until the [[Harrowing of Athal
 Lleyn was a Lady of the Lake since the 46th century, the 65th of her name.
 On her watch she received a number of offworld travellers who would have a dramatic impact on Naerk's history, including Faenyss Laffirdul, [[Shizu the Swordmaiden]], the [[6th Sentinels of the Silver Flame]], and last but evidently not least, [[Sennarin#the Arrival|the entirety of the Sennarii people]].
 
-## Ascension
+### Ascension
 
 When the Arrival took place in 4790, [[Angaeradh]] saw the torrent of falling stars in the sky, coming from the depths of space to be caught in Qusm's orbit, and knew the time had at last come: she had had long foreseen, and long awaited, the return of elves in Athalaar, and those elves, though few, were among those falling stars.
 
-As was her duty as the Prophetess of the Mountain, she bade the Lady of the Lake to prepare to receive the travellers, but also to be advised that they come in the thousands. The Lady of the Lake knew this spelled ill news for the portal, for it would be near impossible to keep its energies from fluctuating out of control if it should remain open while all those people came through.
+As was her duty as the Prophetess of the Mountain, she bade the Lady of the Lake to prepare to receive the travellers, but also to be advised that they come in the thousands. Lleyn knew this spelled ill news for the portal, for it would be near impossible to keep its energies from fluctuating out of control if it should remain open while all those people came through.
 In such unique circumstances, a Lady of the Lake was typically allowed to shut the portal and divert the incoming travellers into the cold void to avoid risking the gate's integrity. Lleyn chafed at the prospect of condemning all those people to oblivion, and asked the Prophetess, who was technically her superior and had bitter experience with unstable portal gates, for her orders on what to do. Angaeradh ordered her to hold the portal open at all costs.
 
-Thus, when the first Sennarii began washing out of the Lake, bewildered they gazed upon the Lady hovering above the centre of the whirling waters, her form beaming with raw magic tinged by moonlight. As by the thousands they staggered to the shore, they witnessed her strain and scream in agony and effort and saw the power gush through the ley lines on the ground and through the waters to her.
-When at last the last of them had passed through, the magical storm subsided. Exhaling with relief, the Lady dropped lifelessly into the water. Immediately dozens of the Sennarii who were pearl divers in their homeworld jumped back into the lake and retrieved her body from within its dark depths.
+Thus, when the first Sennarii began washing out of the Lake, bewildered they gazed upon the Lady hovering above the whirling waters, her form beaming with raw magic and tinged by moonlight. As by the thousands they staggered to the shore, they witnessed her strain in agony and effort and saw the power gush through the ley lines on the ground and through the waters to her.
+When the last of them had finally passed through, the magical storm abated, and exhaling with relief, the Lady dropped lifelessly into the lake. Immediately dozens of the Sennarii who were pearl divers in their homeworld jumped back into the water and retrieved her body from within its dark depths.
 
 Holding a mass wake was the first thing the Sennarii did on Naerk. By the thousands they camped around Edhailin, placing flowers by her body and lighting fires to warm themselves and burn the incense they had brought.
 They lamented the destruction of the homeworld they had to flee, and they mourned what they saw as the kind goddess who eased their flight into her own world at the cost of her life.
