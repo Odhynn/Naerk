@@ -1,7 +1,7 @@
 ---
 title: Steenar
 date: 2024-02-22
-author: sfakias
+author: sfakias, kyriakos
 tags:
   - gods/Primordial
   - planes/Zinctizuctra

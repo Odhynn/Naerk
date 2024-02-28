@@ -18,3 +18,4 @@ tags:
 > > | Region | South [[Fervolosh]] |
 > > | Capital | [[Ferglund]] |
 > > | Leader | [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |
+

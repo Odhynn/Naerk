@@ -1,7 +1,7 @@
 ---
 title: Neverborn
 date: 2024-02-04
-author: sfakias
+author: sfakias, rospy
 tags:
 
   - gods/Primordial

@@ -15,7 +15,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | age | 4756, Kranårvikk |
+> > | born | 4756, Kranårvikk |
 > > | nationality | Dohjil Korhonder |
 > > | height | 5'10" |
 > > | weight | 180 lb. |

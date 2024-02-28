@@ -1,7 +1,7 @@
 ---
 title: Yushan
 date: 2024-02-03
-author: sfakias
+author: sfakias, rospy
 tags:
   - gods/Primordial
   - gods/Vethian
