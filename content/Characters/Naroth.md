@@ -23,8 +23,8 @@ tags:
 > > | residence | [[Syvorms]] |
 
 **1st Admiral Naroth Geadan**
-Chief Admiral of Palaurim Navy
-Archpriest of Hydarax
+Chief Admiral of [[Palaurim]] Navy
+Archpriest of [[Hydarax]]
 Prince of [[Urdankh]]
 Father of [[Deator Geadan]]
 Survivor of [[Battle of Misty Sea]]
