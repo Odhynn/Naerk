@@ -16,7 +16,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Title | "The Rampage Dragon" |
-> > | Category | dragon |
+> > | Category | Dragon |
 > > | Edicts | Defy dragonpact, Draconic dominion, Absolute power |
 > > | Portfolio | Rule of Power, Personal Worth |
 > > | Anathema | Tame to dragonpact, Befriend pactkeepers, Show mercy |

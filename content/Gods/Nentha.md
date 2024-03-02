@@ -16,7 +16,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Title | "The Wise" |
-> > | Category | dragon |
+> > | Category | Dragon |
 > > | Edicts | Dragonpact, Kindness, Understanding other races, Share Knowledge |
 > > | Portfolio | Peace, mentorship, magic scholarship, assistance |
 > > | Anathema | Wanton destruction, Break treaties or dragonpact |
