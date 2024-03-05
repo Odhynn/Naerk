@@ -1,8 +1,19 @@
 ---
-title: "Spiked Shackles: Zolkar's Dawn Riot"
+title: "Zolkar's Dawn Riot"
 date: 2016-09-19
 author: sfakias
 ---
+
+---
+> [!attributes]
+> 
+> > [!quote]
+> >
+> > | | |
+> > | --- | --- |
+> > | Place | [[Elestair]], [[Zolkar]] |
+> > | Time | 4817, winter |
+
 
 Although one of the most famous commercial destinations, the island of Zolkar could never come completely under her authority Imtaria. This is for a number of reasons.
 

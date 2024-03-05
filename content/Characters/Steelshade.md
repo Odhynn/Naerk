@@ -25,4 +25,4 @@ tags:
 **Chief Comprade Steelshade**
 Leader and founder of [[Berenfaer]]
 Accomplished scout and fighter
-Organizer of [[Spiked Shackles: Zolkar's Dawn Riot|Zolkar's Dawn Riot]]
+Organizer of [[Zolkar's Dawn Riot]]
