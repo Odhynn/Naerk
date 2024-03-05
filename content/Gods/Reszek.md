@@ -45,3 +45,5 @@ Reszek was initially quite weak, and it was feared that he was vulnerable to pos
 ## Devotees
 
 When the first souls appeared, the sun lord considered that life had reached its ultimate stage. He found himself patronizing the cultures as he saw how they could reach unique levels of artistry and beauty, observing the constructions, sculptures, poems, music. He therefore took on the task of protecting those civilizations that had such ultimate goals, beyond cannibalism, mere survival, and the destruction of everything beautiful. At the same time, he hosted many great heroes in the Golden Palace from time to time, and especially in the beginning when the armies of demons, devils and their servants were sowing terror in the material dimension, he protected and guided those who asked for his help. Reszek is worshiped in numerous places across all Na'erk, with many altars dedicated to the glory of the Sun. Priests, paladins and pilgrims aid the weak and help those in need in daily basis.
+
+With his intervention and Malahir's, [[Laerion]] and [[Factar]] were empowered and eventually ascended as gods.
