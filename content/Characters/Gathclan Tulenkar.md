@@ -21,7 +21,7 @@ tags:
 
 ## Story
 
-A trader that rose to power in the Tulenkar family, Gathclan eventually became an influencial member of [[Fellgaunt]]'s council. He defied [[Tarlosh Kalistrom]]'s plans for slaves and undead, resulting to [[Battle of Fellgaunt]]. With the aid of [[Band of Blood and Brimstone]], he emerged victorious and led the city afterwards. His daughter, [[Beyin]], ruled the city after his death.
+A trader that rose to power in the Tulenkar family, Gathclan eventually became an influencial member of [[Fellgaunt]]'s council. He defied [[Tarlosh Kalistrom]]'s plans for slaves and undead, resulting to [[Battle of Fellgaunt]]. With the aid of [[Band of Blood and Brimstone]], he emerged victorious and led the city afterwards. His daughter, [[Beyin Tulenkar|Beyin]], ruled the city after his death.
 
 ## Possessions
 
