@@ -30,4 +30,4 @@ Master Assassin
 Vampire and demon allies
 
 > [!quote] 
-> Don't give me a reason to exercise violence
+> Don't give me a reason to exercise violence...

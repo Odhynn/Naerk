@@ -20,3 +20,6 @@ tags:
 > > | residence | [[Fellgaunt]] |
 
 A captain of Tulenkar, he lost his son to the skirmishes at the start of the [[Battle of Fellgaunt]] by Kalistrom soldiers.
+
+> [!quote] 
+> You killed my son!
