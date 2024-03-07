@@ -12,7 +12,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Population | 187719 |
+> > | Population | 187719, 84% Humans, 7% Halflings, 6% Half-Orcs, 1% Elves, 1% Half-Elves, 1% Other |
 > > | Government | Council (Merchants) |
 > > | Religions | [[Factar]], [[Sennek]], [[Reszek]], [[Karadosh]] |
 > > | Location | [[Oromil]] |
