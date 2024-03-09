@@ -1,5 +1,5 @@
 ---
-title: Torniv, the Stone House
+title: Torniv
 date: 2024-02-06
 author: sfakias
 tags:
@@ -13,6 +13,8 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Location | [[Fervolosh]], [[Korhond]] |
+
+## The Stone House
 
 The Stone House was built after the Northmen of Korhond and [[Belgosreim]] emerged victorious from their battles against the goblins and giants, as well as overcomed the [[Ferelga]] plague.
 

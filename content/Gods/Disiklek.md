@@ -35,3 +35,11 @@ tags:
 > > | Favored Weapon | Scythe |
 > > | Domains | Decay, Delirium, Pain, Plague, Sorrow |
 > > | Cleric Spells | 1st: Noxious Vapors, 3rd: Gasping Marsh, 5th: Cloudkill |
+
+## The Black Plague
+
+Even though no one can prove that Disiklek is behind all the illnesses that break out periodically, he is certainly responsible for many. From malaria that struck entire villages in the south, to the bubonic plague, which killed entire cities, to leprosy, Disiklek's invisible hand of death can be traced. His followers deal with poisons, snakes and insects, weeds that destroy crops, ways to pollute water, and even sell stale food to unsuspecting victims. Those cultists are few, but certainly for their number the methods they use are effective. Part of his ideology is that there is no easier way to sow destruction and calamity in the world than disease. Εven if one in fifty goes mad by them and follows the way of Disiklek, survival is offered for him, in exchange for his aid to expand the calamity agenda.
+
+## History
+
+Disiklek during the [[Winter's War]] had even allied himself with [[Fallfaunt]], as he had found her method very effective in sowing destruction with little effort.

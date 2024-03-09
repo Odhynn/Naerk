@@ -18,3 +18,5 @@ tags:
 > > | Region | [[Rammok Wastes]], [[Karrokh]], [[Allwick]], numerous other regions |
 > > | Capital | [[Tas-Meir]] |
 > > | Leader | unknown, possibly a Rammok warlord |
+
+The offspring savage children of [[Karadosh]].
