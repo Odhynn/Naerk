@@ -21,7 +21,7 @@ tags:
 
 ## Story
 
-An ancient guardian of a [[Solarium Rings|Solarium Ring]], Fildagar was famous and respected in all [[Oromil]]. Before his death of old age, he gave the ring to [[Akerosoth]] and made her swear that she would protect it and uphold [[Dragonpact]]. 
+An ancient guardian, Fildagar was famous and respected in all [[Oromil]]. He was visited by [[Lo-Ukmasid]] and was given his [[Solarium Ring]] to keep safe and hidden. Before his death of old age, he gave the ring to [[Akerosoth]] and made her swear that she would protect it and uphold [[Dragonpact]]. 
 
 ## Legacy
 
