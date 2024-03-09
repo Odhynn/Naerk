@@ -16,7 +16,7 @@ tags:
 
 ## Origin
 
-Among [[Yerastu]]'s few temples in Oromil, if not the only one, was the monastery of Ramsel, built in ancient times and for centuries guarding the northern borders of the vast valleys. The temple was manned by several dozen priests and warriors, while it was constantly supplied with food and munitions to withstand long sieges. One of the four [[Solanium Ring|rings]] of the [[Rod of Stone and Steel]] was even given to this temple for safekeeping in ancient times.
+Among [[Yerastu]]'s few temples in Oromil, if not the only one, was the monastery of Ramsel, built in ancient times and for centuries guarding the northern borders of the vast valleys. The temple was manned by several dozen priests and warriors, while it was constantly supplied with food and munitions to withstand long sieges. One of the four [[Solarium Ring|rings]] of the [[Rod of Stone and Steel]] was even given to this temple for safekeeping in ancient times.
 
 ## Downfall
 
