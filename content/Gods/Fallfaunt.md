@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Lust, Perdition, Sorrow, Preservance |
 > > | Anathema | Change way of life, find new love |
 > > | Followers | Cold sailors, mountaineers, giants, frost creatures, elves, [[Hoss Glacier]] |
-> > | Pantheon | Elemental, tribal, Elven, Giant |
+> > | Pantheon | Elemental, Tribal, Elven, Giant |
 > > | Plane | [[Elemental Ring]], [[Evergrowing Forest]] |
 >
 > > [!quote]

@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Earth, Stone, Vigilance, Ley Lines, Deeps |
 > > | Anathema | Ley line destruction, Secret breaking |
 > > | Followers | Miners, seekers, acolytes, tribes, dwarves, gnomes, stone creatures, Deep races |
-> > | Pantheon | Gnome, tribal, Giant |
+> > | Pantheon | Gnome, Tribal, Giant |
 > > | Plane | [[Evergrowing Forest]], [[Elemental Ring]] |
 >
 > > [!quote]

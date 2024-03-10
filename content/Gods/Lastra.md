@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Community, Hunting, Solidarity, Tactics |
 > > | Anathema | leaving the weakest behind, not contributing to a collective effort |
 > > | Followers | Hunters, strategists, jarls, shamans, chiefs, tribes, skinwalkers, elves, [[Hurtsvigsen]] |
-> > | Pantheon | tribal, Elven, Druidic |
+> > | Pantheon | Tribal, Elven, Druidic |
 > > | Plane | [[Evergrowing Forest]] |
 >
 > > [!quote]

@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Swarms, Voracity, Indulgence, Gluttony |
 > > | Anathema | Spare organic matter |
 > > | Followers | lunatics, mentally ill, hermits, acolytes, priests, druids, insectoid races |
-> > | Pantheon | tribal, Druidic |
+> > | Pantheon | Tribal, Druidic |
 > > | Plane | [[Evergrowing Forest]] |
 >
 > > [!quote]

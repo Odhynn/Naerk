@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Berserkers, warriors, endurance, savagery |
 > > | Anathema | Not answering an insult, cowardice |
 > > | Followers | Berserkers, warriors, vanguards, gladiators, orcs, [[Hurtsvigsen]] |
-> > | Pantheon | tribal, orc |
+> > | Pantheon | Tribal, Orc |
 > > | Plane | [[Evergrowing Forest]] |
 >
 > > [!quote]

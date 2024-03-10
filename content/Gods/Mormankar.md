@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Community, hard work, creating amenities and facilities |
 > > | Anathema | constant sloth, letting a foundation become ruin |
 > > | Followers | Builders, tacticians, jarls, engineers, laborers, lumberjacks, tribes, gnomes |
-> > | Pantheon | tribal, Gnome |
+> > | Pantheon | Tribal, Gnome |
 > > | Plane | [[Evergrowing Forest]] |
 >
 > > [!quote]

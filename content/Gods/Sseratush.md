@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Lizards, serpents, dinosaurs, jungles, wild |
 > > | Anathema | Hunting apex predators, destroying eggs |
 > > | Followers | serpents, tribes, lizardfolk, viperfolk, scaled creatures, drakes |
-> > | Pantheon | lizardfolk, tribal |
+> > | Pantheon | Lizardfolk, Tribal |
 > > | Plane | [[Evergrowing Forest]] |
 >
 > > [!quote]

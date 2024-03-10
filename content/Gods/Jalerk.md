@@ -21,7 +21,7 @@ tags:
 > > | Portfolio | Depths, uncharted waters, isolation, madness |
 > > | Anathema | Disrespecting the sea, challenge depth's might |
 > > | Followers | sailors, pirates, mentally ill, seawolves, aquatic creatures, linnorms, tribes, [[Thimvert\|Thimvert Reach]] |
-> > | Pantheon | Elemental, tribal |
+> > | Pantheon | Elemental, Tribal |
 > > | Plane | [[Elemental Ring]], [[Evergrowing Forest]] |
 >
 > > [!quote]
