@@ -15,7 +15,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | 4729 |
-> > | died | 4715 |
+> > | died | 4815 |
 > > | appearance | brown hair and beard, brown eyes |
 > > | residence | [[Fellgaunt]] |
 
