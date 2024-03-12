@@ -4,7 +4,7 @@ subtitle: male human king
 date: 2024-01-28
 author: sfakias
 tags:
-  - characters/NPCs
+
   - characters/leaders
   - characters/dead
   - countries/Whistor

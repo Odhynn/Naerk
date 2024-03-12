@@ -19,4 +19,8 @@ tags:
 > > | Capital | [[Elestair]] |
 > > | Leader | numerous, including [[Steelshade]] and [[Black Mist]] |
 
-Berenfaer originally formed to abolish slavery in [[Zolkar]] and nearby areas. Soon, their influence grew after [[Zolkar's Dawn Riot]] and they started participating in Zolkar's politics and inspiring rebellions in other regions.
+## History
+
+Berenfaer is a secret organization originally formed to fight for freedom in western [[Oventhart]] against the tyrranical armies of [[Kenorex]] from [[kambah]]. They rallied many insurgents near the border and waged guerilla warfare. They were eventually stopped and hunted down by the disciplined army of [[Karahath]].
+
+ They reappeared to abolish slavery in [[Zolkar]] and nearby areas. Soon, their influence grew after [[Zolkar's Dawn Riot]] and they started participating in Zolkar's politics and inspiring rebellions in other regions.
