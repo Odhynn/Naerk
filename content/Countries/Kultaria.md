@@ -10,7 +10,7 @@ tags:
 
 ## Origin
 
-The Hidden Kingdom of [[Nahantaria]] eventually over the centuries became powerful enough so that it could emerge from hiding. Its king, in a spectacular ceremony calld Luksi, he declared the formation of the High Kingdom of Kultaria
+The Hidden Kingdom of [[Nahantaria]] eventually over the centuries became powerful enough so that it could emerge from hiding. Its king, in a spectacular ceremony calld Luksi, he declared the formation of the High Kingdom of Kultaria.
 
 ## Description
 
