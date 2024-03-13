@@ -4,8 +4,8 @@ subtitle: male human king
 date: 2024-02-24
 author: sfakias
 tags:
-  - characters/NPCs
-  - characters/leaders
+
+- characters/leaders
   - characters/dead
   - countries/Imtaria
 ---
@@ -15,8 +15,8 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 3187, [[Imtaria]] |
-> > | died | 3260, Imtaria |
+> > | born | 4679, [[Imtaria]] |
+> > | died | 4754, Imtaria |
 > > | nationality | Imtarian |
 > > | appearance | Golden hair and goatee, light blue eyes |
 
