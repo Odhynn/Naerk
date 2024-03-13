@@ -22,3 +22,5 @@ tags:
 > > | Imports | Trade Goods, Beer, Gems, Timber, Ships, Olive Oil |
 > > | Exports | Slaves, Spices, Books, Fish, Armor, Silk, Artwork, Manufactured Goods |
 > > | Important Events | Pirate Raids, The Unworthy King, South Trade Route, Divinalis |
+
+Whistor currently has 2 councelors in [[Palaurim]].

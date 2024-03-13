@@ -22,3 +22,5 @@ tags:
 > > | Imports | Metals, Precious Metals, Timber, Coal, Ivory |
 > > | Exports | Meat, Grain, Corn, Livestock, Horses, Mercenaries |
 > > | Important Events | Battle for Fellgaunt |
+
+Oromil currently holds 18 seats in [[Palaurim]].

@@ -22,3 +22,5 @@ tags:
 > > | Imports | Wool, Oil, Spices, Timber |
 > > | Exports | Gold, Jewelry,  Grain, Wine |
 > > | Important Events | Decade War with South Darrok, Recent Revolt |
+
+Arbader joined [[Palaurim]] at its formation and currently has 13 councelors.

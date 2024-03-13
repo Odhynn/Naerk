@@ -22,3 +22,5 @@ tags:
 > > | Imports | Meat, Milk, Cheese, Gold, Forged Metal |
 > > | Exports | Sailors, Fish, Clams, Pearls, Fine Ships, Rare Fabrics, Aquatic Materials, Exotic Drinks |
 > > | Important Events | Brothers War, Jewel of the Sea |
+
+Urdankh currently has 3 councelors in [[Palaurim]].
