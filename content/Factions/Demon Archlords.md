@@ -9,7 +9,7 @@ tags:
 
 ## Description
 
-The greatest perils of the Abyss that survived the Demonic Civil War and ruled afterwards. The three archdemons are [[Xeurim]], [[Otynhash]] and [[Disiklek]].
+The greatest perils of the Abyss that survived the [[Demonic Civil War]] and ruled afterwards. The three archdemons are [[Xeurim]], [[Otynhash]] and [[Disiklek]].
 
 ## History
 

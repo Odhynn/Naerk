@@ -5,7 +5,7 @@ date: 2024-03-14
 author: sfakias
 tags:
   
-  - countries/North Darrok
+  - countries/Paraselt
 
 ---
 > [!attributes]
@@ -20,4 +20,4 @@ tags:
 > > | residence | [[Paraselt]] |
 
 *Burning Rage*
-An ancient wyrm that defied [[Dragonpact]].
+An ancient wyrm that defied [[Dragonpact]]. He allied himself with [[Bloodscale]] troops.

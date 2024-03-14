@@ -32,6 +32,6 @@ But the influence of the Vethralls did not disappear. Some escaped, and slowly b
 
 And thus the Styx merged with the Eternal Prison.
 
-## The Eternal Slaughter
+## The [[Eternal Slaughter]]
 
 Upon the destroyed landscape of Tartara, the armies of demons and Kenemi met in a bloody slaughter. The battle split rocks and the ground, the blood merged with the stone and the souls of the dead echoed helpless. Millions of soldiers fought, to no avail. Only destruction was left behind, when at last [[Hell]] was formed and the [[devils]] broke from [[Yerastu]]'s Command. The battle scarred this place forever. When Sergonial's Defiance whispered ill omens to the native inhabitants of Vulga and Erevi, they emerged from their hidding places to defend Tartara in a huge earthquake. Under Sergonial's power, Hell was formed and the Slaughter ended.
