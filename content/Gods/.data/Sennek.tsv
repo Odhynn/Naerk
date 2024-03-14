@@ -1,14 +1,14 @@
 Name	Sennek
-Title	"Trader", "Coin Dingler"
+Title	Trader, Coin Dingler
 Category	Ascended
 Edicts	Obtain Wealth, Fair Deals, Exchange
 Portfolio	Trade routes, Merchants, Communities, Finances, Greed
 Anathema	Gifts, Property theft
 Followers	Nobles, merchants, traders, companies, mercenaries, craftsmen, guilds
-Pantheon	-
+Pantheon	
 Plane	Utopia
-Divine Ability	Intelligence or Charisma
-Divine Font	Heal or Harm
+Divine Ability	Intelligence, Charisma
+Divine Font	Heal, Harm
 Divine Skill	Diplomacy
 Favored Weapon	Scimitar
 Domains	Ambition, Cities, Glyph, Travel, Wealth

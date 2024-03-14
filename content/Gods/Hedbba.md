@@ -19,8 +19,8 @@ tags:
 > > | Category | - |
 > > | Edicts | Playful Behaviour, Quriousness, Joy, Unlimited Imagination |
 > > | Portfolio | Arts, Music, Youth, Travel, Pranks |
-> > | Anathema | Violence on children and travelers |
-> > | Followers | travelers, musicians, bards, artists, performers, gnomes, halflings |
+> > | Anathema | Violence on children and travellers |
+> > | Followers | travellers, musicians, bards, artists, performers, gnomes, halflings |
 > > | Pantheon | Gnome, Halfling |
 > > | Plane | [[Zaramel]] |
 >

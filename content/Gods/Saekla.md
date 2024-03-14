@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Unbound travel, Weather phenomena |
 > > | Portfolio | Air, Wandering, Lighthearted |
 > > | Anathema | Take prisoners, Cut wings |
-> > | Followers | Travellers, pilgrims, mountaineers, sailors, windfolk, [[Allwick]] |
+> > | Followers | travellers, pilgrims, mountaineers, sailors, windfolk, [[Allwick]] |
 > > | Pantheon | Elemental |
 > > | Plane | [[Elemental Ring]] |
 >

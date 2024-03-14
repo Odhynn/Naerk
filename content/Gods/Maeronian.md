@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Practice Vethian magic, Ignore limits, Experiment new things |
 > > | Portfolio | Spells, Portal search, Travels, Unbound spirit |
 > > | Anathema | Official customs, Fixed way of life |
-> > | Followers | wizards, sorcerers, travelers, sailors, traders, wanderers, [[Vethians]], [[Iazip]] |
+> > | Followers | wizards, sorcerers, travellers, sailors, traders, wanderers, [[Vethians]], [[Iazip]] |
 > > | Pantheon | Vethian |
 > > | Plane | [[Zinctizuctra]] |
 >

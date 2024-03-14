@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Help those in need, Humility, Aid by example |
 > > | Portfolio | Healing, Farming, Fertility, Wanderers, Poor |
 > > | Anathema | Αrrogance, Egotism above others, Cold shoulder |
-> > | Followers | Hospitalers, Healers, Pilgrims, Travelers, Midwives, Herbalists, Priests, Commonfolk, [[Luminous Order]] |
+> > | Followers | Hospitalers, Healers, Pilgrims, travellers, Midwives, Herbalists, Priests, Commonfolk, [[Luminous Order]] |
 > > | Pantheon | Luminous Walkers, halfling |
 > > | Plane | [[Golden Palace]] |
 >

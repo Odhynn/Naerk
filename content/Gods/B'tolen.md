@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Meet new civilizations, constant learning, wondering and wandering |
 > > | Portfolio | Unbound travel, Learning, Luck, Exploration |
 > > | Anathema | Permanent settlers |
-> > | Followers | Travelers, wanderers, pilgrims, sailors, elves, tribes |
+> > | Followers | travellers, wanderers, pilgrims, sailors, elves, tribes |
 > > | Pantheon | Tribal, Elven, Druidic |
 > > | Plane | [[Evergrowing Forest]] |
 >

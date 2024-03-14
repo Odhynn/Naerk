@@ -12,6 +12,8 @@ for filename in os.listdir(directory):
         file_path = os.path.join(directory, filename)
 
         with open(file_path,'r') as input:
+            # read tables within callouts
+            # EXPECTATION: it should only occur in wikitables
             targets = [line for line in input if "> > | " in line]
         name = filename.replace(".md","")
         delimiter = '\t'
@@ -20,12 +22,24 @@ for filename in os.listdir(directory):
             for line in targets:
                 parsed_line = line
                 # parsed_line = parsed_line.replace("\"","'")
+
+                # parse callout and table syntax
                 parsed_line = parsed_line.replace("> > | ","")
                 parsed_line = parsed_line.replace(" | ","\t")
                 parsed_line = parsed_line.replace(" |","")
-                parsed_line = re.sub(r"\[\[(.*)\|", "", parsed_line)
+                
+                # remove link syntax (keep target name if renamed)
+                parsed_line = re.sub(r"\[\[(.*?)\|", "", parsed_line)
                 parsed_line = parsed_line.replace("]]","")
                 parsed_line = parsed_line.replace("[[","")
                 parsed_line = parsed_line.replace("|\n","")
+                # remove table subheader row md syntax
                 parsed_line = parsed_line.replace("---\t---\n","")
+                # EXPECTATION: 'or' separate list items
+                parsed_line = parsed_line.replace(" or ",", ")
+                #  remove double quotes
+                parsed_line = parsed_line.replace('"', "")
+                # EXPECTATION: '-' denotes NaN values
+                parsed_line = parsed_line.replace("\t-","\t")
+
                 output.write(parsed_line)

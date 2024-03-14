@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Lie and Deceive fools, Take advantage of situations, Spread doubt |
 > > | Portfolio | Stealth, Thievery, Malice, Luck, Night |
 > > | Anathema | Announce intentions, Give back stolen things |
-> > | Followers | Travelers, thieves, bagabonds, beggars, downtrodden, scavengers, rogues, elves, tribes |
+> > | Followers | travellers, thieves, bagabonds, beggars, downtrodden, scavengers, rogues, elves, tribes |
 > > | Pantheon | Tribal, Elven, Goblin |
 > > | Plane | [[Evergrowing Forest]] |
 >

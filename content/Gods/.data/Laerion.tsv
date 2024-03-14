@@ -1,5 +1,5 @@
 Name	Laerion
-Title	"Righteous Knight"
+Title	Righteous Knight
 Category	Luminous Walkers, Human
 Edicts	Valorous and Honorable, Lead by example, Compassion and justice, Warfare planning
 Portfolio	Righteousness, Strategy, Honour, Valor, Defence
@@ -7,7 +7,7 @@ Anathema	Cowardice, Dishonor, Knavery
 Followers	Warriors, Paladins, Knights, Guards, Hospitalers, Templars, Green Hills, Luminous Order, Luminous Sword
 Pantheon	Luminous Walkers
 Plane	Fortress of the Just
-Divine Ability	Strength or Charisma
+Divine Ability	Strength, Charisma
 Divine Font	Heal
 Divine Skill	Athletics
 Favored Weapon	Longsword

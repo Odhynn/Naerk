@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Create Communities, Sustain Life, Truthful Deeds |
 > > | Portfolio | Empowerment, Clarity, Altruism, Truth, Life |
 > > | Anathema | Deliberate lies, Undead creation  |
-> > | Followers | Hospitalers, Knights, Nobles, Priests, Peasants, [[Green Hills]], [[Luminous Order]]|
+> > | Followers | Hospitalers, Knights, Nobles, Priests, Peasants, [[Green Hills]], [[Luminous Order]] |
 > > | Pantheon | Luminous Walkers |
 > > | Plane | [[Golden Palace]] |
 >

@@ -33,7 +33,7 @@ tags:
 > > | Divine Font | Harm |
 > > | Divine Skill | Stealth |
 > > | Favored Weapon | Dagger |
-> > | Domains | Darkness, Introspection, Secrecy, Trickery,  |
+> > | Domains | Darkness, Introspection, Secrecy, Trickery |
 > > | Cleric Spells | 1st: Invisible Item, 2nd: Invisibility, 4th: Nondetection |
 
 A lot has been said about the Unknown God. That he is a Primordial, that he was created by one, that he does not even exist are some of the most popular hypotheses of what and who he is. One thing is certain, however, that those who glorify him and especially his clerics are perfect at keeping secrets as well as creating them. It is no coincidence that in every temple of Steenar that has been investigated, a disproportionate number of secret rooms and passages have been found. Every Steenar believer has two core values:

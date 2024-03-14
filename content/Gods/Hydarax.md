@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Fluid motion, Daring travel, Life at sea |
 > > | Portfolio | Water, torrents, life, dance, waves, ripples |
 > > | Anathema | Stop a river's flow, Pollute the sea, Suffocate a sea creature |
-> > | Followers | Sailors, travelers, underwater races, finfolk, [[Urdankh]] |
+> > | Followers | Sailors, travellers, underwater races, finfolk, [[Urdankh]] |
 > > | Pantheon | Elemental |
 > > | Plane | [[Elemental Ring]] |
 >

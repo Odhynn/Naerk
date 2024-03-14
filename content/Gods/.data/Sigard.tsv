@@ -1,13 +1,13 @@
 Name	Sigard
-Title	"Peacekeeper", "The Peaceful Judge"
-Category	-
+Title	Peacekeeper, The Peaceful Judge
+Category	
 Edicts	Peaceful decisions, Treaties, Mutual compromises, Communal solidarity
 Portfolio	Reconciliation, Honesty, Peace, Lawkeeping
 Anathema	War, Violence
 Followers	Knights, officers, judges, priests, frontier commonfolk
 Pantheon	Divinalis, The Just
 Plane	Golden Palace
-Divine Ability	Intelligence or Charisma
+Divine Ability	Intelligence, Charisma
 Divine Font	Heal
 Divine Skill	Diplomacy
 Favored Weapon	Club

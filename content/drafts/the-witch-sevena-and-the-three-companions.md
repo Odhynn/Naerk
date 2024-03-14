@@ -78,7 +78,7 @@ themselves like ticks. “Well, hasn’t anyone thought of killing it?” said
 Sevena.
 
 “Didn’t you see the tree on the way in?” said the  knight. Sevena shook her
-head, as she had no idea what he was talking about. The three other travelers
+head, as she had no idea what he was talking about. The three other travellers
 passed a look between them.
 
 “Well come have a look,” said the priest. He heaved to his feet and spat his

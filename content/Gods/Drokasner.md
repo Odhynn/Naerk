@@ -20,7 +20,7 @@ tags:
 > > | Edicts | Bad Weather, Fury of the Sky, Defiance |
 > > | Portfolio | Thunder, Storm, Bad Temper |
 > > | Anathema | Try to calm or avoid weather, Disrespect the elements |
-> > | Followers | Travellers, mountaineers, sailors, orcs, giants, [[Hoen]] |
+> > | Followers | travellers, mountaineers, sailors, orcs, giants, [[Hoen]] |
 > > | Pantheon | Tribal, Orc, Giant |
 > > | Plane | [[Elemental Ring]], [[Evergrowing Forest]] |
 >

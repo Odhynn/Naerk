@@ -13,7 +13,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Members | navigators, travelers and engineers |
+> > | Members | navigators, travellers and engineers |
 > > | Symbol | feather in a compass |
 > > | Region | [[Palaurim]] countries |
 > > | Capital | [[Syvorms]] |
