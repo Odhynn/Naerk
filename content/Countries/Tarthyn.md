@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Cold |
-> > | Capital | Silkwyn |
+> > | Capital | [[Silkwyn]] |
 > > | Government | Oligarchy |
 > > | Languages | Elven, Halfling, Common |
 > > | Population | 190000 |

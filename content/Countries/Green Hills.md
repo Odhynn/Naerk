@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate |
-> > | Capital | Ostrabit |
+> > | Capital | [[Ostrabit]] |
 > > | Government | King |
 > > | Languages | Common, Halfling |
 > > | Population | 1820000 |

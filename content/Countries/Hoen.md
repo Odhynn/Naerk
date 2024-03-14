@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Continental Cold |
-> > | Capital | Tronerdim |
+> > | Capital | [[Tronerdim]] |
 > > | Government | King |
 > > | Languages | Giant, Orcish, Goblin |
 > > | Population | Unknown |

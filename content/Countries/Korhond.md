@@ -5,7 +5,6 @@ author: sfakias
 tags:
   - countries/Korhond
 
-
 ---
 > [!attributes]
 > 

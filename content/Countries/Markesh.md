@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Arid |
-> > | Capital | Hoarinhel |
+> > | Capital | [[Hoarinhel]] |
 > > | Government | Merchant Oligarchy and Sultan |
 > > | Languages | Common, Auran, Ignan |
 > > | Population | 516000 |

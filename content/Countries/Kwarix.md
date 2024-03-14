@@ -12,7 +12,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Oceanic |
-> > | Capital | Brass Eyrie |
+> > | Capital | [[Brass Eyrie]] |
 > > | Government | Constitutional Monarchy |
 > > | Languages | Gnomish |
 > > | Population | 120000 |

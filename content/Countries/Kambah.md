@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold Continental |
-> > | Capital | Aar |
+> > | Capital | [[Aar]] |
 > > | Government | Tyrrant |
 > > | Languages | Common, Orc, Goblin, Giant |
 > > | Population | 1600000 |

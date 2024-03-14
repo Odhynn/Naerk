@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Tropical |
-> > | Capital | Sjemhe |
+> > | Capital | [[Sjemhe]] |
 > > | Government | King Regent |
 > > | Languages | Common, Aquan, Shadow, Lizardtongue |
 > > | Population | 644000 |

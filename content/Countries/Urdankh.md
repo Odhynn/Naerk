@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate |
-> > | Capital | Helezaar |
+> > | Capital | [[Helezaar]] |
 > > | Government | Theocratic Monarchy |
 > > | Languages | Aquan, Common |
 > > | Population | 620000 |

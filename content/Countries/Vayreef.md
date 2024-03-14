@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold Aquatic |
-> > | Capital | Zeirr |
+> > | Capital | [[Zeirr]] |
 > > | Government | Queen |
 > > | Languages | Aquan |
 > > | Population | 55000 |

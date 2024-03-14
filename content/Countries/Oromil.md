@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate, Warm |
-> > | Capital | Fellgaunt |
+> > | Capital | [[Fellgaunt]] |
 > > | Government | Merchant Council |
 > > | Languages | Common, Orc, Centaur, Halfling |
 > > | Population | 1360000 |

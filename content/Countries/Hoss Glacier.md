@@ -13,7 +13,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Arctic Glacier |
-> > | Capital | Fol'Rish |
+> > | Capital | [[Fol'Rish]] |
 > > | Government | Monarchy |
 > > | Languages | Common, Giant, Elvish, Orcish, Goblin |
 > > | Population | 89000 |

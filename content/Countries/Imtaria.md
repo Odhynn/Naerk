@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate, Warm |
-> > | Capital | Vaëdar |
+> > | Capital | [[Vaedar]] |
 > > | Government | Emperor |
 > > | Languages | Common, Aquan, Gnome |
 > > | Population | 5400000 |

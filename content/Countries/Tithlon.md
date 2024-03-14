@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate |
-> > | Capital | Hastaphar |
+> > | Capital | [[Hastaphar]] |
 > > | Government | Tribal Council |
 > > | Languages | Elven, Common |
 > > | Population | 370000 |

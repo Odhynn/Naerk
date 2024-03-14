@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold |
-> > | Capital | Ednais |
+> > | Capital | [[Ednais]] |
 > > | Government | Draconic Oligarchy |
 > > | Languages | Draconic |
 > > | Population | 288000 |

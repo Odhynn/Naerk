@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold Antarctic |
-> > | Capital | Thimvert |
+> > | Capital | [[Thimvert]] |
 > > | Government | Jarl |
 > > | Languages | Giant |
 > > | Population | 65000 |

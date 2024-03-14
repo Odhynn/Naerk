@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Forest |
-> > | Capital | Ryador |
+> > | Capital | [[Ryador]] |
 > > | Government | Queen |
 > > | Languages | Elven |
 > > | Population | 470000 |

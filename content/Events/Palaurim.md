@@ -25,7 +25,8 @@ Under the [[Emperor Ralos III]]'s rule [[Imtaria]] reached a prosperity never se
 [[Whistor]]
 [[Arbader]] 
 
-At year 3955,, [[Zolkar]] joined.
+At year 3955, [[Zolkar]] joined.
+At year 3998, [[Reisdok]] joined under special terms.
 At year 4580, [[South Darrok]] joined, resulting in a split between the original [[Darrok]].
 At year 4817, [[Green Hills]] seceded after a [[Focus shift|tragic death]] of their envoy.
 
@@ -44,12 +45,13 @@ Besides these, the exchange rate of other currencies used by other cultures was 
 
 The countries of Palaurim hold a council every year, usually on the 10th of Flowergrow, which is also the anniversary of its founding. In addition, emergency councils are held in case of war, threat or unforeseen events. The council is usually held in [[Arbader]] or [[Imtaria]], and is attended by councilors from the corresponding countries, depending on their size, population and economic power.
 
-Simple decisions are usually taken by a relative majority, while the most important ones are taken by an absolute majority, while each country has the right to choose in any way it wants who will be the counselors filling the positions corresponding to it. Currently, the council had 77 councilors:
+Simple decisions are usually taken by a relative majority, while the most important ones are taken by an absolute majority, while each country has the right to choose in any way it wants who will be the counselors filling the positions corresponding to it. Currently, the council had 83 councilors:
 
 -28 from Imtaria
 -18 from Oromil
 -13 from Arbader
 -10 from South Darrok
+-6 from Reisdok
 -3 from Urdankh
 -2 from Whistor
 -2 from Zolkar

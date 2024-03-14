@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Warm Mountains |
-> > | Capital | Blackclaw |
+> > | Capital | [[Blackclaw]] |
 > > | Government | Warlord |
 > > | Languages | Orc |
 > > | Population | 940000 |

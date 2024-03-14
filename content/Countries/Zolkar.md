@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Inner Sea |
-> > | Capital | Elestair |
+> > | Capital | [[Elestair]] |
 > > | Government | Council |
 > > | Languages | Common, Goblin, Elven, Gnoll |
 > > | Population | 472000 |

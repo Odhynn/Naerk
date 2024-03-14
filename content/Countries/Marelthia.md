@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate |
-> > | Capital | Keiron |
+> > | Capital | [[Keiron]] |
 > > | Government | King |
 > > | Languages | Common, Halfling |
 > > | Population | 415000 |

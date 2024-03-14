@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate |
-> > | Capital | Oberos |
+> > | Capital | [[Oberos]] |
 > > | Government | Governor |
 > > | Languages | Common, Elven, Goblin |
 > > | Population | 79000 |

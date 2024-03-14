@@ -12,7 +12,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Continental, Temperate Oceanic |
-> > | Capital | Yoakyuuden |
+> > | Capital | [[Yoakyuuden]] |
 > > | Government | Clan Oligarchy |
 > > | Languages | Common, Elven |
 > > | Population | 80000 |

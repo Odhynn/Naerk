@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Cold |
-> > | Capital | Dorvolosh |
+> > | Capital | [[Dorvolosh]] |
 > > | Government | Mage and Demon Oligarchy |
 > > | Languages | Common, Abyssal, Orcish |
 > > | Population | Unknown, at least 200000 |

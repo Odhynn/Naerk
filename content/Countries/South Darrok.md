@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Inner Sea |
-> > | Capital | Llykavann |
+> > | Capital | [[Llykavann]] |
 > > | Government | Governor |
 > > | Languages | Common, Elven |
 > > | Population | 1050000 |

@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold Antarctic |
-> > | Capital | Kleoktra |
+> > | Capital | [[Kleoktra]] |
 > > | Government | Oligarchy |
 > > | Languages | Vethian |
 > > | Population | 105000 |

@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Continental, Cold |
-> > | Capital | Talhad |
+> > | Capital | [[Talhad]] |
 > > | Government | Council and King |
 > > | Languages | Dwarven, Common, Giant, Orcish |
 > > | Population | 380000 |

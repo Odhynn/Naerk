@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Tropical |
-> > | Capital | City of the Sun God |
+> > | Capital | [[City of the Sun God]] |
 > > | Government | Theocratic Monarchy |
 > > | Languages | Ngamui, Lizardtongue, Draconic, Auran |
 > > | Population | 3447000 |

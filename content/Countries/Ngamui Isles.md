@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Tropical |
-> > | Capital | Chatmon |
+> > | Capital | [[Chatmon]] |
 > > | Government | Loose |
 > > | Languages | Ngamui, Lizardtongue, Common, Elvish, Giant |
 > > | Population | 760000 |

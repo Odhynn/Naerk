@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Cold Continental |
-> > | Capital | Melinor |
+> > | Capital | [[Melinor]] |
 > > | Government | Democracy Council |
 > > | Languages | Common, Elven |
 > > | Population | 2960000 |

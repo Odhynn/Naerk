@@ -12,7 +12,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Boreal, Tundra |
-> > | Capital | Bärshamn |
+> > | Capital | [[Bärshamn]] |
 > > | Government | Clan Monarchy |
 > > | Languages | Common, Dwarven, Giant, Orcish |
 > > | Population | 190000 |

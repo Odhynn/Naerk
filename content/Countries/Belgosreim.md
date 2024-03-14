@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Continental Cold, Tundra |
-> > | Capital | Clapten |
+> > | Capital | [[Clapten]] |
 > > | Government | Tribal Monarchy |
 > > | Languages | Common, Giant, Elvish, Orcish, Goblin |
 > > | Population | 249000 |

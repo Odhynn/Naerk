@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Inner Sea |
-> > | Capital | Hashnev |
+> > | Capital | [[Hashnev]] |
 > > | Government | King |
 > > | Languages | Common, Goblin, Giant, Shadow |
 > > | Population | 870000 |

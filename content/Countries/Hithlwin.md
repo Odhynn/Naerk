@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Warm |
-> > | Capital | Elmatassi |
+> > | Capital | [[Elmatassi]] |
 > > | Government | Loose |
 > > | Languages | Hithlen |
 > > | Population | 3200000 |

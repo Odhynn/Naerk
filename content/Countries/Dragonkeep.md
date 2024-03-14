@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Continental Cold, Taiga |
-> > | Capital | Ralzyn |
+> > | Capital | [[Ralzyn]] |
 > > | Government | Draconic Monarchy |
 > > | Languages | Draconic |
 > > | Population | 670000 |

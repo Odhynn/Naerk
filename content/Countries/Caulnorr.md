@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Continental Cold, Taiga |
-> > | Capital | Caulnorr |
+> > | Capital | [[Caulnorr]] |
 > > | Government | King |
 > > | Languages | Giant, Goblin, Gnoll |
 > > | Population | 304000 |

@@ -12,7 +12,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Desert |
-> > | Capital | Raygexul |
+> > | Capital | [[Raygexul]] |
 > > | Government | Theocracy |
 > > | Languages | Gnoll, Goblin, Terran |
 > > | Population | 265000 |

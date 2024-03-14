@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Warm |
-> > | Capital | Verhalith |
+> > | Capital | [[Verhalith]] |
 > > | Government | Queen |
 > > | Languages | Sylvan, Gnome, Elven |
 > > | Population | 225000 |

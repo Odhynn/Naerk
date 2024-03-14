@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Inner Sea Dry |
-> > | Capital | Kindasir |
+> > | Capital | [[Kindasir]] |
 > > | Government | Mixed |
 > > | Languages | Common, Gnoll, Draconic |
 > > | Population | 781000 |
