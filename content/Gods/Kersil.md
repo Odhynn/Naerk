@@ -18,4 +18,4 @@ tags:
 > > | Category | [[Demon Archlords\|Archdemon]], [[Demonic Civil War\|Conspirators]] |
 > > | Plane | [[Abyss]] |
 
-One of the Conspirator [[Demon Archlords]]. Shee survived the [[Demonic Civil War]] and is lost to the edge of the [[Abyss]].
+One of the Conspirator [[Demon Archlords]]. She survived the [[Demonic Civil War]] and is lost to the edge of the [[Abyss]].

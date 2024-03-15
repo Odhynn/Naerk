@@ -1,5 +1,5 @@
 ---
-title: Battle of Fherlon Plains
+title: Demonic Civil War
 date: 2024-03-12
 author: sfakias
 tags:
