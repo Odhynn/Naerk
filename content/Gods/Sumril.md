@@ -16,7 +16,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Title | "The Elevated Spirit", "Inner Self" |
-> > | Category | Primordial |
+> > | Category | Primordial, Fifth Dimension |
 > > | Edicts | Self-Perfection, Path to clarity, Sense of purpose |
 > > | Portfolio | Limpidity, Personal struggle, Purity, Harmony |
 > > | Anathema | Procrastination, Indolence, Recklessness |

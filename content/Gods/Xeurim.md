@@ -16,7 +16,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Title | "Two-Faced", "Lady of Lust" |
-> > | Category | [[Demon Archlords\|Archdemon]], [[Conspirators]] |
+> > | Category | [[Demon Archlords\|Archdemon]], [[Demonic Civil War\|Conspirators]] |
 > > | Edicts | Deceive other fools, Manipulate persons of power, Gain influence, Terminate nuisances |
 > > | Portfolio | Manipulation, Deception, Disguise, Murder, Subterfuge, Charm |
 > > | Anathema | Spoil a secret, Ignore an opportunity |
@@ -41,3 +41,7 @@ tags:
 As the first human civilizations and kingdoms developed, Xeurim-Xaurim quickly found that she could very easily sow discord and doubt within the civilized areas, and this is what she decided to do. She chooses to constantly change forms, plant lies in the ears of various leaders, assassinate important persons, often replacing them with others sympathetic to her cause and use her beauty and charm to influence important persons.
 
 As is often said, Xeurim is the beautiful face of the demon and Xaurim the ugly, depending on the type of work to be done. Among her followers are assassins, spies, advisers. vampires, even thieves, poachers and some merchants. In order to gain power, her subordinate [[demons]] or sorcerers often take over people's bodies and control them secretly. Usually her servants refer to one of the two faces of the goddess, depending on which one suits them, but they all follow the same entity.
+
+## [[Demonic Civil War]]
+
+It is said that Xeurim was the only [[Demon Archlords|archdemon]] that foresaw the imminent destruction from the Civil War. She refrained from taking measures to stop it, however, as she saw everyday her potential antagonists lose power. Only when she was certain she would be at the top of the chain did she move to stop [[Disiklek]] and [[Otynhash]] and stop the slaughter.

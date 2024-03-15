@@ -16,7 +16,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Title | "The Plague Lord" |
-> > | Category | [[Demon Archlords\|Archdemon]], [[Chosen Demons\|Chosen]] |
+> > | Category | [[Demon Archlords\|Archdemon]], [[Demonic Civil War\|Chosen]] |
 > > | Edicts | Spread Disease, Plague and Poisons, Spoil communities and food, Wait to take its course |
 > > | Portfolio | Disease, Plague, Poison, Cannibalism, Virulent Fungi and Vermin |
 > > | Anathema | Stop a plague, cure a disease or poison |
@@ -42,4 +42,6 @@ Even though no one can prove that Disiklek is behind all the illnesses that brea
 
 ## History
 
-Disiklek during the [[Winter's War]] had even allied himself with [[Fallfaunt]], as he had found her method very effective in sowing destruction with little effort.
+Disilkek was one of the Chosen Demons, that accepted power from [[Amehan]] to create [[Abyss]], with [[Skaularame]] and three others. However, this proved to be a double-edged knife, as his own kin rebelled against him, in the form of the Conspirators that started the [[Demonic Civil War]] to defy his servitude to an external power. Among all the other [[Demon Archlords]], [[Otynhash]] was the one who hated him the most for his indirect approach and their battle was fierce before [[Xeurim]] stop them with a truce proposition.
+
+During the [[Winter's War]] he allied himself with [[Fallfaunt]], as he had found her method very effective in sowing destruction with little effort.

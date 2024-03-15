@@ -35,3 +35,7 @@ tags:
 > > | Favored Weapon | Ranseur |
 > > | Domains | Abomination, Secrecy, Sorrow, Void, Water |
 > > | Cleric Spells | 1st: Ill Omen, 5th: Mariner's Curse, 7th: Hungry Depths |
+
+_The [["Jalerk, the Endless Sea"|tale]] of Jalerk, in many villages, is said to exist only to discourage children and inexperienced sailors from crossing the most remote and deep waters. In reality, however, its not a tale._
+
+Jalerk is the fear of the unknown, the absolute emptiness, isolation and strangeness, the primeval and forgotten majesty of nature.
