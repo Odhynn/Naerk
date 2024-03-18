@@ -206,9 +206,9 @@ reclaimed.
 4779: Khalaram's independence from South Darrok.
 
 4780: King Lordin Quakesville enthroned in Green Hills.  
-4784: Athalahr: [Amen] Arrival of the Company of the 6th Incantator.
+4784: Athalahr: [[Amen]] Arrival of the Company of the 6th Incantator.
 
-4786: Zuuls' Rampage and death across Åpperbung. Devils attack Pamfül,
+4786: Zuuls' Rampage and death across Åperbung. Devils attack Pamfül,
 Celestial intervention.
 
 4797: Ίδρυση του Order of the Broken Crest.  

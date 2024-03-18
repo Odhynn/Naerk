@@ -38,3 +38,5 @@ tags:
 
 > [!quote] 
 > "In the dark of the moon, one cannot tell a fox from an owl. But the fox and the owl both know."
+
+Berohath is an enigmatic entity in the shape of a fox. It finds ground in the thoughts of theft, dishonorable behaviour, stealthy acts and cunning. During the events of [[e-antizelia-tou-elaphiou-tes-alepous-kai-tou-gerakiou|a ritual]] in [[Korhond]], she argued and reconciled with [[Valanshore]] and [[B'tolen]].

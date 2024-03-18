@@ -35,3 +35,5 @@ tags:
 > > | Favored Weapon | Shortbow |
 > > | Domains | Ambition, Confidence, Freedom, Might, Passion, Time |
 > > | Cleric Spells | 1st: Fleet Step:, 2nd: Animal Form, 3rd: Haste |
+
+A deer-shaped entity that promotes fair sportsmanship, young innosence and passion in life. Her known avatar, the white deer [[Valanfaul]], roams [[Fervolosh]] trees and provides guidance and healing to those in need. During the events of [[e-antizelia-tou-elaphiou-tes-alepous-kai-tou-gerakiou|a ritual]] in [[Korhond]], she argued and reconciled with [[Berohath]] and [[B'tolen]].

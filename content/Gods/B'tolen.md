@@ -38,3 +38,5 @@ tags:
 
 > [!quote] 
 >"In Thimvert reach, they saw an albatross. In Zelgerosh jungles, a parrot. At Rammok wastes, a vulture. On Bjaglant shores, a raven landed."
+
+A wandering Aspect, always on the move. Everlearning and ever changing, it roams all the regions of [[Naerk]] and is supposed to take many different forms. It acts as a guide to travellers and sailors. During the events of [[e-antizelia-tou-elaphiou-tes-alepous-kai-tou-gerakiou|a ritual]] in [[Korhond]], it argued and reconciled with [[Berohath]] and [[Valanshore]].
