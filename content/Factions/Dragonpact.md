@@ -38,7 +38,7 @@ Then the wisest of the dragons realized that the effects of their arrogance were
 
 These six dragons called the chieftains of the Wyrmsfall, as well as the kings of each country, to a meeting, and many responded to their call.
 
-Immediately, the reason for the meeting was revealed: the dragons sought a truce. Realizing the unique opportunity they had in hand, the attending kings and queens decided to agree, and bound the Wyrmsfall leaders to follow through. This is how the Dragonpact was defined in the year 1983: The terms by which dragons, as well as their hunters, were bound. The Dragonpact was implemented in many areas of Na'erk, and it is not difficult to understand how it was done with mutual concessions on both sides. The dragons went one step further and instrumented this condition and attacks between dragons to ensure the species' reproduction. The treaty included 6 rules:
+Immediately, the reason for the meeting was revealed: the dragons sought a truce. Realizing the unique opportunity they had in hand, the attending kings and queens decided to agree, and bound the Wyrmsfall leaders to follow through. This is how the Dragonpact was defined in 23 Moondance, on the year 1983: The terms by which dragons, as well as their hunters, were bound. The Dragonpact was implemented in many areas of Na'erk, and it is not difficult to understand how it was done with mutual concessions on both sides. The dragons went one step further and instrumented this condition and attacks between dragons to ensure the species' reproduction. The treaty included 6 rules:
 
 ## The Dragonpact
 

@@ -18,7 +18,7 @@ tags:
 
 ## the Grand Alliance
 
-Under the [[Emperor Ralos III]]'s rule [[Imtaria]] reached a prosperity never seen before and he was confident to form under his initiative a treaty to expand his power even more. He invited many neighboring countries to conclude a treaty of free movement of goods. Of these, four responded to the call, seeing it in their best interest to cease hostilities and develop trade. Thus Palaurim was defined and signed by all:
+Under the [[Emperor Ralos III]]'s rule [[Imtaria]] reached a prosperity never seen before and he was confident to form under his initiative a treaty to expand his power even more. He invited many neighboring countries to conclude a treaty of free movement of goods on 10 Flowergrow 3950. Of these, four responded to the call, seeing it in their best interest to cease hostilities and develop trade. Thus Palaurim was defined and signed by all:
 
 [[Green Hills]]
 [[Oromil]]
@@ -43,7 +43,7 @@ Besides these, the exchange rate of other currencies used by other cultures was 
 **Dragon coin**: Round and red, Kambah, equal to 5 platinum coins.
 **Topaz coin**: Hollow hexagon, equal to 100 platinum coins.
 
-The countries of Palaurim hold a council every year, usually on the 10th of Flowergrow, which is also the anniversary of its founding. In addition, emergency councils are held in case of war, threat or unforeseen events. The council is usually held in [[Arbader]] or [[Imtaria]], and is attended by councilors from the corresponding countries, depending on their size, population and economic power.
+The countries of Palaurim hold a council every year, usually on the 10th of Flowergrow, the anniversary of its founding. In addition, emergency councils are held in case of war, threat or unforeseen events. The council is usually held in [[Arbader]] or [[Imtaria]], and is attended by councilors from the corresponding countries, depending on their size, population and economic power.
 
 Simple decisions are usually taken by a relative majority, while the most important ones are taken by an absolute majority, while each country has the right to choose in any way it wants who will be the counselors filling the positions corresponding to it. Currently, the council had 83 councilors:
 
