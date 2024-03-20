@@ -14,7 +14,7 @@ tags:
 > > | --- | --- |
 > > | Population | 35189, 54% Humans, 25% Lizardfolk, 7% Undead, 7% Orc, 3% Vampires, 1% Tieflings, 3% Other |
 > > | Government | Oligarchy (Khalarsnake) |
-> > | Religions | [[Sergonial]], [[Veiroch]], [[Drokasner]], [[Sennek]], [[Gibba]] |
+> > | Religions | [[Neverborn]], [[Veiroch]], [[Sennek]], [[Gibba]] |
 > > | Location | east [[South Darrok]] |
 
 ## History
