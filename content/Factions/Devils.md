@@ -1,7 +1,9 @@
 ---
-title: Demons
+title: Devils
 date: 2024-02-24
 author: sfakias
+alias:
+  - "devils" 
 tags:
   - planes/Abyss
 ---
