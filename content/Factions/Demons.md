@@ -2,8 +2,8 @@
 title: Demons
 date: 2024-02-24
 author: sfakias
-alias:
-  - "https://odhynn.github.io/naerk/demons"
+aliases:
+  - "demons"
 tags:
   - planes/Abyss
 ---
