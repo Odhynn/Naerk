@@ -16,7 +16,7 @@ tags:
 > > | Government | Constitutional Monarchy |
 > > | Languages | Gnomish |
 > > | Population | 120000 |
-> > | Religions | [[Klont]], [[Vard]], [[Heddba]], [[Υerastu]] |
+> > | Religions | [[Klont]], [[Vard]], [[Heddba]], [[Yerastu]] |
 > > | Imports | - |
 > > | Exports | - |
 
