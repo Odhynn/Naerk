@@ -45,6 +45,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.AliasRedirects(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
         // you can add 'git' here for last modified from Git
