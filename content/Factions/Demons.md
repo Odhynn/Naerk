@@ -3,7 +3,7 @@ title: Demons
 date: 2024-02-24
 author: sfakias
 aliases:
-  - "demons"
+  - demons
 tags:
   - planes/Abyss
 ---
