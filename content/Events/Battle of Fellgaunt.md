@@ -14,6 +14,8 @@ tags:
 > > | --- | --- |
 > > | Place | [[Fellgaunt]], [[Oromil]] |
 > > | Time | 4776 |
+> > | Combatants | Tulenkar and Meacel army against Kalistrom and Merydra forces |
+> > | Outcome | Tulenkar Victory |
 
 ## Background
 
