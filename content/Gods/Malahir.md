@@ -43,3 +43,7 @@ The [[Primordial]] entity that emerged from the [[Primordial War]]. After cooper
 ## Intervention
 
 With her intervention and Reszek, and through her servant, an enchanted Lantwirl tree, [[Laerion]] and [[Factar]] were empowered and eventually ascended as gods.
+
+## [[Ghost War]]
+
+Malahir was attacked by [[Auromia]] during [[Ghost War]] in her effort to destroy all life and revenge the goddess of nature. She mustered the aid of [[Aspects]], [[Elemental Lords]] and many natural beings. She died while casting a powerful spell that turned the tide of the battle by shifting the battlefield from [[Evergrowing Forest]] to the [[Material Plane]] but the battle was won. Next spring, at year 1, she reincarnated and the circle of life began anew.
