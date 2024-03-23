@@ -1,18 +1,19 @@
-const bufferPx = 150
 const observer = new IntersectionObserver((entries) => {
   for (const entry of entries) {
-    const slug = entry.target.id
-    const tocEntryElement = document.querySelector(`a[data-for="${slug}"]`)
-    const windowHeight = entry.rootBounds?.height
-    if (windowHeight && tocEntryElement) {
-      if (entry.boundingClientRect.y < windowHeight) {
-        tocEntryElement.classList.add("in-view")
-      } else {
-        tocEntryElement.classList.remove("in-view")
-      }
+    const slug = entry.target.id;
+    const tocEntryElements = document.querySelectorAll(`a[data-for="${slug}"]`);
+    const windowHeight = entry.rootBounds?.height;
+    if (windowHeight) {
+      tocEntryElements.forEach((tocEntryElement) => {
+        if (entry.boundingClientRect.y < windowHeight) {
+          tocEntryElement.classList.add("in-view");
+        } else {
+          tocEntryElement.classList.remove("in-view");
+        }
+      });
     }
   }
-})
+});
 
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")
@@ -23,7 +24,20 @@ function toggleToc(this: HTMLElement) {
 }
 
 function setupToc() {
-  const toc = document.getElementById("toc")
+  function isElementVisible(element: Element): boolean {
+    let currentElement = element;
+    while (currentElement && !currentElement.classList.contains('quartz-body')) {
+      if (getComputedStyle(currentElement).display === 'none') {
+        return false;
+      }
+      currentElement = currentElement.parentElement as Element;
+    }
+    return true;
+  }
+
+  const tocElements = Array.from(document.querySelectorAll('#toc'))
+    .filter(isElementVisible);
+  const toc = tocElements.length > 0 ? tocElements[0] : null;
   if (toc) {
     const collapsed = toc.classList.contains("collapsed")
     const content = toc.nextElementSibling as HTMLElement | undefined
