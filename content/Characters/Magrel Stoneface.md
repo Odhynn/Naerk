@@ -1,11 +1,11 @@
 ---
 title: Magrel Stoneface
-subtitle: female dwarf earthshaper
+subtitle: female grey dwarf earthshaper
 date: 2024-03-28
 author: sfakias
 tags:
   
-  - countries/Green Hills
+  - countries/Northern Darrok
 
 ---
 > [!attributes]
@@ -18,7 +18,7 @@ tags:
 > > | nationality | [[Northern Darrok]] |
 > > | height | 3'11" |
 > > | weight | 157 lb. |
-> > | appearance | Brown hair, ruby eyes |
+> > | appearance | Brown hair, ruby eyes, adamantine shield and waraxe |
 > > | residence | [[Strümeld]], [[Deeps]] |
 
 A dwarven stoneshaper that dwelled in the [[Deeps]] and sought knowledge of the [[Leylines]]. She built fortifications against the [[Guldorom Horde]].
