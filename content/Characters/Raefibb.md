@@ -8,7 +8,7 @@ tags:
   - factions/Sages of the North
   - factions/Fismint
   - countries/Korhond
-  - countries/North Darrok
+  - countries/Northern Darrok
 wiki:
   gender: male
   ancestry: human
@@ -16,7 +16,7 @@ wiki:
   born: 1802
   height: 5'10"
   weight: 160 lb.
-  residence: Raven's Tower
+  residence: [[Raven's Tower]]
 ---
 > [!attributes] 
 > > [!grid]
