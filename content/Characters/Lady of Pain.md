@@ -28,6 +28,7 @@ Influential lady of [[Arbader]]
 Member of [[Crimson Steel]]
 Master Assassin
 Vampire and demon allies
+Believed to be an old friend of [[King Laorwick II|Laorwick]]
 
 > [!quote] 
 > Don't give me a reason to exercise violence...
