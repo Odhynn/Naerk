@@ -23,3 +23,4 @@ tags:
 
 Son of [[King Thogodram]]
 Betrothed of [[Queen Ralvia]]
+Died at [[Four WInds Monastery]] at the first battle of the [[War of the Titan]].
