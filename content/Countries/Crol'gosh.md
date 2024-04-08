@@ -1,9 +1,9 @@
 ---
-title: Saemorr
+title: Crol'gosh
 date: 2024-01-28
 author: sfakias
 tags:
-  - countries/Saemorr
+  - countries/Crol'gosh
 
 
 ---
@@ -22,3 +22,5 @@ tags:
 > > | Imports | Slaves, Food, Manufactured Goods, Ivory |
 > > | Exports | Slaves, Iron Ore, Granite, Marble, Bronze, Copper, Mercenaries |
 > > | Important Events | Huntsmoors Defeat |
+
+An orc region that is based on [[Saemorr]] mountains.

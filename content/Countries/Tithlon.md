@@ -22,3 +22,5 @@ tags:
 > > | Imports | Meat, Exotic Herbs, Wine, Beer, Weapons |
 > > | Exports | Mercenaries, Spices, Fish, Sculpture, Artwork |
 > > | Important Events | Paraselt Dust, Defeated Army Raids, Home of Outcasts |
+
+Tithlon hosts many refuges from the [[Paraselt]] mountains, that flee the [[Defeated Army]], and from the east, that flee from [[Hithlwin]] violent expansion.
