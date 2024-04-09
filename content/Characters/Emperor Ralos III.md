@@ -1,5 +1,5 @@
 ---
-title: Emperor Ralos III 
+title: Emperor Ralos III Neruso
 subtitle: male human emperor
 date: 2024-03-24
 author: sfakias

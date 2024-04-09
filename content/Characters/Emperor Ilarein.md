@@ -1,6 +1,6 @@
 ---
 title: Emperor Ilarein
-subtitle: male human king
+subtitle: male human emperor
 date: 2024-02-24
 author: sfakias
 tags:
