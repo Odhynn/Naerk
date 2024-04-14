@@ -14,7 +14,8 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Formation | ? |
+> > | Symbol | Boiling Fountain |
 > > | Members | 5 druids and 3 apprentices |
-> > | Region | [[Oventhart]] |
+> > | Region | [[Oventhart]], [[Melario]] woods |
+> > | Leader | [[Oliven]] |
 

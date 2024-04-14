@@ -17,6 +17,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Members | ? |
+> > | Symbol | Sitting Lion |
+> > | Members | mostly solitary hermits |
 > > | Region | From [[Imtaria]] to [[Paraselt]] |
-> > | Leader | ? |
+> > | Leader | [[Molish Santhak]] |
