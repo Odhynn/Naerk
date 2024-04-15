@@ -35,3 +35,5 @@ tags:
 > > | Favored Weapon | Falchion |
 > > | Domains | Confidence, Destruction, Dust, Fire, Freedom, Zeal |
 > > | Cleric Spells | 1st: Burning Hands, 3rd: Fireball, 9th: Meteor Swarm |
+
+Possibly the most ruthless of all the [[Elemental Lords]], Fyrlean first entered [[Material Plane]] with the creation of the [[Sun]] and [[Reszek]] when he defeated the [[Primordials|Primordial]] [[Querligon]]. He tried to killed [[Fallfaunt]] but his brother, [[Hydarax]], intervened in a battle of epic proportions. He became the lord of the [[Fire Quarter]] and amongst his creations are the firefolk, that live in many warm places of [[Naerk]]. After the [[Winter's War]], Fyrlean wanted to take all the [[Malgyra]], the powerful elemental diamonds, for himself in order to siege command in the whole [[Elemental Ring]], causing a massive conflict within it.

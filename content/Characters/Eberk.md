@@ -1,5 +1,5 @@
 ---
-title: Eberk
+title: Eberk the Redeemed
 subtitle: male redeemed paladin
 date: 2024-03-09
 author: sfakias

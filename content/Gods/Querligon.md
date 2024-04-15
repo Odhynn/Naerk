@@ -7,4 +7,4 @@ tags:
   - gods/Gone
 ---
 
-A [[Primordial]] that fought in the [[Primordial War]] and lost the battle against [[Reszek]]. The Lord of Light then, materialized his victory as the [[Sun]].
+A [[Primordial]] that fought in the [[Primordial War]] and lost the battle against [[Fyrlean]]. The Lord of Light then, materialized his victory as the [[Sun]] and the creation of [[Reszek]].
