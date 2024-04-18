@@ -17,4 +17,4 @@ tags:
 > > | Symbol | Five ice polygons forming a glacier |
 > > | Region | Southwest [[Hoss Glacier]] |
 > > | Capital | [[Osfån]] |
-> > | Leader | [[Jarlskona Lengosha Rakfun\|Jarlskona Lengosha]] |
+> > | Leader | [[Jarlskona Lengosha\|Jarlskona Lengosha Rakfun]] |

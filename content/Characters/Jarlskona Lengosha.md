@@ -1,5 +1,5 @@
 ---
-title: Jarlskona Hefidd
+title: Jarlskona Lengosha Rakfun
 subtitle: female human Jarlskona
 date: 2024-04-18
 author: sfakias
@@ -14,8 +14,8 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4742, [[Korhond]] |
-> > | appearance | White hair, grim face |
-> > | residence | [[Åperbung]] |
+> > | born | 4795, [[Korhond]] |
+> > | appearance | silver-white hair, blue eyes, crystal longspear |
+> > | residence | [[Osfån]] |
 
-Leader of the [[Bur'gg]] tribe.
+Leader of the [[Fosh]] tribe.
