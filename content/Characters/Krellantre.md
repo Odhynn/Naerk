@@ -1,5 +1,5 @@
 ---
-title: Kensalea
+title: Krellantre
 subtitle: female fomorian queen
 date: 2024-03-22
 author: sfakias

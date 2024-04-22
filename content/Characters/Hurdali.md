@@ -1,5 +1,5 @@
 ---
-title: Kalar Gyr
+title: Hurdali Khamanrnaya
 subtitle: male viperfolk poisoner
 date: 2024-03-20
 author: sfakias

@@ -1,6 +1,6 @@
 ---
-title: Kalar Gyr
-subtitle: female vigilante
+title: Kairaslu
+subtitle: Wendigo leader
 date: 2024-04-18
 author: sfakias
 tags:
