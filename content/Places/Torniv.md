@@ -12,6 +12,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
+> > | Built | 2456 |
 > > | Location | [[Fervolosh]], [[Korhond]] |
 
 ## The Stone House
