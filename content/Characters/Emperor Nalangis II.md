@@ -1,5 +1,5 @@
 ---
-title: Emperor Rokfilar III Ragas
+title: Emperor Nalangis II Ragas
 subtitle: male human emperor
 date: 2024-04-09
 author: sfakias
