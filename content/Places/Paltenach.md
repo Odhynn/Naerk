@@ -13,3 +13,5 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Location | Island west of [[Tarhelm]] |
+
+The home of the bronze dragon [[Kensalea]], the Storm's Fury.

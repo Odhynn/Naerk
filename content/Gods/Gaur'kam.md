@@ -1,11 +1,11 @@
 ---
-title: Drokasner
+title: Gaur'kam
 date: 2024-02-05
 author: sfakias
 tags:
-  - gods/Aspects
-  - planes/Elemental Ring
-  - planes/Evergrowing Forest
+
+  - gods/demigods
+  - planes/Material Plane
 
 
 ---
@@ -15,32 +15,30 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Title | "Thunderstrike" |
+> > | Title | "Thunderkissed" |
 > > | Category | Aspects |
-> > | Edicts | Bad Weather, Fury of the Sky, Defiance |
-> > | Portfolio | Thunder, Storm, Bad Temper |
-> > | Anathema | Try to calm or avoid weather, Disrespect the elements |
-> > | Followers | travellers, mountaineers, sailors, orcs, giants, [[Hoen]] |
-> > | Pantheon | Tribal, Orc, Giant |
-> > | Plane | [[Elemental Ring]], [[Evergrowing Forest]] |
+> > | Edicts | Follow your desires, willingly face hardships |
+> > | Portfolio | Orcs, Power, Endurance |
+> > | Anathema | Let pain and fear control you |
+> > | Followers | orcs |
+> > | Pantheon | Orcish |
+> > | Plane | [[Material Plane]] |
 >
 > > [!quote]
 > > 
 > > ###### Devotee Benefits
 > > | | |
 > > | --- | --- |
-> > | Divine Ability | Constitution or Wisdom |
+> > | Divine Ability | Strength or Constitution |
 > > | Divine Font | Harm |
-> > | Divine Skill | Survival |
-> > | Favored Weapon | Spear |
-> > | Domains | Air, Confidence, Lightning, Might |
-> > | Cleric Spells | 1st: Horizon Thunder Sphere, 5th: Stormburst, 6th: Chain Lightning |
+> > | Divine Skill | Athletics |
+> > | Favored Weapon | Maul |
+> > | Domains | Confidence, Lightning, Metal, Pain, Toil |
+> > | Cleric Spells | 1st: Conductive Weapon, 2nd: Magnetic Repulsion, 5th: Stormburst |
 
-Drokasner's appearance on [[Naerk]] began with the process of evaporating the water masses. This led to the formation of clouds, and consequently to lightning and thunder. Apparently the exact conditions of its creation are widely unknown, as few sages and wizards can understand this natural phenomenon, and even fewer can tame and control it.
+An orcish hero from [[Heyarosh]] that defied the constant lightning strikes of [[Drokasner]].
 
-In many areas of the south Drokasner is projected as something hostile, bringing bad weather, typhoons, monsoons and floods. Elsewhere they worship him and sacrifice to him, because his presence is often accompanied by the much-desired rain, which in dry and barren regions is precious. The ones who value him the most, however, are the orcs.
-
-The cult of orcs in Thunderstrike began with a seemingly random event. A bolt of lightning struck an ancient blacksmith and knocked him down. His skin turned dark, his face distorted and he looked like he was dying. Then the creature, bleeding from its damaged nose and mouth, rose to its knees and cried out to the clouds, challenging him.
+he cult of orcs in [[Drokasner|Thunderstrike]] began with a seemingly random event. A bolt of lightning struck an ancient blacksmith and knocked him down. His skin turned dark, his face distorted and he looked like he was dying. Then the creature, bleeding from its damaged nose and mouth, rose to its knees and cried out to the clouds, challenging him.
 
 _"That's all you can do?"_
 
