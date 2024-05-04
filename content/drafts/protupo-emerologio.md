@@ -105,7 +105,10 @@ author: sfakias
 3489: Ίδρυση των Cornuzel.
 
 3505: 'Εκδοση Principia Magicka.  
+
 3526: Έκρηξη του ηφαιστείου Kegrozal στο Paraselt.
+
+3528: Έποικιση του Urgol απο dark elves. Πολιορκία Kadrom και θανατος Anhalt.
 
 3731: Ήττα των γιγάντων των Hoen από το Oventhart και τον Ashiro.
 

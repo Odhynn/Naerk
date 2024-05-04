@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | Island west of [[Tarhelm]] |
 
-The end of the [[Tarhelm]] mountain range, Urgol is a dormant volcano.
+The end of the [[Tarhelm]] mountain range, Urgol is a dormant volcano and housed dark elves that came by sea from the south at year 3528.
