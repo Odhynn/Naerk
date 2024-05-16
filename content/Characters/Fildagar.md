@@ -1,6 +1,6 @@
 ---
 title: Fildagar
-subtitle: male brass dragon
+subtitle: male bronze dragon
 date: 2024-03-07
 author: sfakias
 tags:
@@ -16,7 +16,7 @@ tags:
 > > | --- | --- |
 > > | born | 3890 |
 > > | died | 4742 |
-> > | appearance | Brass skin, deep red eyes |
+> > | appearance | Bronze skin, deep red eyes |
 > > | residence | [[South Watchers]] |
 
 ## Story
