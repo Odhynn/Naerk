@@ -96,9 +96,9 @@ author: sfakias
 
 3345: Ίδρυση της Imtaria. Συνθήκη με τα Water Elementals.
 
-3358: Εξερεύνηση του Zelgerosh από την Imtaria. Ίδρυση του St. Qurin.
-
 3373: Ίδρυση Hoarinhel.
+
+3381: Εξερεύνηση του Zelgerosh από την Imtaria. Ίδρυση του St. Qurin.
 
 3425: Κτίσιμο Tas-Meir.
 
