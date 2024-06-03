@@ -1,5 +1,5 @@
 ---
-title: Queen Ralvia
+title: Rikisol
 subtitle: female cloud giant
 date: 2024-04-05
 author: sfakias

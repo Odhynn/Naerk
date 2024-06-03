@@ -1,5 +1,5 @@
 ---
-title: Solusmeir
+title: Zuul
 subtitle: Tar two-headed linnorm
 date: 2024-03-18
 author: sfakias
