@@ -35,6 +35,8 @@ She foresaw terrible forces building up in the sealed tower of [[Eltirion]]. She
 
 Determined to deliver bloody vengeance upon the dwarves for the injustice done against her, and to rise up as the rightful ruler and protector of the people of [[Selanahr]], she undermined their authority at every opportunity, consolidating her fiscal empire in the meantime, and gauging the ever-growing pressure of doom amassing high up in Eltirion. Revenge would come. In time.
 
+![[../img/Angaeradh.jpg]]
+
 Thus, in time, when the call for the [[Winter's War]] came out, she intercepted the dwarven representatives heading to [[Kultaria]], offed them, and appeared in their stead as the Champion of Selanahr. The dwarven rulers soon learned what had transpired as tales of her exploits in the south against the Hordes of [[Fallfaunt]] reached the Athalahri shores, yet did not take action against her or debunk her ill-gotten Selanahri representative status so as not to show weakness.
 
 The rest is history.
