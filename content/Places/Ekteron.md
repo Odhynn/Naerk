@@ -15,7 +15,7 @@ tags:
 > > | Population | 82524, 70% Humans, 12% Elves, 5% Half-Elves, 3% Dwarves, 2% Gnomes, 1% Windfolk, 1% Finfolk, 1% Half-Orcs, 3% Other |
 > > | Government | Monarchy (King [[Labelas Lionhead]]) |
 > > | Religions | [[Factar]], [[Hansa]], [[Tarov]], [[Nahema]] |
-> > | Location | south [[Kambah]] |
+> > | Location | northeast [[South Darrok]] |
 
 The vice capital of [[South Darrok]], this city boasts fine craftsmanship and artworks. It is considered by many one of the most important cities of the continent, as it connects many countries and is a major northern port. It contains many ancient temples, most notably the famous [[Nahema]] church of vitality with a devoted clergy.
 
