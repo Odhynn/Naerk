@@ -14,10 +14,9 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4732, [[Imtaria]] |
-> > | crowned | 4754, Imtaria |
-> > | dethroned | 4817, Imtaria |
+> > | born | 4792, [[Imtaria]] |
+> > | crowned | 4817, Imtaria |
 > > | nationality | Imtarian |
-> > | appearance | Bald, blue eyes |
+> > | appearance | Golden mane, blue eyes |
 
 The yound emperor of [[Imtaria]], inherits an empire full of turmoil, uncertain alliances, economic debt and a declining army after his [[Emperor Rokfilar III|grandfather]] proved unable to manage the increasing problems during the late years of his long rule.
