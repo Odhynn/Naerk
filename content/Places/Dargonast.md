@@ -14,7 +14,7 @@ tags:
 > > | --- | --- |
 > > | Population | 92103, 87% Humans, 9% Halflings, 3% Half-Elves, 1% Other |
 > > | Government | Feudarchy (Lord) |
-> > | Religions | [[Laerion]], [[Factar]], [[Nahema]], [[Anhalt]] |
+> > | Religions | [[Laerion]], [[Factar]], [[Nahema]], [[Neverborn]] |
 > > | Location | [[Green Hills]] |
 
 A city that was destroyed in 4816 by a goblin invasion, organised by the [[Defeated Army]] in [[Paraselt]]. It is slowly being rebuild.
