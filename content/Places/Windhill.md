@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | West [[Allwick]] |
 
-A hill amidst the desert plains of [[Allwick]] that is constantly ravaged by strong winds. It is a sacred place of the god [[Saekla]] and his followers occasionaly make pilgrimages here.
+A tall hill amidst the desert plains of [[Allwick]] that is constantly ravaged by strong winds. It is a sacred place of the god [[Saekla]] and his followers occasionaly make pilgrimages here. This area of ​​perpetual sandstorms is chosen by shamans to communicate with the [[Elemental Ring]] and with ancient spirits to learn events of the past.
