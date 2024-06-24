@@ -17,7 +17,7 @@ tags:
 > > | --- | --- |
 > > | born | 4757, [[Hashnev]], [[Arbader]] |
 > > | crowned | 4793 |
-> > | died | 4815 |
+> > | dethroned | 4817 |
 > > | nationality | Arbader |
 > > | appearance | Brown hair, brown eyes, thick belly |
 

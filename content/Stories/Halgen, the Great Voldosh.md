@@ -1,5 +1,5 @@
 ---
-title: "Halgen, the Great Voldosh: Part 1"
+title: "Halgen, the Great Voldosh"
 date: 2018-05-06
 author: kyriakos
 ---

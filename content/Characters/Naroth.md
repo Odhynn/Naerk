@@ -1,5 +1,5 @@
 ---
-title: Naroth
+title: 1st Admiral Naroth Geadan
 subtitle: male finfolk priest
 date: 2024-02-28
 author: sfakias

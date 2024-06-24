@@ -45,15 +45,15 @@ Besides these, the exchange rate of other currencies used by other cultures was 
 
 The countries of Palaurim hold a council every year, usually on the 10th of Flowergrow, the anniversary of its founding. In addition, emergency councils are held in case of war, threat or unforeseen events. The council is usually held in [[Arbader]] or [[Imtaria]], and is attended by councilors from the corresponding countries, depending on their size, population and economic power.
 
-Simple decisions are usually taken by a relative majority, while the most important ones are taken by an absolute majority, while each country has the right to choose in any way it wants who will be the counselors filling the positions corresponding to it. Currently, the council had 83 councilors:
+Simple decisions are usually taken by a relative majority, while the most important ones are taken by an absolute majority, while each country has the right to choose in any way it wants who will be the counselors filling the positions corresponding to it. Currently, the council had 85 counselors:
 
 -28 from Imtaria
 -18 from Oromil
--13 from Arbader
+-14 from Arbader (13 before Green Hills' secession)
 -10 from South Darrok
 -6 from Reisdok
 -3 from Urdankh
--2 from Whistor
+-3 from Whistor (2 before Green Hills' secession)
 -2 from Zolkar
 
 *-15 from Green Hills (seceded recently)*
