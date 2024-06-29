@@ -1,9 +1,11 @@
 ---
-title: War of the Titan
+title: War of Karahath
 date: 2024-04-04
 author: sfakias
 tags:
-  - countries/Korhond
+  - countries/Kambah
+  - countries/Oventhart
+
 
 ---
 > [!attributes]
@@ -13,7 +15,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | [[Kambah]] and [[Oventhart]] border |
-> > | Time | 4779 |
+> > | Time | 4772 |
 
 [[Karahath]] was by far the most ambitious ruler of [[Kambah]], and his main desire was to expand his country under his absolute rule. He was not content with enlarging his territories: he also wanted to impose his will on the inhabitants of the surrounding regions, and establish Kambah as a military power in the entire [[Misty Sea]]. His ability to raise an army was evident from the first day he carved his majestic throne in [[Aar]]. The massive army he gathered to [[Defeated Army|attack the south]] was only his first attempt. Many believe that if, with the army at his disposal, he had attacked east instead of south then, [[Oventhart]] would have disappeared from the map. However, no one knows if he could completely impose this opinion on this bunch of orcs, giants, peasants and trolls and their egoistic leaders.
 
@@ -25,9 +27,9 @@ In the year 4772, Karahath was ready to make his move. His army numbered two hun
 
 In the summer the offensive towards Oventhart began. Its inhabitants, for many reasons, were caught off guard. In part, Kambah had severed the already limited trade relations, so access and information from inside the country was small. The spy network made sure to assassinate anyone who knew too much, or bribe them to keep their mouths shut. Finally, the priests had covered many Gates and military installations with illusion magic so that they could not be easily detected. These reasons contributed to the effectiveness of the initial invasion.
 
-[[Qumbar]] fell overnight, while Whitecross burned to the ground. [[Unariel]] was overrun by devils, and within a week refugees were running to the east for safety, while Kambah secured her new lands. The first serious defense against Karahath's advance was made on Nador, by a group of Makinsoth and other skilled warriors, mostly natives, who were later called the Layn'eth Knights and distinguished themselves in their ability to deal with all manner of diabolical beings. At Nador the advance stopped.
+[[Fall of Qumbar|Qumbar fell]] overnight, while Whitecross burned to the ground. [[Unariel]] was overrun by devils, and within a week refugees were running to the east for safety, while Kambah secured her new lands. The first serious defense against Karahath's advance was made on Nador, by a group of Makinsoth and other skilled warriors, mostly natives, who were later called the Layn'eth Knights and distinguished themselves in their ability to deal with all manner of diabolical beings. At Nador the advance stopped.
 
-It soon became known that one of the reasons for the success is that Karahath himself was holding a Scroll of the Supreme Tyrrant, and he read it to Qumbar, disintegrating the city's defenses. The next period was spent with several skirmishes, as well as an attempt by the fiends and Kenorex to pass through occupied Unariel to northern Oventhart and besiege [[Melinor]]. This attempt however failed, for in the open steppes the archers and wizards of the elves and city guard had the advantage, and were able to stop the invasion.
+It soon became known that one of the reasons for the success is that Karahath himself was holding a Scroll of the Supreme Tyrrant, and he read it to [[Qumbar]], disintegrating the city's defenses. The next period was spent with several skirmishes, as well as an attempt by the fiends and Kenorex to pass through occupied Unariel to northern Oventhart and besiege [[Melinor]]. This attempt however failed, for in the open steppes the archers and wizards of the elves and city guard had the advantage, and were able to stop the invasion.
 
 Months passed and Oventhart's guerrilla war saw several small victories. However, Kambah expanded into [[Cavaroch Forest]], and was able to take lands almost as far as Lorsal, Greenmills, and the Allwick Wilderness. However, in the fighting near Greenmills, two dragons appeared on Oventhart's side and were able to kill Kereilanzoga. In the south there were few devils with the army, so it was easier to deal with Kambah's forces by conventional means.
 
