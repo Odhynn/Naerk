@@ -1,6 +1,6 @@
 ---
-title: Ansiv
-subtitle: male human wizard
+title: Ashatai
+subtitle: champion angel
 date: 2024-02-24
 author: sfakias
 tags:
