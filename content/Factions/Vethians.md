@@ -2,6 +2,10 @@
 title: Vethians
 date: 2024-03-15
 author: sfakias
+alias:
+  - vethian
+  - vethians
+  - Vethian
 tags:
   - planes/Zinctizuctra
 ---

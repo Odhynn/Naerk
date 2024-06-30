@@ -3,7 +3,10 @@ title: Devils
 date: 2024-02-24
 author: sfakias
 alias:
+  - "Devil" 
   - "devils" 
+  - "devil" 
+
 tags:
   - planes/Abyss
 ---
