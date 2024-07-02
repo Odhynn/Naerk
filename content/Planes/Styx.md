@@ -30,3 +30,7 @@ Realizing the extent the life phenomenon was taking, [[Amehan]] couldn't sit idl
 ## Souls unchained
 
 Then, since in her despair Malahir could find no other solution, she called upon all the gods. She made them a proposal, that she believed was to everyone's benefit. If everyone helped to contain Styx and her power, then she would free the souls from the [[Evergrowing Forest]] and everyone would appoint an objective judge, in a transitional dimension, who would determine where each soul would end up according to their actions in life. Most of the gods thought they would gain from this, so they fought together in all dimensions against Styx. The problem presented itself very quickly: If they destroyed it, they would also destroy the souls inside it. Thus, they left Orovos severely injured and unconscious. It still gradually assimilates the souls that spend too much time inside it and steals memories from the imprisoned, but is now merely just a communication bridge and a vessel between dimensions.
+
+## Amehan Revenge
+
+As Styx was connected to [[Tartara]], Amehan was able to open a rift to the [[Material Plane]] and move his army there, in the event called the [[Eruption]].

@@ -2,6 +2,10 @@
 title: Demon Archlords
 date: 2024-01-29
 author: sfakias
+alias:
+  - "demon archlords"
+  - "Demon Archlord"
+  - "demon archlord"
 tags:
   - gods/archdemons
   - planes/Abyss
