@@ -1,5 +1,5 @@
 ---
-title: Hashnev: Revolt and Betrayal
+title: Hashnev, Revolt and Betrayal
 date: 2024-06-24
 author: sfakias
 tags:
