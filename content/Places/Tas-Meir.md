@@ -18,3 +18,4 @@ tags:
 > > | Location | east [[Karrokh]] |
 
 An independent gnoll city-state of [[Karrokh]].
+
