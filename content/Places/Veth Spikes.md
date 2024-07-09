@@ -16,7 +16,7 @@ tags:
 
 ## Formation
 
-These spikes formed when a crystalline formation from [[Veth]] fell upon [[Naerk]]. These crystals are located in the southeast of the [[Allwick]] Desert, while many believe that this was one of the reasons for the desertification of the area. Upon impact, the radiation's effect on Naerk was amplified. Gradually very powerful magicians and supernatural beings and magical effects appeared, some of which rivaled the power of gods.
+These spikes formed when a crystalline formation from [[Veth]] fell upon [[Naerk]]. These crystals are located in the southeast of the [[Allwick]] Desert, while many believe that this was one of the reasons for the desertification of the area. Upon impact, the radiation's effect on Naerk was amplified. Gradually very powerful magicians and supernatural beings and magical effects appeared, some of which rivaled the power of gods. Since then, this place is full of [[Veth Crystals]], powerful formations that can magnify magic effects.
 
 ## History
 

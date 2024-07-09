@@ -1,10 +1,9 @@
 ---
-title: Tas-Roch
-subtitle: The Howling City
-date: 2024-04-16
+title: Werewolf Siege
+date: 2024-07-09
 author: sfakias
 tags:
-  - countries/Karrokh
+  - countries/Korhond
 
 ---
 > [!attributes]
@@ -13,18 +12,10 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Population | 34360, 65% Humans, 27% Skinwalkers, 3% Gnoll, 3% Elves, 1% Kobolds, 1% Other |
-> > | Government | Oligarchy (Lords) |
-> > | Religions | [[Karadosh]], [[Tarov]], [[Lastra]], [[Lainek]], [[Huntsman]], [[Gibba]] |
-> > | Location | east [[Karrokh]] |
+> > | Place | [[Tas-Roch]], [[Karrokh]] |
+> > | Time | 4765 |
 
-## The Howling City
-
-An independent city-state of eastern [[Karrokh]], at the west bank of [[Umtahr]]. It is split in half, between werewolves on the outer walls and humans on the inner walls. It is so isolated that many tend to see it as an autonomous region. At the same time, most of the trade at this point is from the sea to the north, so few foreigners come to this city. But what is so particular about this place is its inhabitants.
-
-## History
-
-The city was built in the year 3425 by a tribe of nomads who found that with the fish in the lake and the salt mines they could settle there permanently. The city was built on four levels, one higher than the other, on a steep cliff, and quickly grew, with thick walls protecting it from attacking gnolls and werewolves. Later, these attacks in the year 4765 became more and more frequent, resulting in a [[Werewolf Siege]] with the beasts gradually finding places in the wall rough enough to climb. The city's defense was getting harder and harder with many casualties, and food was running out.
+[[Tas-Roch]] was built on four levels, one higher than the other, on a steep cliff, and quickly grew, with thick walls protecting it from attacking gnolls and werewolves. These attacks in the year 4765 became more and more frequent, resulting in a [[Werewolf Siege]] with the beasts gradually finding places in the wall rough enough to climb. The city's defense was getting harder and harder with many casualties, and food was running out.
 
 Then a witch appeared, [[Angariel]]. Almost none of the residents knew about her, but she had somehow gotten inside the walls and convinced lord [[Slagis]] that she had the perfect plan to stop the attack. Werewolves had no control over their transformation: Most of them had acquired the disease from a bite, and after the first full moon they remained permanently in hybrid form, slaves to their most bestial instincts. Angariel offered them to stop the attack in exchange for giving them a potion with which they could gain control over their transformation.
 
@@ -45,5 +36,3 @@ Chaos ensued. The gnolls and [[Warclaw]] took the opportunity to say they had to
 Gradually, by dawn, the attacks stopped as everyone realized [[Angariel]] was to blame. In reality, she had melted Veth crystals into her potion, causing different and unpredictable symptoms to appear in each patient. She herself thought it was a good experiment, and produced statistics with symptom rates, completely oblivious to the devastation she left behind. She headed north, Taurlin in tow. And the truth is that the werewolf kept his promise, and decided to hunt her with a group of twenty people until the end.
 
 A truce again prevailed in the city, which gradually became constant. Werewolves and gnolls took the lower level permanently, while the gates opened. The lord decreed that there was no reason for any hostilities within seven miles of the city, to avoid further bloodshed, and the [[Warclaw]] limited their attacks outside the city, using a part of the lower level of [[Tas-Roch]] as their protected lair. As for the victims of the disease, some were gradually cured, some committed suicide, some emigrated, and several continued to react unpredictably and violently every full moon, causing residents to lock themselves in their homes and hide in fear during those nights.
-
-As for [[Taurlin]], he was able to find the witch near the Blackwoods two years later. After a long hunt in the woods, he was the only survivor of her traps when he found her scent. He chased her down, pounced on her and butchered her with bites and claws until she was a bloody pile of meat. He cut off her head and sent it to [[Tas-Roch]], where it was magically preserved to adorn the walls, by popular demand.
