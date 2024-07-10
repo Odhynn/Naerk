@@ -4,7 +4,7 @@ date: 2024-07-10
 author: sfakias
 tags:
   - factions/Edhellin
-  -countries/Naryal
+  - countries/Naryal
 
 ---
 > [!attributes]
