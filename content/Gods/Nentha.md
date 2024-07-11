@@ -42,8 +42,15 @@ Father of [[Orhodrai]] and [[Erizkiero]]
 Mentor of adventurers
 Founder of [[Dragonpact]] and the dragon knights
 
+## Origin
+
 Nentha's exploits and battles are too numerous to write here and are lost to the millennia.
 
 His very existence on [[Sunshine]] could discourage any pirate, invader and conqueror from even approaching the island's waters. Nentha was recognized by the inhabitants themselves as the natural master of the place, and so intense was his aura of protection he inspired that no one felt oppressed by his presence. He made laws in the region, which were particularly fair to the great majority of the inhabitants, and even crimes were soon considerably reduced, as people slowly developed solidarity and healthy competition.
+
+## Vaelasil
+
+[[Nentha]] helped and mentored the great elf-mage [[Sylris]] during the decline of the [[Edhellin]] civilization. He helped him device a spell to stop time and steal the orb of darkness, [[Vaelasil]], from the elven [[King Erlamin]], in an attempt to stop [[Voolthow]]'s influence on the elves. He helped the wizard to avoid the orb's corruption.
+
 
 Nentha, despite his inexhaustible power, is slowly but steadily getting too old. He was able to prolong his life for a long time, with the help of magic, until he could find a suitable successor to his marvelous work. His only surviving son, [[Erizkiero]], is arrogant, without any particular reason to deserve more respect than his father. He is eager to take power, but is blinded by arrogance and ego. Nentha tries in every way to find someone else to take the place of the king of [[Sunshine]], as he believes that if the island falls into the hands of his son, all his efforts will be wasted.
