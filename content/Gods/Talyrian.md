@@ -40,3 +40,5 @@ tags:
 The Queen of the winged messengers, she is especially beloved among the elves. Talyrian first appeared in [[Ghost War]], and has since traveled between the Evergrowing Forest, [[Zaramel]], and the [[Material Plane]]. She has at her service a large number of fairies, birds, animals and insects that serve her. You will rarely find her standing still: she is constantly traveling through snowy mountains, flowery plains or singing in the steppes. She is worshiped by various creatures from the [[Evergrowing Forest]], and has a large dividend on the cape of [[Kelonarie]], where she had built the capital of [[Verhalith]] and sat for the longest time, almost two centuries. Centaurs and satyrs often sing in her name, and she has devotees even among sphinxes and harpies.
 
 Its doctrine includes that all messages and their messengers must be respected, while travelers must be able to accommodate and care for each other.
+
+She is believed to be the grandmother of the elven hero [[Alazir]] Silverflame.
