@@ -29,4 +29,4 @@ Father of [[Folegg Bugrilson]]
 Bad health, cough
 
 > [!quote] 
-> More proud of my doctor than my son
+> "More proud of my doctor than my son"
