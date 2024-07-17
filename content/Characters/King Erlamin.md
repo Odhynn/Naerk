@@ -34,3 +34,5 @@ Sylris coldly replied, _"You are out of your mind! This orb you hold in your han
 Erlamin's mocking reply was, _"Really, you think you're going to influence my government with baseless accusations? Is this all happening because you want it to? The orb to come into your possession?"_
 
 Erlamin recognizing how dangerous a rival Sylris could make for his power, revoked him as a traitor to the Edhellin, an ally of humans and dragons (as he maintained excellent relations with dragons as well as human kings). Thus Sylris became the first exile of the [[Edhellin]].
+
+At the [[Day of Wild Magic]], after a fierce magic battle against [[Sylris]] and [[Nentha]], he was imprisoned eternally to [[Eruvim]].
