@@ -64,6 +64,16 @@ After taking care of the safety of souls and the planar routes, he ordered the l
 
 Sergonial's army met the demon hordes at Tartara and started one of the biggest wars ever fought. Demons and Kenemi clashed for untold centuries upon the sundered fields. Yerastu decided eventually that this war led to no end and called Sergonial to retreat and return back. His messenger was slain and Sergonial defied his will, taking his armies with him and forming [[Hell]] and [[devils]].
 
+## [[Day of Wild Magic]]
+
+Yerastu appeared at the end of the events that happened in the [[Day of Wild Magic]] as it has befallen to his attention of the extreme magic abuse that took place. However, he acted only after [[Voolthow]] decided to appear on the [[Material Plane]]. He appeared in front of him as an anthropomorphic creature in white and blue robes, twenty foot tall, with a pair of massive wings emerging from its back, created from raw energy. Wonder was painted in Sylris's eyes as, to him, the most absurd thing about Yerastu's invasion was not his descent into the material plane, nor the massive beams of light that surrounded him, but the lack of a face beneath his imposing hood. Accompanying his terrifying presence was a massive execution sword that seemed made not for the needs of a battle but for the dismemberment of souls crossing the Ethereal Plane.
+
+All the momentum Voolthow had gained was suddenly lost. Yerastu took the floor and addressed the Shadow god in a stern tone. _"Who gave you the right to intervene? You have seconds until you finish your dialogue with these mortals and return to your plane."_
+Voolthow made a sudden move absorbing a large amount of Vaelasil's magical energy and threw the orb to Sylris' side: _“This orb will remain in the possession of mortals as its power flourishes, corrupting its master's soul. The orb belongs to you. Manage it as you will"_ as he fled for the [[Shadow Plane|Shadow Realm]] with a loud chuckle.
+Yerastu informed the dragon and Sylris that he would close the rift himself and that in their next meeting he would not be so kind, in a serious yet stern tone. Before heading off to seal the rift he replied to himself with critical speech: _"Malahir was wrong, elves were not to be given immortality and your actions showed it. Your period of grace is over!"_
+
+In less than a moment the rift had been sealed and Yerastu had disappeared from their sight. Sylris could see the appearance of a new translucent veil beneath the existing one. The day of Wild Magic had ended.
+
 ## [[Astral Alignment]]
 
 Yerastu was forced to intervene when [[Maeronian]] harnessed mass amounts of arcane power to his followers during a unique [[Astral Alignment]]. He imprisoned him to maintain the safety of time and space but after realising this wouldn't solve the problem he decided to make a proposal to the Vethian captive. If he chose to share his magical powers with [[Sumril]], he would free him and allow him to join the pantheon, oblivious to being a Vethian and his past transgressions. But he made it an additional condition that the use of this kind of magic would be severely curtailed, and that together with Sumril they would have to curtail abusers, starting with Xe'Farom.
