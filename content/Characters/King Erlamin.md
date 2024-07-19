@@ -1,5 +1,6 @@
 ---
 title: Elf King Erlamin
+subtitle: Forn Delvis, the gift of light
 subtitle: First King of the Edhellin
 date: 2024-07-10
 author: sfakias
@@ -35,4 +36,4 @@ Erlamin's mocking reply was, _"Really, you think you're going to influence my go
 
 Erlamin recognizing how dangerous a rival Sylris could make for his power, revoked him as a traitor to the Edhellin, an ally of humans and dragons (as he maintained excellent relations with dragons as well as human kings). Thus Sylris became the first exile of the [[Edhellin]].
 
-At the [[Day of Wild Magic]], after a fierce magic battle against [[Sylris]] and [[Nentha]], he was imprisoned eternally to [[Eruvim]].
+At the [[Day of Wild Magic]], after a fierce magic battle against [[Sylris]] and [[Nentha]], he was imprisoned eternally to [[Eruvim]]. In order to preserve a civilization, in addition to traitors, heroes are also needed. This hero had to be the greatest enemy of the traitor, with the result that Erlamin went down in history with the name Forn Delvis, which meant "the gift of light".

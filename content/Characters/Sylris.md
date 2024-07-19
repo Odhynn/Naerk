@@ -1,5 +1,6 @@
 ---
 title: Archmage Sylris
+subtitle: Fehn' Harill, "the god of trickery and deceit"
 subtitle: male elven wizard
 date: 2024-07-10
 author: sfakias
@@ -58,3 +59,9 @@ Humans though were looking for the slightest reason to start a war. This was mad
 [[Edhelwood]] proved to be a dangerous battleground for invaders. The elves knew the forest very well, which they had filled with traps. It was also a good place for ambushes, since the elves' flexible bodies and developed vision gave them a distinct advantage in battle. By -1325 the elves were defending exemplary, but their supplies were running low. In -1323 the tide had turned to the human side, but within that two years the elven wizards had built a fortress in [[Ilidran]], then-capital of Naryal. In the seven-year period, there was great dissension in the ranks of the Edhellin. The main reason for this quarrel was Sylris. Almost all elves now considered him a traitor. The more difficult the situation became for the elves, the more Sylris' reputation declined, until there were public calls for his beheading as redemption for the suffering he had brought upon them. In -1320 the war ended in a humiliating defeat for the elves. Most of Naryal had been destroyed after a bloody war. The orcs and humans enslaved all the elves they captured in battle. Several of them escaped to the north, others built boats and crossed the [[Roaring Strait]] and the [[Misty Sea]]. Additionally some had begun digging underground burrows to escape underground by -1323.
 
 Sylris, foreseeing the impending defeat, and receiving an outcry from the greater part of the elvehnan, left Naryal with about a hundred followers bound for [[Sunshine]]. This happened in -1322. Since then, his tracks are lost.
+
+## Tyranny
+
+After the conclusion of the first great war in the history of mankind, the victors took up ink and began to write history. According to them, the elves started the war against the humans, but their bravery allowed them to be crowned victorious in it. All laws of slavery and liberties ended and the ruling policy was a monarchy. The humans wanted to erase from the historical continuum even the last remnants of elven civilization. Thus even the slightest mention of the ancient elven culture was forbidden. Their sole goal was to subdue the elves and never give them the trigger to rebel against the humans. Over the next two centuries, the elves tried to resist the yoke of humans, but all their attempts were drowned in blood.
+
+The elves on the other side -like any defeated people- wanted to vent their evil somewhere, with the easiest target being none other than Sylris. Word of mouth took the form of stories, stories turned into myths and myths in turn gave birth to legends. The most famous of these claims that Sylris agreed with the gods to destroy elven civilization. The name Sylris was hidden in the time warp of history and all that remained was the name Fehn' Harill which in the elvish language meant "the god of trickery and deceit". In order to preserve a civilization, in addition to traitors, heroes are also needed. This hero had to be the greatest enemy of the traitor, with the result that Erlamin went down in history with the name Forn Delvis, which meant "the gift of light".
