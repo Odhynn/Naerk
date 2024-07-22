@@ -1,7 +1,6 @@
 ---
 title: Archmage Sylris
-subtitle: Fehn' Harill, "the god of trickery and deceit"
-subtitle: male elven wizard
+subtitle: Fehn' Harill, the god of trickery and deceit
 date: 2024-07-10
 author: sfakias
 tags:
