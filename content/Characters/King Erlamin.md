@@ -1,7 +1,6 @@
 ---
 title: Elf King Erlamin
-subtitle: Forn Delvis, the gift of light
-subtitle: First King of the Edhellin
+subtitle: Forn Delvis, the gift of light, First King of the Edhellin
 date: 2024-07-10
 author: sfakias
 tags:
