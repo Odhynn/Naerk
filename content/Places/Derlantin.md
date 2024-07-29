@@ -1,6 +1,6 @@
 ---
 title: Derlantin
-date: 2024-07-27
+date: 2024-07-29
 author: sfakias
 tags:
   - countries/Oromil
@@ -12,7 +12,9 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Population | 68300, 35% Humans, 19% Drow, 16% Tieflings, 7% Demons, 6% Half-Drow, 3% Vampires, 3% Undead, 4% Elves, 3% Gnomes, 1% Dwarves,1% Halflings, 1% Half-Orcs, 1% Other |
-> > | Government | Oligarchy (Archmagi) |
-> > | Religions | [[Otynhash]], [[Maeronian]], [[Disiklek]], [[Xeurim]] |
-> > | Location | Northwest [[Olgizmar]] |
+> > | Population | 64263, 95% Humans, 2% Half-Orcs, 1% Elves, 1% Centaurs, 1% Other |
+> > | Government | Oligarchy (Lords) |
+> > | Religions | [[Factar]], [[Huntsman]], [[Valanshore]] |
+> > | Location | Northwest [[Oromil]] |
+
+A city that was once the capital of [[Oromil]], by leadership of the ambitious king [[Tessok]].
