@@ -5,6 +5,7 @@ date: 2024-04-16
 author: sfakias
 tags:
   - countries/Karrokh
+  - factions/Warclaw
 
 ---
 > [!attributes]
@@ -32,7 +33,7 @@ Reactions to the witch's proposal were mixed. Some stopped the attack to think a
 
 With a heavy heart, Slagis accepted the witch's offer and ushered the werewolves inside. He was heavily criticized by everyone, but deep down he knew he had no other choice. And just like that, he evacuated the inhabitants of the first level, collected what was valuable there, the gates opened and the werewolves, hesitant at first and then determined, entered the city, accompanied by their gnoll allies. And so, for a time there was a temporary truce while Angariel made the potion. Riots were a frequent occurrence and both sides began to lose patience. Armed riots were breaking out from the inhabitants, mostly those who had moved, who were trying to convince the lord to expel the werewolves once and for all with the army. At the same time, the werewolves on various occasions attacked weak points in the wall, and claimed that they had not signed any truce.
 
-As [[Angariel]] prepared the potion, one of elven descent, also known as [[Taurlin]], appeared among the werewolves. He was among the strongest, and many respected his authority. And he said to the witch:
+As [[Angariel]] prepared the potion, one of elven descent, also known as [[Taurlin]], appeared among the werewolves. He had infiltrated secretly the ranks of the warclaw and gained power, but secretly he was a [[Silvertail]] actively trying to help his kin. He was among the strongest, and many respected his authority. And he said to the witch:
 
 _"If that cures us, you have my word that I will call a truce. We will hold the first level and stop having visions for further areas in the city." He looked at the others around him, as if they were waiting for him to say something. "But if" and his eyes became the narrow slits of a predator "you fool us and this here doesn't work, then you have my word that there is no place you will feel safe in your life, no matter how much magic you do. You will be permanently hunted."_
 
