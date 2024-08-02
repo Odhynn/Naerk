@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | north [[Oventhart]] |
 
-A frozen wasteland full of wild dragonkin.
+A frozen wasteland full of wild dragonkin. The northern part is covered in ice most of the time.
