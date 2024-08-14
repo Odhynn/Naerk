@@ -44,3 +44,7 @@ tags:
 - Clan Ursenhaftur
 - Clan Emberbeard
 - Clan Borstellr
+
+## History
+
+The Bjaglanders never trusted or tried to understand the [[Sennarin|Sennari]] Clans. They waged constant war against them with numerous invasions, starting from year 4796 and carrying on every spring. The third invasion, at year 4798, was the biggest.
