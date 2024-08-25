@@ -17,7 +17,7 @@ tags:
 > > | --- | --- |
 > > | born | 4717, [[Whistor]] |
 > > | crowned | 4752, Whistor |
-> > | died | 4767, Whistor |
+> > | died | 4773, Whistor |
 > > | nationality | Whistorian |
 > > | appearance | Gold Hair, Blue Eyes, Tan Skin |
 
@@ -39,7 +39,7 @@ Perhaps that was the reason why the Oracle spoke to him with such directness. Pr
 
 When Raldon returned to the island, he significantly reduced his public appearances. Unlike others who had received fateful prophecies, Raldon accepted it fully. He knew what was the fate of those who tried to avoid their fate: But he himself chose another path. He strengthened his navy and his army, but remained silent.
 
-By this time, the [[Pirate Council]] had begun to look westward. The first attacks were on the commercial road to [[St. Qurin]]: And soon, one in four ships was facing attacks and looting. Raldon did not sit idly by. His fleet consisted of many hundreds of ships and experienced warriors. In the first three naval battles, he chased the pirates to the [[Ngamui Isles]], his victories being overwhelming. For every galley lost, the pirates lost twenty-seven times as many schooners and ships.
+By this time, the [[Pirate Council]] had begun to look westward. The first attacks were on the commercial road to [[St. Qurin]]: And soon, one in four ships was facing attacks and looting. Raldon did not sit idly by. His fleet consisted of many hundreds of ships and experienced warriors. In the first three naval battles the [[Whistor Pirate Hunt]]chased the pirates to the [[Ngamui Isles]], his victories being overwhelming. For every galley lost, the pirates lost twenty-seven times as many schooners and ships.
 
 The pirates quickly fled in the face of constant danger of overwhelming defeat, while [[Whistor]]'s galleys soon accompanied all major trade routes. Raldon took an active part in all the naval battles with his flagship and his two sons, but no part of the prophecy seemed to be fulfilled. Raldon soon found that the pirates avoided engaging him in head-to-head combat, as his fleet was superior. But he feared that they might ambush him in some narrow passage, and he believed in his paranoia that sooner or later they would find a way to avenge him.
 
@@ -49,4 +49,4 @@ And the only way to ensure this was through his own betrayal of his people. He t
 
 Rumors soon spread throughout the army: That [[Raldon]] had made an underground alliance with the pirates, and that he had betrayed his kingdom for a woman. But the attacks of the pirates stopped: Although the people began to believe that in addition to his sons, the pirates also demanded a huge amount of money from him: An amount that, many believed, he agreed to give at regular intervals as a tribute.
 
-Things got even worse when, a few days after his return to his palace, his wife, who was particularly beloved by the people, was found poisoned. No one was sure how it happened, but all suspicion went to Della's face. Many began to spread the word that she had seduced the king and made him fall asleep. The king's generals called the people for a coup: they entered the palace after the funeral and threw Raldon and Della into the dungeons. Whistor's commander-in-chief, named Kuthnor, assumed the kingship temporarily.
+Things got even worse when, a few days after his return to his palace, his wife, who was particularly beloved by the people, was found poisoned. No one was sure how it happened, but all suspicion went to Della's face. Many began to spread the word that she had seduced the king and made him fall asleep. The king's generals called the people for a coup: they entered the palace after the funeral and threw Raldon and Della into the dungeons. Whistor's commander-in-chief, named [[Kuthnor]], assumed the kingship temporarily.
