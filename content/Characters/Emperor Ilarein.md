@@ -20,4 +20,7 @@ tags:
 > > | nationality | Imtarian |
 > > | appearance | Golden hair and goatee, light blue eyes |
 
+Son of [[Emperor Nilengar V]]
+Brother of [[Emperor Olerio V]]
+
 The [[Imtaria|Imtarian]] emperor mostly known for waging war against [[Kambah]] shortly after its formation to stop its influence. He grasped the opportunity to increase his empire's influence to the north, beyond [[Angry Sea]].
