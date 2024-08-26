@@ -49,4 +49,14 @@ And the only way to ensure this was through his own betrayal of his people. He t
 
 Rumors soon spread throughout the army: That [[Raldon]] had made an underground alliance with the pirates, and that he had betrayed his kingdom for a woman. But the attacks of the pirates stopped: Although the people began to believe that in addition to his sons, the pirates also demanded a huge amount of money from him: An amount that, many believed, he agreed to give at regular intervals as a tribute.
 
+## Coup
+
 Things got even worse when, a few days after his return to his palace, his wife, who was particularly beloved by the people, was found poisoned. No one was sure how it happened, but all suspicion went to Della's face. Many began to spread the word that she had seduced the king and made him fall asleep. The king's generals called the people for a coup: they entered the palace after the funeral and threw Raldon and Della into the dungeons. Whistor's commander-in-chief, named [[Kuthnor]], assumed the kingship temporarily.
+
+A month later, a pirate ship appeared in port, demanding to see if Della was in good health, as well as demand the agreed upon tribute. Kuthnor not only refused to pay, saying that he had no knowledge of any tribute, but further threatened that if the pirates made any attack, he would not care for the lives of the king's sons at all, and would attack the pirates with all his might.
+
+From his cell, Raldon watched the developing storm helplessly. Suddenly, one night, pirates attacked the palace prisons unannounced. They followed a secret route into the sewers, and freed Della from her cell, killing all the guards along the way. They entered Raldon's cell and left him with a dilemma: Take them to the royal vault or kill his sons. As much as Raldon knew his sons' fate, he refused to be the cause of their deaths: He led the pirates to the vault and told them his personal code: And they took as much as they could carry in their ships, while they kidnapped him and him. They put containers of flammable liquids in the basements and disappeared. Soon, the palace was engulfed in flames.
+
+Raldon met his sons in good condition at the [[Ngamui Isles]], but that was little consolation. The pirates were now preparing for war, and no doubt Kuthnor would be as well. A week later, the bail bondsmen were now useless. The clash was inevitable. The pirates killed the king's son and landed with him on an island. The last human voice he heard was Della's, "Thanks for your cooperation, King."
+
+His body was found two years later by a tribe of cannibals who came to the island by canoe. But it was at an advanced level of rot, so even they left it alone.
