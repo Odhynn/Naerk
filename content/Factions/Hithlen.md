@@ -8,4 +8,4 @@ tags:
  
 ---
 
-The Hithlen people, humans in their majority, were primarily farmers in the eastern [[River Ilmen]] that multiplied in recent centuries and spread out, forming the nation of [[Hithlwin]].
+The Hithlen people, humans in their majority, were primarily farmers in the eastern [[River Ilmen]] that multiplied in recent centuries and spread out, forming the nation of [[Hithlwin]]. Their nation is five centuries old. THeir best warriors form the [[Swords of Balaruna]] as elite bodyguards. 
