@@ -1,5 +1,5 @@
 ---
-title: Ngamui
+title: Ngamui Isles
 date: 2024-03-14
 author: sfakias
 tags:
@@ -12,6 +12,6 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Location | South of [[Paraselt]], northest of [[Zelgerosh]] |
+> > | Location | South [[Paraselt]], northest of [[Zelgerosh]] |
 
 Volcanic island chain south of [[Paraselt]]. It contains 12 big islands and at least 20 smaller ones.
