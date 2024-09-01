@@ -1,6 +1,6 @@
 ---
 title: Alazir Silverflame
-subtitle: male elf leadewr
+subtitle: male elf leader
 date: 2024-07-11
 author: sfakias
 tags:

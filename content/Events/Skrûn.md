@@ -21,7 +21,7 @@ tags:
 
 ## The Beginning
 
-The Council of the [[Five Sages of the North]] was named by the northern people as Cust Heirdosh or Skrûn. The meeting lasted 30 days in what most cultures call a month, and the topics of discussion were numerous and crucial. The purpose of this meeting was to record history, or even to define it, one might say. A sixth person, a historian from the South, participated, though his name was not recorded.
+The Council of the five [[Sages of the North]] was named by the northern people as Cust Heirdosh or Skrûn. The meeting lasted 30 days in what most cultures call a month, and the topics of discussion were numerous and crucial. The purpose of this meeting was to record history, or even to define it, one might say. A sixth person, a historian from the South, participated, though his name was not recorded.
 
 ## The First Meeting (4221)
 

@@ -19,4 +19,4 @@ tags:
 > > | nationality | [[Whistor]] |
 > > | appearance | black eyes, grey hair |
 
-The nephew of Baron [[Stephan]] and heir to the seat of [[Marjalat]].
+The nephew of Baron [[Stephan]] and heir to the seat of [[Marjalat]]. He is the son of his firstborn brother, a lost sailor.
