@@ -39,3 +39,5 @@ tags:
 _The [[jalerk-e-ateleiote-thalassa]] of Jalerk, in many villages, is said to exist only to discourage children and inexperienced sailors from crossing the most remote and deep waters. In reality, however, its not a tale._
 
 Jalerk is the fear of the unknown, the absolute emptiness, isolation and strangeness, the primeval and forgotten majesty of nature.
+
+According to [[Black Seagull|a pirate]], Jalerk was responsible for a [[Tidal Wave]] that crashed over the shores of [[Kelonarie]] and [[Hithlwin]] at 4712.

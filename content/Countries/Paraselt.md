@@ -38,3 +38,7 @@ The Paraselt range already had a very bad reputation before the remnants of the 
 What few people know is that Paraselt has many secrets. It may be one of the most inhospitable and stifling regions to most, but below, in underground [[Deeps]] the mountain tribes of goblins and dwarves, as well as the [[Defeated Army]], are constantly forging stone and metal and crafting unique architectural designs for buildings, defenses, traps and weapons, since there is seldom peace between them. Many of the mountain paths, which the dwarves had carved into the granite in ancient times still exist, although some have been ruined by to volcanoes, landslides, or the destructive fury of the few Giants who dwell there.
 
 Many say, and they are right, that the above dangers are nothing compared to those covered by the eastern side of the mountain range. Stories tell of undead creatures, made of lava and magma, and impregnable fortresses with flying warriors, sowing terror and death to anyone who approaches. Trade and travellers here are rare as well as dangerous in every way. On this side, in fact, there are several underground passages, which connect [[Naerk]] with other, lower dimensions used by unholy creatures, who come with destructive appetite. Only [[Hastaphar]] army and [[Keila]]'s elves hold this evil at bay but the constant fighting excerts a heavy toll on [[Tithlon]].
+
+## [[Magma Star]]
+
+Paraselt is ruled primarily by [[Magma Star]], a council in which the major goblin and giant factions are represented.

@@ -20,4 +20,4 @@ tags:
 > > | residence | [[Paraselt]] |
 
 *Burning Rage*
-An ancient wyrm that defied [[Dragonpact]]. He allied himself with [[Bloodscale]] troops.
+An ancient wyrm that ruled [[Kegrozal]] and defied [[Dragonpact]]. He allied himself with [[Bloodscale]] troops. Father of [[Emberspark]].
