@@ -17,7 +17,7 @@ tags:
 > > | Religions | [[Laerion]], [[Sigard]], [[Factar]], [[Nahema]] |
 > > | Location | central [[Green Hills]] |
 
-The great capital of Green Hills. It is surrounded by numerous fertile plains and hills and has three immense towers constructed in a triangle: one for [[Laerion]], his knights and [[Luminous Sword]], one for [[Factar]], his clergy and [[Luminous Order]] and one for the king.
+The great capital of Green Hills. It is surrounded by numerous fertile plains and hills and has three immense towers constructed in a triangle: one for [[Laerion]], his knights and [[Luminous Sword]], one for [[Factar]], his clergy and [[Luminous Order]] and one for the king. They reach six hundred feet in height, and are seen from a great distance on the [[Green Hills]]. They communicate with each other with three bridges. The city contains a huge library filled with ancient archives of ages past that is tended by numerous scolars.
 
 ## History
 

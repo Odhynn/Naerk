@@ -16,3 +16,5 @@ tags:
 > > | Government | Oligarchy (Archmages) |
 > > | Religions | [[Maeronian]], [[Neverborn]], [[Sumril]], [[Yushan]], [[Hansa]], [[Xeurim]] |
 > > | Location | west [[Imtaria]] |
+
+It is said that the peak of [[Azarak]] academy is visible from this city on a clear day.

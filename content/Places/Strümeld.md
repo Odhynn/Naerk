@@ -18,7 +18,7 @@ tags:
 > > | Religions | [[Klont]], [[Vard]], [[Tarov]], [[Cromlek]], [[Anhalt]] |
 > > | Location | south [[Northern Darrok]], north [[Tarhelm]] |
 
-A huge fortress with towering steel walls deep in the heart of [[Tarhelm]]. It was made by [[Rhekvethor]] with the [[Rod of Stone and Steel]]. It contains a massive garrison and forge, filled with many kinds of weapons and able to withstand any siege. In the foundations lies a puzzling labyrinth that is said to connect to the [[Deeps]] and is guarded by huge mithral constructs.
+A huge fortress with towering steel walls deep in the heart of [[Tarhelm]]. It was made by [[Rhekvethor]] with the [[Rod of Stone and Steel]]. It contains a massive garrison and forge, filled with many kinds of weapons and able to withstand any siege. It has three courses of iron reinforced walls reaching three hundred feet in height and is considered impregnable. In the foundations lies a puzzling labyrinth that is said to connect to the [[Deeps]] and is guarded by huge mithral constructs.
 
 ## History
 

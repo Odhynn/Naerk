@@ -16,3 +16,5 @@ tags:
 > > | Government | Oligarchy (Priests) |
 > > | Religions | [[Saekla]], [[Hydarax]], [[Gibba]], [[B'tolen]], [[Malahir]] |
 > > | Location | west [[South Darrok]] |
+
+This city on the shore of [[Serpent's Tail]] is connected with a huge and ancient bridge with [[Flair]] on the opposite side.

@@ -29,6 +29,6 @@ They crossed [[Allwick]] desert, passed [[Paraselt]] mountains and attacked [[Gr
 
 ## Aftermath
 
-Those that survived the battle, followed [[Arzilok the Tormentor]] and [[Hoberkorra]] to a retreat to [[Paraselt]] were they hid and sought refuge from the [[Palaurim]] armies, where they didn't dare to delve. Afterwards, their spread but still considerable big forces rallied under these two leaders and carried on skirmish attacks against Green Hills from time to time. The exact number of their forces and the native creatures that joined the army from Paraselt are unknown. One thing is certain: a storm is brewing in these mountains.
+Those that survived the battle, followed [[Arzilok the Tormentor]] and [[Hoberkorra]] to a retreat to [[Paraselt]] were they hid and sought refuge from the [[Palaurim]] armies, where they didn't dare to delve. Afterwards, their spread but still considerable big forces rallied under these two leaders, merged with the local Lavahead tribe goblins and carried on skirmish attacks against Green Hills from time to time. The exact number of their forces and the native creatures that joined the army from Paraselt are unknown. One thing is certain: a storm is brewing in these mountains.
 
 The [[Palaurim]] forces quickly started naming this force the Defeated Army, to undermine and underrate their power, and the label spread out to all [[Palaurim]] regions. The orcs and goblins adopted this name, as a motivation to rally again and avenge their fallen.

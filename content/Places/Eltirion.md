@@ -15,6 +15,12 @@ tags:
 > > | Built | -2000 to -1600 |
 > > | Location | mountains in the center of [[Athalahr]] |
 
+## Description
+
+The seat of [[Angaerath]], the Prophetess Under the Mountain, the tower houses some of the latest achievements and tools of a forgotten era, while also being directly connected to the moon [[Qusm]], as a gateway to interplanetary travel. It is now permanently surrounded by the dreadful [[Harrowmist]].
+
+## History
+
 It is so far unknown exactly when Eltirion ("star tower") was built in the highest mountains in the center of the continent, but a fair guess would place it at -2000 to -1600. The complex built there by the elves connected projectively to the Cosmodrome in such a way that it functioned as a gateway to other worlds.
 
 As the millennia passed, in the shadow of Eltirion the civilization of Selanaar developed, consisting of a multi-racial multi-class system (elf, dwarf, human, gnome races / noble, mage, warrior, merchant, artisan, sailor, farmer, herder castes).

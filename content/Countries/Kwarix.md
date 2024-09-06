@@ -26,3 +26,7 @@ tags:
 ## Diplomatic relations
 - minimal trade with [[Alagon]], [[Bjåglant]] and [[Sennarin]]
 - joint scholarly projects with [[Sennarin]]
+
+## Brass Eyrie, Eversmoking Heart of Kwarix
+
+In the far west, the gnomes of Kwarix have advanced in unique mechanical feats. Using steam, gears and ingenuity, they have built mechanical geniuses in their capital city.

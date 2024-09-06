@@ -33,4 +33,4 @@ Winter found the finfolk hungry and exhausted. But they had reached the northern
 
 From that time, in the year 3339, the finfolk were able to recover rapidly. They built vast castles and palaces above and below the sea, centered on [[Helezaar]]. The next step was to make a temporary truce with the lizardmen, with their relations gradually improving. After three years of coexistence, the last step was to declare Urdankh as an independent country, with the main population portions being finfolk, lizardfolk, and various hill-dwellers. The establishment of [[Imtaria]], a little later, revealed to the developing country a potential ally. Trade between the two countries flourished, with Urdankh importing alchemical wares, weapons, and timber, and exporting ships, skilled sailors, fisheries, as well as its famed coral wood. The Urdankh then became a key part of the navy of the entire Palaurim.
 
-Urdankh currently has 3 councelors in [[Palaurim]].
+Urdankh currently has 3 councelors in [[Palaurim]] and is ruled by [[Queen Ilaera]] Nalaryan.

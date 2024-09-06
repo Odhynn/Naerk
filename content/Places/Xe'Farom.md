@@ -19,7 +19,7 @@ tags:
 
 ## Description
 
-A unique city in [[Veth Spikes]] that draws power from the crystals of [[Veth]] to create unique magical effects. It is an arcane metropolis full of wizards, Vethfolk, academies and magic practicioners. Almost all movement between the flying buildings was done by flying griffons and drawbridges. There was endless food and drink, teleporting gates, swarms of magical creatures, age-old wizards, and many other magical effects of similar scope.
+A unique city in [[Veth Spikes]] that draws power from the crystals of [[Veth]] to create unique magical effects. It is an arcane metropolis full of wizards, Vethfolk, academies and magic practicioners. There are numerous floating buildings, some even a thousand feet upwards. Almost all movement between the flying buildings was done by magic, flying griffons and drawbridges. There was endless food and drink, teleporting gates, swarms of magical creatures, age-old wizards, and many other magical effects of similar scope.
 
 ## History
 

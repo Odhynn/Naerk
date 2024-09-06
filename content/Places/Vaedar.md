@@ -16,3 +16,5 @@ tags:
 > > | Government | Monarchy ([[Emperor Nalangis II]]) |
 > > | Religions | [[Sigard]], [[Factar]], [[Laerion]], [[Sumril]], [[Hydarax]], [[Hansa]] |
 > > | Location | central [[Imtaria]] |
+
+The seat of the emperor of [[Imtaria]] and previously [[Kultaria]] and a city of unique marvel. The castle walls have been tested in both [[Winter's War]] and [[Brothers War]], with negligible damage. It encompasses one tenth of the city and is directly feeded water for the moats and the city by the [[Arcanal]] aqueduct.

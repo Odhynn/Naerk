@@ -16,3 +16,5 @@ tags:
 > > | Government | Monarchy (Priest) |
 > > | Religions | [[Hydarax]], [[Jalerk]], [[Malahir]] |
 > > | Location | [[Urdankh]] |
+
+The great Finfolk capital and Urdankh's Coral Palace, the largest part of which is underwater. It is decorated with an abundance of precious stones in the colors of the sea. Here is the seat of [[Queen Ilaera]] Nalaryan.
