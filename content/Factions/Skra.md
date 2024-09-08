@@ -18,3 +18,5 @@ tags:
 > > | Region | [[Hlafentar]] Hills, Northwest [[Fervolosh]] |
 > > | Capital | [[Skrudok]] |
 > > | Leader | [[Galdosh Uldrek]] |
+
+The Lampsir tribe has sent [[Meegar]] to the events known as [[Murder Hawk and Linnorm Hunter Saga]].

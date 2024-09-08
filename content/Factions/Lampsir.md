@@ -17,4 +17,6 @@ tags:
 > > | Symbol | Symmetrical bows with an arrow |
 > > | Region | West [[Fervolosh]] |
 > > | Capital | [[Lampsir]] |
-> > | Leader | [[Bolka Falgyrd\|Jarl Falgyrd Bolrag]] |
+> > | Leader | [[Falgyrd\|Bolka Falgyrd Bolrag]] |
+
+The Lampsir tribe, famous for its archers, has sent Bolka [[Falgyrd]] to the events known as [[Murder Hawk and Linnorm Hunter Saga]].
