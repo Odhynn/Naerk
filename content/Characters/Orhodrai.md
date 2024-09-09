@@ -16,7 +16,7 @@ tags:
 > > | --- | --- |
 > > | born | 1127 |
 > > | died | 1850 |
-> > | appearance | Golden skin, neck spikes , green eyes |
+> > | appearance | Golden skin, neck spikes, green eyes |
 > > | residence | [[Lengoth]] |
 
 *The Treasurer*

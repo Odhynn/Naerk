@@ -21,7 +21,13 @@ tags:
 > > | Ethnicity | [[Zulhan]] |
 > > | appearance | ? |
 
-Teeso of the Lavarami family had taken over his duties in the council at year 102. He was young in age, and loved adventure and action.
+## Description
+
+Teeso of the Lavarami family had taken over his duties in the council at year 102. He was young in age, and loved adventure and action. He was a well known tracker.
+
+He has a magically enchanted lynx companion that he replaces by an offspring of selective breeding whenever the previous dies of old age. His current Lynx is named CIV and marks the hundred-and-fourth generation of the original lynx ancestor. His attacks are empowered by rituals to be a bane of undead.
+
+## Decline of [[Zulhan]]
 
 The Ferames family did not hesitate to blame the Lavarami for the decline of the health of prince[[Talkeri]]. They claimed that they had cursed the prince with dark magic in order to have a majority of the council. Therefore, whatever happened to his health, they would be solely responsible. Teeso then, despite realizing the absurdity behind it all, vowed to find a way to cure him, and not return until then. The council would be balanced again, and if he could cure him, the Ferames would be obliged to drop the charges. And his proposal, despite the objections of his own people, was accepted.
 
@@ -38,3 +44,9 @@ The ensuing civil war shattered what was left of the kingdom. Within hours, most
 ## Aftermath
 
 Teeso galloped toward Eagle's Reach, enraged and thirsting for revenge on the alchemist prince who had deceived him. But Talkeri didn't really die.[[Voolthow]] found his soul. and within him the thirst for life, the thirst for power, and enveloped him in his dark magic, taking the sacrifice of all the souls that died in his name. And by the evening of that day, a new terror was to rise from the ruins of the now former empire. He had in his hands an entire army of undead, from the souls of the dead, a gift from the Shadow God: The [[Shadowflame Army]].
+
+## Battles of Shadowflame
+
+Teeso offered his aid and experience as he fought on [[First Battle of Shadowflame|First]], [[Second Battle of Shadowflame|Second]] and [[Third Battle of Shadowflame]] against the undead of [[Shadowflame Army]] to protect [[Kalyr]] village. He tried to redeem himself of his past errors and became a friend with captain [[Keldar]] Hayrill.
+
+

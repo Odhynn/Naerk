@@ -18,8 +18,10 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | 4735, [[Hoen]] |
-> > | appearance | light grey skin, blue eyes, 38' |
+> > | appearance | dark grey skin, blue eyes, 38' |
 > > | residence | Tronerdim, [[Hoen]] |
 
 Son of [[King Thogodram]]
 Archpriest of [[Drokasner]]
+
+During the [[War of the Titan]], [[Dumspergrond]] appointed him his general.
