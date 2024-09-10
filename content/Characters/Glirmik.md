@@ -1,0 +1,21 @@
+---
+title: Glirmik Keelgrik
+subtitle: [[Erevi]]
+date: 2024-06-03
+author: sfakias
+tags:
+  - factions/Erevi
+  - characters/leaders
+  - planes/Tartara
+
+---
+> [!attributes]
+> 
+> > [!quote]
+> >
+> > | | |
+> > | --- | --- |
+> > | appearance | Tan swollen skin, fat, small wings |
+> > | residence | [[Tartara]] |
+
+The disgusting son of [[Dumspergrond]] that was called by his father to fight in the [[War of the Titan]]. From an underground passage in [[Styx]] he brought a small group of [[Erevi]], who were used as scouts, spies and informers.

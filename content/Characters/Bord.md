@@ -20,4 +20,4 @@ tags:
 
 **The Legend**
 
-A legendary stoneslinger, with many deeds under his belt. He is supposed, among other feats, to have killed a giant eagle with a stone from a mile away, and enraged the [[Monastery of Four Winds]]. A rogue mercenary, he has fought with [[Guldorom Horde]] and with [[Dumspergrond]], but always breaks his alliances and hides when he sees the cause lost. He assassinated [[Oogle]], the stone giant shaman and leader, in order to siege power and convince his kin into joining [[Dumspergrond]].
+A legendary stoneslinger, with many deeds under his belt. He is supposed, among other feats, to have killed a giant eagle with a stone from a mile away, and enraged the [[Monastery of Four Winds]]. A rogue mercenary, he has fought with [[Guldorom Horde]] and with [[Dumspergrond]], but always breaks his alliances and hides when he sees the cause lost. He assassinated [[Orol]], the stone giant shaman and leader, in order to siege power and convince his kin into joining [[Dumspergrond]].
