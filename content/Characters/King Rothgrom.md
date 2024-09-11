@@ -22,4 +22,4 @@ tags:
 
 King Rothgrom "Hammersmash" Bandarak
 
-The valiant king of [[Mountain Anvil]] that fought the [[Guldorom Horde]].
+The valiant king of [[Mountain Anvil]] that fought the [[Guldorom Horde]]. He later fought with his mounted goat cavalry against the stone giant force of [[Bord]]. Their speed was crucial in avoiding the throwing stones and they destroyed the giant force. Bord himself was wounded and fled.
