@@ -15,7 +15,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | east [[Oromil]], [[Paraselt]] |
-> > | Time | -1275 |
+> > | Time | 1425 |
 
 [[Amehan]] and his Titan hordes opened a huge rift in the earth and attacked the [[Material Plane]] from the place where [[Paraselt]] is today. With a huge volcanic eruption, the Vulga and the Erevi poured out of the mountains to the east and west and began to wreak havoc in their path. At the same time, lava, rocks and ash began to devastate vast areas of forest.
 

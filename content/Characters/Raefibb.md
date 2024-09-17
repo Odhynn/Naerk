@@ -44,3 +44,6 @@ wiki:
 
 > [!quote] 
 > *Where will you be when the storm breaks?*
+
+Father of [[Rikisol]]
+A powerful druid and respected in many different countries for his unique rituals and his bond to nature.
