@@ -18,4 +18,4 @@ tags:
 > > | appearance | black skin, amber eyes |
 
 
-**Saskath Thangidros** was an assassin and a thief. He was killed by [[Sindariel]] in [[Tail of the Serpent]].
+**Saskath Thangidros** was an assassin and a legendary thief. He was sent by [[Salkor]] to retrieve one of the [[Solarium Rings]] in the [[Temple of the Sapphire Guard]]. He did so successfully, marking possibly the only known time the temples' defences were breached. He was subsequently hunted and killed by [[Sindariel]] in [[Tail of the Serpent]].
