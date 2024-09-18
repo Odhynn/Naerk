@@ -17,3 +17,5 @@ tags:
 > > | born | ? |
 > > | appearance | Smoky Sapphire skin, Sepia eyes |
 > > | residence | Vast [[Deeps]] |
+
+The ancient dragon responsible for guarding [[Rhekvethor]] in his underground [[Deeps]] prison after the [[Unnamed Judgement]].

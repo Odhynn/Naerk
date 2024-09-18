@@ -20,4 +20,4 @@ tags:
 > > | residence | [[Paraselt]] |
 
 *Burning Rage*
-An ancient wyrm that ruled [[Kegrozal]] and defied [[Dragonpact]]. He allied himself with [[Bloodscale]] troops. Father of [[Emberspark]].
+An ancient wyrm that ruled [[Kegrozal]] and defied [[Dragonpact]]. He allied himself with [[Bloodscale]] troops. Father of [[Emberspark]]. He died while he sieged the [[Yerastu]] temple of [[Ilistair]] by the aspect of the powerful champion [[Hikari]] channeled through [[Shizu]], his ancestor.
