@@ -17,5 +17,5 @@ tags:
 > > | Symbol | Three Wolf heads |
 > > | Region | South [[Fervolosh]] |
 > > | Capital | [[Ferglund]] |
-> > | Leader | [[Galnagh Tirl\|Galnagh Tirl Daralosh]] |
+> > | Leader | [[Tirl\|Galnagh Tirl Daralosh]] |
 

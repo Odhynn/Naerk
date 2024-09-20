@@ -43,7 +43,7 @@ wiki:
 > [!quote] 
 > *North lives in arrogance and enmity. It wasn't like that in the old days. Back then, the tribes worked together and found ways to resolve their differences. Today, nothing matters but strengthening their own tribe and attacking the others."*
 
-A legendary sage of the North that is well respected among giants and barbarian tribes. He is rumored to take several different forms and to travel constantly from village to village, spreading his wisdom and knowledge in a subtle way. Velchor was no stranger to danger. He had forged his own magical weapons, an ax and a spear, and his armor had many runic protections. His spells aided him in battle, and he could heal the wounds of the injured. He is rumored to be the one of the best living runecrafters and it is whispered he helped to make [[Torniv]].
+A legendary sage of the North that is well respected among giants and barbarian tribes. He is rumored to take several different forms and to travel constantly from village to village, spreading his wisdom and knowledge in a subtle way. Velchor was no stranger to danger. He had forged his own magical weapons, an ax and a spear, and his armor had many runic protections. His spells aided him in battle, and he could heal the wounds of the injured. He is rumored to be the one of the best living runecrafters and it is whispered he helped to make [[Torniv]]. He is also known by few to be Draglir. His concerns for the future of the north were expressed as [[Woe from an Old Man]].
 
 ## [[Elderom]] journey
 
