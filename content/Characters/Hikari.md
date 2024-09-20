@@ -23,4 +23,4 @@ tags:
 
 Wielder of [[Shiji-Sha]]
 
-The ancestor of [[Shizu]] that confronted [[Rhekvethor]], [[Salkor]] and [[Tavethir]] and initiated the [[Unnamed Judgement]]. He was a respected and honourable high priest and proven warrior in battle.
+The ancestor of [[Shizu]] that confronted [[Rhekvethor]], [[Salkor]] and [[Tavethir]] and initiated the [[Unnamed Judgement]]. He was a respected and honourable high priest and proven warrior in battle. He guarded the prison of [[Rhekvethor]] afterwards but was called to fight [[Solusmeir]] as he and his [[Bloodscale]] troops attacked [[Ilistair]] monastery. He channeled his powers through [[Shizu]] in an epic battle that killed the elder wyrm.
