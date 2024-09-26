@@ -18,3 +18,4 @@ tags:
 > > | Location | [[Hoss Glacier]] |
 
 Made entirely of crystals and ice, this fortress is permanently frozen and has been abandoned at times. It was created three millennia ago and is believed to have been made by renegade [[Twilight Veil]] witches, including the one responsible for the [[Winter's War]].
+

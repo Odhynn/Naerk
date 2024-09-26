@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | western shores of [[Belgosreim]] |
 
-The western shores of [[Belgosreim]] form treacherous rocks for sailors, as well as numerous fjords. They are full of walrus (hence the name), seals, sea lions and many othe aquatic mammals, and are also known to host several linnorms.
+The western shores of [[Belgosreim]] form treacherous rocks for sailors, as well as numerous fjords. They are full of walrus (hence the name), seals, sea lions and many othe aquatic mammals, and are also known to host several ferocious linnorms.

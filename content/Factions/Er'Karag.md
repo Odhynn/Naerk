@@ -5,6 +5,7 @@ author: sfakias
 tags:
   - countries/Belgosreim
   - factions/North
+  - factions/Er'Karag
  
 ---
 > [!attributes]
@@ -17,4 +18,4 @@ tags:
 > > | Symbol | Sea lion in water currents |
 > > | Region | Northern [[Walrus Shores]] |
 > > | Capital | [[Keldrev]] |
-> > | Leader | [[Elder Vaddlash]] |
+> > | Leader | Elder [[Vaddlash]] |

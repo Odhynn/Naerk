@@ -20,4 +20,13 @@ tags:
 > > | Region | [[Belgosreim]], [[Kansdar]] Caves |
 > > | Leader | ? |
 
-A group of shamans and witches founded by [[Arothal]] and other powerful spellcasters. All its members are required to be able to harness spirit spells. They organised a siege on [[Clapten]] as they hated the way the whalers lack of respect on the ways of the north.
+## History
+
+This group of shamans and witches was founded by [[Arothal]] and other powerful spellcasters before the [[Ghost War]]. All its members were required to be able to harness spirit spells.
+
+In the year 1893, a group of wizards defected from the Twilight Veil. The reasons for their departure seemed unknown at first, but gradually became known. [[Arothal]] had been absent for many decades from the Caves of [[Kansdar]], and thus had given in his absence the margin to create many sects. Various wizards and witches began experimenting with torture and blood magic, and did not hesitate to contact the Fiendish Lord [[Molhur]] to teach them more powerful rituals. All of these acts were beyond even the Twilight Veil's great limits of tolerance, and so soon all of them were relieved of their duties and banished from the cave.
+
+With no one to stop them from engaging in their forbidden rites and spells, the renegades soon began to gain more and more power. They put no moral barrier to their power, and began to summon Asuras and destroy villages. They killed the captives in ceremonies to get more power, and once they gathered enough they attacked larger settlements. They moved northeast, into the tundra, and invaded Guldak. They enchanted all the inhabitants without exception and sacrificed them in a gruesome ceremony, which included many savage tortures.
+
+They organised a siege on [[Clapten]] at 4740, as they hated the way the whalers lack of respect on the ways of the north.
+

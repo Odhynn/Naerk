@@ -5,7 +5,7 @@ date: 2024-01-20
 author: sfakias
 tags:
   - characters/NPCs
-  - characters/jarls
+  - characters/leaders
   - factions/Dohjil
   - countries/Korhond
 ---
@@ -20,7 +20,7 @@ tags:
 > > | height | 5'10" |
 > > | weight | 180 lb. |
 > > | appearance | White hair and beard, brown eyes |
-> > | residence | Kranårvikk |
+> > | residence | [[Kranårvikk]] |
 
 > _"Watch and learn!"_
 
