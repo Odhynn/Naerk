@@ -10,4 +10,4 @@ author: sfakias
 >A single beam with a hum fell on Shiji. A thin line ran along the length of the sword, and it glowed with the same blue color.
 >And at the base of the weapon's blade, a third letter appeared, in perfect symmetry with the other two, as if it had been carved there all along, to complete the song of the other two.
 
-A legendary blade crafted for the legendary champion [[Hikari]], and found by luck by his ancestor, [[Shizu]].
+A legendary blade crafted for the legendary champion [[Hikari]], and found by luck by his descendant, [[Shizu]].

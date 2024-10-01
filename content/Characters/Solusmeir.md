@@ -20,4 +20,4 @@ tags:
 > > | residence | [[Paraselt]] |
 
 *Burning Rage*
-An ancient wyrm that ruled [[Kegrozal]] and defied [[Dragonpact]]. Father of [[Emberspark]]. He allied himself with [[Bloodscale]] troops. He knew the elder salamander [[Innorf]] and when asked about her by the [[Band of Blood and Brimstone]], he also told [[Bloodscale]] troops to attack them, resulting in the death of [[Aldastrio]]. He died while he sieged the [[Yerastu]] temple of [[Ilistair]] by the aspect of the powerful champion [[Hikari]] channeled through [[Shizu]], his ancestor.
+An ancient wyrm that ruled [[Kegrozal]] and defied [[Dragonpact]]. Father of [[Emberspark]]. He allied himself with [[Bloodscale]] troops. He knew the elder salamander [[Innorf]] and when asked about her by the [[Band of Blood and Brimstone]], he also told [[Bloodscale]] troops to attack them, resulting in the death of [[Aldastrio]]. He died while he sieged the [[Yerastu]] temple of [[Ilistair]] by the aspect of the powerful champion [[Hikari]] channeled through [[Shizu]], Hikari's descendant.

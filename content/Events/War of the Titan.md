@@ -20,7 +20,7 @@ tags:
 
 ## Attack on the Monastery of Four Winds
 
-When [[Band of Blood and Brimstone|four travelers]] climbed one morning to the top peak of [[Tarhelm]], they had no way of knowing that their actions would be the catalyst for a series of events far greater than themselves.
+When the [[Band of Blood and Brimstone|four travelers]] climbed one morning to the top peak of [[Tarhelm]], they had no way of knowing that their actions would be the catalyst for a series of events far greater than themselves.
 
 And this because in this towering area, surrounded by thick clouds, was the [[Four Winds Monastery|Monastery of the Four Winds]]. Τhe nearby Cloud and Mist Giants until recently had been on friendly terms with the inhabitants of the monastery. However, their relations had intensified especially in the last period. And this because the giants had been placed under the command of [[Dumspergrond]], a mighty Titan, who by force was able to subjugate all the giant leaders, in the whole of Tarhelm. Anyone who challenged his authority fell dead. The monastery was one of the first targets, for its inhabitants could easily inform the valleys with magic and their huge birds of any expanding movement of the giants, and so it had to be out of the way quickly. Even more, Ralvia, the Queen of the Cloud Giants, knew that within the monastery were magical items and papyri of untold value that could help her and her warriors.
 

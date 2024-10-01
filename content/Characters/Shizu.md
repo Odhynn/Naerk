@@ -1,17 +1,17 @@
 ---
-title: Shizu Kashiwa
-subtitle: female human samurai
+title: Shizu the Swordmaiden, Kashiwa O-Shizu
+subtitle: female human swordsaint
 date: 2024-09-15
-author: sfakias
+author: odysseas, sfakias
 tags:
-  
+  - characters/PCs
   - countries/South Darrok
 
 wiki:
   gender: female
   ancestry: human
   profession: samurai
-  born: 4754
+  born: 4756
   height: 5'10"
   weight: 145 lb.
   residence: [[Ekteron]]
@@ -19,17 +19,17 @@ wiki:
 > [!attributes] 
 > > [!grid]
 > >
-> > 
+> > ![[../img/Shizu.png]]
 > 
 > > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4754 |
-> > | nationality | [[Sennarin]] |
+> > | born | 4756, Realms Beyond |
+> > | nationality | Yuuyamii |
 > > | height | 5'10" |
 > > | weight | 145 lb. |
-> > | appearance | <li>black hair</li><li>light brown eyes</li> |
+> > | appearance | <li>raven black hair</li><li>hazel eyes</li> |
 >
 > > [!quote]
 > > 
@@ -41,8 +41,19 @@ wiki:
 > > | band | [[Band of Blood and Brimstone]] |
 
 > [!quote] 
->Pacing slowly backwards with her shield arm loose, she crossed the gate's threshold as the defendants of the [[Four Winds Monastery]] pulled the groaning levers to shut it after her.
->Upon her last glimpses of the place where [[Domovoi]]'s fallen form had finally crumpled to ruin, she held aloft her sword at the forehead. And there she stood in salute, she stood in silence, until the closing doors separated her gaze from the clouds in the distance bathed in blood, and the gate descended shut once more.
->She turned to face her remaining companions, their faces also grim in untold farewells.
->Shizu lay her shield to rest upon her leg as she sheathed her blade. It was the first time they'd seen this shield. It definitely was not her style, though the effect to which it had been used was not unlike her. The angel standing proudly upon its surface was now dented with dozens of arrow marks.
->The strong winds howling outside were merely turned into breezes flowing inside the walls of the monastery. And yet it seemed, they still blew strong around Shizu, her cloak billowing and her hair still dancing around her bloody bowed head, ever vibrant.
+> Whoso stands apart from the world / will never change it. [^1]
+
+Lady Shizu Kashiwa, commonly known as Shizu the Swordmaiden, was a swordmaster from the Realms Beyond who travelled through Naerk in 4776-4778 as a member of the [[Band of Blood and Brimstone]], an adventuring party that was at the forefront of such events as the [[Battle of Fellgaunt]], the dragon [[Solusmeir]]'s attack on [[Ilistair]], the [[War of the Titan]], and the reclamation of the chthonic artifact [[Rod of Stone and Steel]].
+
+She was a wielder of [[Shiji-Sha]], a Knight-Protector of the [[Ironglance]] Order, and slayer of the titan [[Dumspergrond]].
+
+## Backstory
+
+Kashiwa O-Shizu was born in 1352 (Realms Calendar) in the village of Shinizumi on Torajima, one of the supervolcanic isles of Yuuyami in the Realms Beyond, to the Kashiwa jizamurai[^2] clan.
+
+She was the eldest of four children, and would often find herself at the head of the household when their parents were away in army expeditions. During such times, she, her little brother Kenjirou and twin sisters Hime and Sen, would be taken care of by their grandfather, Shoujirou Kashiwa.
+Shoujirou came from a long line of holy warriors descending from [[Hikari]], who had ended up in Naerk himself three millenia ago
+
+
+[^1]: When young Shizu's master Toshizou Shirokuma was departing Harukyuuden Castle for that fateful Lords' Assembly, she asked him for the reason the school had to be involved in the civil strife; he replied with this verse. This ended up being his last words and lesson to her, and she kept it as her primary mantra. After she returned to the Realms Beyond, it resonated well with the Rosewood Harpers, and was in turn picked up by their progeny who now wander Naerk with it engraved on their Swords of the Everbright.
+[^2]: A lower warrior cast of provincial _bushi_ who tended to be farmers and craftsmen rather than bureaucrats, and would fill the non-commissioned officer ranks in times of war. Their hardy lifestyle generally made them more skilled in arms and not as prone to the complacency displayed by the upper warrior class. 
