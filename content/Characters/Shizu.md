@@ -19,7 +19,7 @@ wiki:
 > [!attributes] 
 > > [!grid]
 > >
-> > ![[../img/Shizu.png]]
+> > ![[../img/Shizu.jpg]]
 > 
 > > [!quote]
 > >
@@ -72,7 +72,7 @@ Most of the population refused to sail into the maws of the awoken smoking volca
 Using her newfound divine power, she completed the reconstruction of the sky tower there, destroyed a few years ago by [[Jeanne Claire Lillith]] and [[Griannimhziel]] in their own passing into Naerk.
 She bade farewell to her little twin sisters, Hime and Sen, passing on [[Shiji-Sha]] to Hime, and opened the astral passage for her people to escape through. Shortly after their flight, the supervolcano consumed itself in a massive chain of eruptions, reducing the ancient islands to the bottom of the sea and dust in the sky.
 
-[[../img/Shizu-Arrival-mural.jpg]]
+![[../img/Shizu-Arrival-mural.jpg]]
 
 The Yuuyamii refugees of that disasters flew through the void, around the Cosmodrome and into Edhailin in the event known as [[Sennarin#the Arrival]], and are thenceforth known as the Sennarii.
 The Lady of the Lake held the portal open for them to pass through on orders by Angaeradh[^3], at the cost of her life and the portal itself. The Sennarii revered her after this sacrifice, directly influencing her rise to divinity as [[Lleyn]].
