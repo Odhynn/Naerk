@@ -18,3 +18,11 @@ tags:
 > > | Region | Northwest [[Fervolosh]] |
 > > | Capital | [[Volanir]] |
 > > | Leader | [[Queen Alinwe]] |
+
+## Description
+
+The proud elven Fir tribe that lives in northwest [[Fervolosh]].
+
+## History
+
+The tribe fought an [[Asura]] and [[Twilight Veil]] outcast invasion at the [[Bladdar Massacre]] and won, but with huge casualties.

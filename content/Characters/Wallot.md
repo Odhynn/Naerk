@@ -17,7 +17,7 @@ tags:
 > > | --- | --- |
 > > | born | unknown year |
 > > | appearance | Bald, Hooded |
-> > | weapon | scythe
+> > | weapon | scythe |
 > > | residence | Arbader |
 
 > _"Mysterious figure. Just when you think you know enough, he surprises you yet again."_
