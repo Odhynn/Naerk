@@ -45,7 +45,7 @@ wiki:
 > from the world /
 > will never change it. [^1]
 
-Lady Shizu Kashiwa (Kashiwa O-Shizu in Yuuyamii/Sennarii, commonly known as the Swordmaiden Serene in Naerk) was a swordmaster from the Realms Beyond who travelled through Naerk in 4776-4778 as a member of the [[Band of Blood and Brimstone]], an adventuring party that was at the forefront of events such as the [[Battle of Fellgaunt]], the dragon [[Solusmeir]]'s attack on [[Ilistair]], the [[War of the Titan]], and the reclamation of the chthonic artifact [[Rod of Stone and Steel]].
+Lady Shizu Kashiwa (Kashiwa O-Shizu in Yuuyamii/Sennarii, and commonly known as the Swordmaiden Serene in Naerk) was a swordmaster from the Realms Beyond who travelled through Naerk in 4776-4778 as a member of the [[Band of Blood and Brimstone]], an adventuring party that was at the forefront of events such as the [[Battle of Fellgaunt]], the dragon [[Solusmeir]]'s attack on [[Ilistair]], the [[War of the Titan]], and the reclamation of the chthonic artifact [[Rod of Stone and Steel]].
 
 She arrived to Naerk through the Athalaari skyportals as a political refugee after her school's defeat during civil strife in her homeland of Yuuyami, and took to referring to herself as "Shizu the Swordmaiden" in her subsequent travels, as by Yuuyamii culture a *rounin* (lordless *bushi*) has no right to a clan name.
 
@@ -53,10 +53,11 @@ In her quests with the Band of Blood and Brimstone, she became a wielder of [[Sh
 
 ## Backstory
 
-Shizu was born in 1352 (Realms Calendar) in the village of Shinizumi on Torajima, one of the supervolcanic isles of Yuuyami in the Realms Beyond, to the Kashiwa jizamurai[^2] clan.
+Shizu was born in 1352 (Realms Calendar) in the village of Shinizumi on Torajima, one of the supervolcanic isles of Yuuyami in the Realms Beyond, to the Kashiwa jizamurai[^2] clan. Her paternal grandfather and patriarch of the clan, Shoujirou Kashiwa, was
+
+Shoujirou came from a long line of holy warriors descending from [[Hikari]] Kashiwa, who had travelled in Naerk himself three millenia ago, through the astral portals in Shikyoujin, the giant crater island at the centre of the Yuuyamii caldera, and remained there hence.
 
 She was the eldest of four children, and would often find herself at the head of the household when their parents were away in army expeditions. During such times, she, her little brother Kenjirou and twin sisters Hime and Sen, would be taken care of by their grandfather, Shoujirou Kashiwa.
-Shoujirou came from a long line of holy warriors descending from [[Hikari]], who had ended up in Naerk himself three millenia ago
 
 ...
 
@@ -70,9 +71,13 @@ Sensing Yuuyami's impending doom, Shizu returned there in angelic form and ralli
 Most of the population refused to sail into the maws of the awoken smoking volcano, however there were several thousand who did so, trusting her word; they mostly came from her native island of Torajima.
 
 Using her newfound divine power, she completed the reconstruction of the sky tower there, destroyed a few years ago by [[Jeanne Claire Lillith]] and [[Griannimhziel]] in their own passing into Naerk.
-She bade farewell to her little twin sisters, Hime and Sen, passing on [[Shiji-Sha]] to Hime, and opened the astral passage for her people to escape through. Shortly after their flight, the supervolcano consumed itself in a massive chain of eruptions, reducing the ancient islands to the bottom of the sea and dust in the sky.
+She bade farewell to her little twin sisters, Hime and Sen, passing on [[Shiji-Sha]] to Hime, and opened the astral passage for her people to escape through. Shortly after their flight, the supervolcano consumed itself in a massive chain of eruptions, and Yuuyami was no more.
 
-![[../img/Shizu-Arrival-mural.jpg]]
+> [!attributes] 
+> > [!grid]
+> >
+> > ![[../img/Shizu-Arrival-mural.jpg]]
+> > Sennarii mural depicting the flight from Yuuyami
 
 The Yuuyamii refugees of that disasters flew through the void, around the Cosmodrome and into Edhailin in the event known as [[Sennarin#the Arrival]], and are thenceforth known as the Sennarii.
 The Lady of the Lake held the portal open for them to pass through on orders by Angaeradh[^3], at the cost of her life and the portal itself. The Sennarii revered her after this sacrifice, directly influencing her rise to divinity as [[Lleyn]].
