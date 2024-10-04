@@ -29,7 +29,7 @@ wiki:
 > > | nationality | Yuuyamii |
 > > | height | 5'10" |
 > > | weight | 145 lb. |
-> > | appearance | <li>raven black hair</li><li>hazel eyes</li> |
+> > | appearance[^0] | <li>raven black hair</li><li>hazel eyes</li> |
 >
 > > [!quote]
 > > 
@@ -54,14 +54,9 @@ In her quests with the Band of Blood and Brimstone, she became a wielder of [[Sh
 
 ## Origin
 
-> [!attributes] 
-> > [!grid]
-> >
-> > ![[../img/Yuuyami.jpg]]
-> >
-> > _Map of the Yuuyami Isles_
-
 Shizu was born in 1352 (Realms Calendar) to Kenjirou Kashiwa and Akayama-no-Yuuki, in the village of Shinizumi on Torajima, one of the supervolcanic isles of Yuuyami in the Realms Beyond. Her paternal grandfather and patriarch of the Kashiwa jizamurai[^2] clan, Heisuke Kashiwa, was steward of the summit shrine on Mt. Akayama. 
+
+![[../img/Yuuyami.jpg]]
 
 A winged priest of Hogojin (the local guardian deity), Heisuke came from a long line of holy warriors descending from [[Hikari]] Kashiwa, who had travelled in Naerk three millenia ago through the astral portals in Shikyoujin (the giant crater island at the centre of the Yuuyamii caldera) and remained there hence as a high priest of [[Yerastu]].
 
@@ -109,7 +104,7 @@ When the battle proper was joined in the streets, Shizu found herself and the yo
 
 ## Legacy
 
-Having become incredibly powerful in her own right, she afterwards returned to the Realms Beyond to reckon with the forces that had expelled her thence. A series of events that also transpired between the two worlds and included the [[Swords of the Archangels| Dawnblade]] led to her ascent to angelic power there.
+Having become incredibly powerful in her own right, she afterwards returned to the Realms Beyond to reckon with the forces that had expelled her thence. A series of events that also transpired between the two worlds and included the [[Swords of the Archangels| Dawnblade]] led to her angelic ascension.
 
 The Realms Beyond suffered an apocalyptic event soon after that rent the very fabric of magic. The resulting cosmic instability awoke the supervolcano that had birthed the islands of Yuuyami.
 
@@ -120,24 +115,21 @@ The Realms Beyond suffered an apocalyptic event soon after that rent the very fa
 > >
 > > _Sennarii mural depicting Shizu in the flight from Yuuyami_
 
-Sensing Yuuyami's impending doom, Shizu returned there in angelic form and rallied the people to head straight to Shikyoujin, wherein lied the skyportal to Naerk that she had also once escaped through.
-Most of the population refused to sail into the maws of the awoken smoking volcano, however there were several thousand who did so, trusting her word; they mostly came from her native island of Torajima.
+Sensing Yuuyami's impending doom, Shizu returned there in angelic form and rallied the people to head straight to Shikyoujin, towards the skyportal to Naerk that she had also once escaped through.
+Most of the population refused to sail into the maws of the awoken smoking volcano, however several thousand did so, trusting her word; they mostly came from her native island of Torajima.
 
 Using her newfound divine power, she completed the reconstruction of the sky tower there, destroyed a few years ago by [[Jeanne Claire Lillith]] and [[Griannimhziel]] in their own passing into Naerk.
 She bade farewell to her little twin sisters, Hime and Sen, passing on [[Shiji-Sha]] to Hime, and opened the astral passage for her people to escape through. Shortly after their flight, the supervolcano consumed itself in a massive chain of eruptions, and Yuuyami was no more.
 
-The Yuuyamii refugees of that disasters flew through the void, around the Cosmodrome and into Edhailin in the event known as [[Sennarin#the Arrival]], and are thenceforth known as the Sennarii.
+Shizu's people thus flew through the void, around the Cosmodrome and into Edhailin in the event known as [[Sennarin#the Arrival]], and are thenceforth known as the Sennarii.
 The Lady of the Lake held the portal open for them to pass through on orders by Angaeradh[^30], at the cost of her life and the portal itself. The Sennarii revered her after this sacrifice, directly influencing her rise to divinity as [[Lleyn]].
 Shizu and Lleyn are hence often revered jointly as the *Seitorii-no-Tenshi* (Angels of the Star Gates), *Shizukagami-sama* and *Tsukizumigami-sama* respectively.
 
----
-
-> artwork: "Endsinger" by [Jason Chan](http://jason-chan-zab1.squarespace.com/)
-
+[^0]: artwork: "Endsinger" by [Jason Chan](http://jason-chan-zab1.squarespace.com/)
 [^1]: When young Shizu's master Toshizou Shirokuma was departing Gokumon Castle for that fateful Lords' Assembly, she asked him for the reason the school had to be involved in the civil strife; he replied with this verse. This ended up being his last words and lesson to her, and she kept it as her primary mantra. After she returned to the Realms Beyond, it resonated well with the Rosewood Harpers, and was in turn picked up by their progeny who now wander Naerk with it engraved on their Swords of the Everbright.
 [^2]: A lower warrior cast of provincial _bushi_ who tended to be farmers and craftsmen rather than bureaucrats, and would fill the non-commissioned officer ranks in times of war. Their hardy lifestyle generally made them more skilled in arms and not as prone to the complacency displayed by the upper warrior class.
 [^3]: It was then that she first met her legendary blade (see [[The Upholder's Promise]]).
 [^4]: Kagami Ittou Ryu may be translated as "mirror one-sword style".
 [^5]: Technically, Angaeradh was duty-bound to open the astral passage for any petinioner who had respectfully climbed Eltirion, but had her own reasons in persuading Shizu to stay. The mighty prophetess had peered through the strands of fate for millenia to glimpse any future where the elves would return to Athalaar. The only timeline in which that might come to pass, she had foreseen, was one where the Angel of Death, wielding [[Shiji-Sha|the Upholder Blade]] high with her left arm, sprouted her wings of light in the shadow of the [[Four Winds Monastery|Four Winds]]. And from the moment Shizu had stepped into her hall with that very blade hoisted on her right waist, Angaeradh knew, she was at long last looking right at her Angel of Death.
 [^6]: Once the Boneship offloaded Shizu near the cliffs an hour away from Erstal, it sank to the depths and remained in that exact spot where in 6 years it would be called up again to transport the [[7th Silver Flame Guardians]], bearing the [[Dawnblade]], back to the shores of Selanaar.
-[^30]: Torajima had a large elven population, and most of them heeded Shizu's call. Angaeradh had foreseen this, and saw it as the long-awaited return of the elves to Athalaar.
+[^30]: Torajima had a large elven population, and most of them heeded Shizu's call. Angaeradh saw this as the long-awaited return of the elves to Athalaar that she had foreseen and yearned for, when she gave Shizu her Angel of Death portent. That elven population now makes up the bulk of the Sennarii Clans of Mist.
