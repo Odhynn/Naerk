@@ -41,8 +41,7 @@ wiki:
 > > | band | [[Band of Blood and Brimstone]] |
 
 > [!quote] 
-> Whoso stands apart
-> from the world /
+> Whoso stands apart from the world
 > will never change it.
 > _-- Kagami Ittou Ryu tenet_[^1]
 
