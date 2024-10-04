@@ -21,4 +21,4 @@ tags:
 > > | nationality | Athalahri |
 > > | appearance | Brown Hair, White Eyes, Pale Skin |
 
-A prominent crime lord of Xianshi that was the father of [[Angærað]] and the lover of [[Erhylassë]]. He raised his daugher to attain the cunning and charisma needed to become a mob boss.
+A prominent crime lord of Xianshi that was the father of [[Angaeradh]] and the lover of [[Erhylassë]]. He raised his daugher to attain the cunning and charisma needed to become a mob boss.

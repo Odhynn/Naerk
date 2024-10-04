@@ -13,8 +13,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 1328, [[Kambah]] |
-> > | died | ? |
+> > | born | 1328 |
 > > | appearance | Tan skin, 5'11", blue coated armor, [[Shiji-Sha]] |
 
 Kashiwa Hikari was once a mortal who has been able to take his place among the Heavens because of his repeated triumphs. He participated in the [[Unnamed Judgment]], built seven monasteries and three temples of [[Yerastu]], organized the entire religion, and was one of the users of the mighty [[Shiji-sha]] katana and a respected and honourable high priest and proven warrior in battle, before disappearing for milennia.

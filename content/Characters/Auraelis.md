@@ -20,4 +20,4 @@ tags:
 > > | nationality | Athalahri |
 > > | appearance | ? |
 
-An elf spellsword of the last remaining elven enclaves in [[Mitheryn Forest]]. He married [[Angærað]] and their daughter was named [[Lithôniel]].
+An elf spellsword of the last remaining elven enclaves in [[Mitheryn Forest]]. He married [[Angaeradh]] and their daughter was named [[Lithôniel]].
