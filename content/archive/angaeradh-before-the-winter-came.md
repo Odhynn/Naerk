@@ -68,7 +68,7 @@ Thus, in time, when the call for the Winter's War came out, she intercepted
 the dwarven representatives heading to Kultaria, offed them, and appeared in
 their stead as the Champion of Selanahr. The dwarven rulers soon learned what
 had transpired as tales of her exploits in the south against the Hordes of
-Fallfaunt reached the Athalahri shores, yet did not take action against her or
+Fallfaunt reached the Athalaari shores, yet did not take action against her or
 debunk her ill-gotten Selanahri representative status so as not to show
 weakness.  
 

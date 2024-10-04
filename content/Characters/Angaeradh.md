@@ -2,12 +2,11 @@
 title: Angaeradh, the Prophetess under the Mountain
 subtitle: female half-elf oracle
 date: 2024-06-03
-author: sfakias
+author: odysseas
 tags:
+  - characters/PCs
   - characters/leaders
-  - countries/Athar
-  - countries/Athalahr
-
+  - countries/Athalaar
 
 ---
 > [!attributes]
@@ -16,8 +15,8 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | around 3187 |
-> > | nationality | Athalahri |
+> > | born | 3187 |
+> > | nationality | Athalaari |
 > > | appearance | light blue radiant eyes, hooded cloak, staff |
 
 Angaeradh was born around 3187 the daughter of the human [[Zhansur]], a prominent crime lord of Xianshi, and the elven sorceress Erhylassë, a direct descendant of the high elves of [[Eltirion]]. She was raised by her father to attain the cunning and charisma needed to become a mob boss, and by her mother to be a watcher of the skies like her elven ancestors, to lament their fall from rule and subsequent decimation, and to loathe the ruling dwarven castes for bringing all this to pass.
@@ -35,7 +34,7 @@ She foresaw terrible forces building up in the sealed tower of [[Eltirion]]. She
 
 Determined to deliver bloody vengeance upon the dwarves for the injustice done against her, and to rise up as the rightful ruler and protector of the people of [[Selanahr]], she undermined their authority at every opportunity, consolidating her fiscal empire in the meantime, and gauging the ever-growing pressure of doom amassing high up in Eltirion. Revenge would come. In time.
 
-Thus, in time, when the call for the [[Winter's War]] came out, she intercepted the dwarven representatives heading to [[Kultaria]], offed them, and appeared in their stead as the Champion of Selanahr. The dwarven rulers soon learned what had transpired as tales of her exploits in the south against the Hordes of [[Fallfaunt]] reached the Athalahri shores, yet did not take action against her or debunk her ill-gotten Selanahri representative status so as not to show weakness.
+Thus, in time, when the call for the [[Winter's War]] came out, she intercepted the dwarven representatives heading to [[Kultaria]], offed them, and appeared in their stead as the Champion of Selanahr. The dwarven rulers soon learned what had transpired as tales of her exploits in the south against the Hordes of [[Fallfaunt]] reached the Athalaari shores, yet did not take action against her or debunk her ill-gotten Selanahri representative status so as not to show weakness.
 
 The rest is history.
 

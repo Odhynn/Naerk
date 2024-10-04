@@ -13,7 +13,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Built | -2000 to -1600 |
-> > | Location | mountains in the center of [[Athalahr]] |
+> > | Location | mountains in the center of [[Athalaar]] |
 
 ## Description
 

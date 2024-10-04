@@ -25,7 +25,7 @@ Tithlon, το Tarthyn και τους Πράσινους Λόφους.
 
 5) Hithlen: Πορτοκαλί φυλή, με εστίες το Hithlwin και το Kelonarie.
 
-6) Athalahri: Κίτρινη φυλή, με εστία το Athalahr.
+6) Athalaari: Κίτρινη φυλή, με εστία το Athalaar.
 
 7) Alagonese: Χρυσή φυλή, με εστίες το Alagon και το Stormsfall.
 

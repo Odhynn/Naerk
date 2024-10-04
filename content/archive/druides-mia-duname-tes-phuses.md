@@ -51,7 +51,7 @@ author: kyriakos
 
 -Το Circle of the Stag, που εδρεύει στο Mitheryn του Sennarin.
 
--To Circle of the Moose, που δρα στα Athar Hunting Grounds στα σύνορα με την Athalahr.
+-To Circle of the Moose, που δρα στα Athar Hunting Grounds στα σύνορα με την Athalaar.
 
 -To Locust Blight, που δραστηριοποιείται στην Allwick, στο Rammok και στο νότιο Oventhart.
 

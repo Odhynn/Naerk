@@ -6,7 +6,7 @@ author: sfakias
 tags:
   - characters/leaders
   - countries/Athar
-  - countries/Athalahr
+  - countries/Athalaar
 
 
 ---
@@ -17,7 +17,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | ? |
-> > | nationality | Athalahri |
+> > | nationality | Athalaari |
 > > | appearance | ? |
 
 An elf spellsword of the last remaining elven enclaves in [[Mitheryn Forest]]. He married [[Angaeradh]] and their daughter was named [[Lithôniel]].

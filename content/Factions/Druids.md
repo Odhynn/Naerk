@@ -26,6 +26,6 @@ The most important (largest in members, areas of action, power) circles are:
 - The [[Il'ghana]], located in the desert of Allwick.
 - The [[Silver Pact]], who are nomads and operate in Tarthyn and the Green Hills.
 - The [[Circle of the Stag]], based in Sennarin's Mitheryn.
-- The [[Circle of the Moose]], operating in the Athar Hunting Grounds on the border with Athalahr.
+- The [[Circle of the Moose]], operating in the Athar Hunting Grounds on the border with Athalaar.
 - The [[Locust Blight]], operating in Allwick, Rammok and southern Oventhart.
 - The [[Ghostwatch]], based in the Blackwoods.

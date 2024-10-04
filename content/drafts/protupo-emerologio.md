@@ -87,7 +87,7 @@ author: sfakias
 3104: Ίδρυση των Tearthis.  
 3250: Winter's War.  
 3251: Γέννηση Seriatul.  
-3260: Destruction of the Kingdom of Selanahr in Athalahr.  
+3260: Destruction of the Kingdom of Selanahr in Athalaar.  
 3272: Πειρατική εποίκηση του Stormsfall.
 
 3289: Wardens of the North Foundation.
@@ -204,18 +204,18 @@ Della enthroned in Whistor.
 Bloodscales attack on Ilystair, Solusmeir death. Rod of Stone and Steel
 reclaimed.
 
-4778: Endless Storm around Athalahr stops.
+4778: Endless Storm around Athalaar stops.
 
 4779: Khalaram's independence from South Darrok.
 
 4780: King Lordin Quakesville enthroned in Green Hills.  
-4784: Athalahr: [[Amen]] Arrival of the Company of the 6th Incantator.
+4784: Athalaar: [[Amen]] Arrival of the Company of the 6th Incantator.
 
 4786: Zuuls' Rampage and death across Åperbung. Devils attack Pamfül,
 Celestial intervention.
 
 4797: Ίδρυση του Order of the Broken Crest.  
-4790, Athalahr: Arrival of the Sennarii clans.
+4790, Athalaar: Arrival of the Sennarii clans.
 
 4792: King Laorwick murdered in Hashnev. King Oodas Bildarion Enthroned.
 

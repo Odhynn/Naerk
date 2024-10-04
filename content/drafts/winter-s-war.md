@@ -82,7 +82,7 @@ Linnorm 2 headed o ashiro ekane tp me to wajabat  to worm sto stratopedo της
 
 -Oventhart: Ασιρο ενισχυσεις στρατου
 
--Athalahr angaerad
+-Athalaar angaerad
 
 -Νανοι
 

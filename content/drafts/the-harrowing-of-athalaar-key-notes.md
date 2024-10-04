@@ -57,9 +57,9 @@ but her own incomplete divinations and stubborn lack of dwarven comms resulted i
 upon her dying moment the Prophetess under the Mountain chose Angaeradh to
 succeed her nonetheless and do what needs to be done  
 a tear in the veil with the astral plane was opening, and as that would trigger an immense disaster, she diverted the damage to the veil with the spiritual dimension  
-and so Athalahr was opened to the machinations of the Shadow and Void planes  
+and so Athalaar was opened to the machinations of the Shadow and Void planes  
 \- Zuulthov, the Haruspex of Voolthow, brought forth the Harrowmist  
-\- Harr'hundun, the Haruspex of Yast, ~~quarantined Athalahr with the sea
+\- Harr'hundun, the Haruspex of Yast, ~~quarantined Athalaar with the sea
 veil~~  
 \- Angaeradh took command of the Chosen, the dwarven elite guard, allied
 herself with the conservative forces of Utopia and the Ethereal Plane, set up

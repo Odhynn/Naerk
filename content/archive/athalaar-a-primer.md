@@ -60,7 +60,7 @@ Selanaar. Σήμερα αποτελούν συνώνυμο της έρευνας
 ανατολικών ακτών. Κομμάτι της σποράς του Thimvert, αποκομμένοι από τον
 υπόλοιπο κόσμο και μετά από αιώνες μάχης ενάντια σε στοιχειά, oni, ogres και
 orc, έκαναν τη γη που πατούσαν πραγματικά δική τους και την ονόμασαν Bjåglant.  
-Γύρω στο 4778 η αιώνια καταιγίδα που έπληττε τις ακτές της Athalahr έπαψε, και
+Γύρω στο 4778 η αιώνια καταιγίδα που έπληττε τις ακτές της Athalaar έπαψε, και
 με τις θάλασσες πλέον συνεργάσιμες, η ναυτιλιακή τεχνογνωσία των Bjåglanders
 δεν έκανε καιρό να αναγεννηθει, εξαπολύοντας τους επιδρομείς τους στον κόσμο.  
 
@@ -74,5 +74,5 @@ orc, έκαναν τη γη που πατούσαν πραγματικά δικ�
 οποίες περιπλέκονται από τις πρόσφατες αποστολές των Sennarii στα στοιχειωμένα
 εδάφη της πρωτεύουσας γης του αρχαίου βασιλείου.  
 
-[![](https://4.bp.blogspot.com/-8OAa9Uq2F9w/WHe0ZWPkqWI/AAAAAAAAA8Y/pPK8UsRr7gsefANDZZUmkrVmcsIRAD8JwCLcB/s320/Athalahr.jpg)](https://4.bp.blogspot.com/-8OAa9Uq2F9w/WHe0ZWPkqWI/AAAAAAAAA8Y/pPK8UsRr7gsefANDZZUmkrVmcsIRAD8JwCLcB/s1600/Athalahr.jpg)
+[![](https://4.bp.blogspot.com/-8OAa9Uq2F9w/WHe0ZWPkqWI/AAAAAAAAA8Y/pPK8UsRr7gsefANDZZUmkrVmcsIRAD8JwCLcB/s320/Athalaar.jpg)](https://4.bp.blogspot.com/-8OAa9Uq2F9w/WHe0ZWPkqWI/AAAAAAAAA8Y/pPK8UsRr7gsefANDZZUmkrVmcsIRAD8JwCLcB/s1600/Athalaar.jpg)
 

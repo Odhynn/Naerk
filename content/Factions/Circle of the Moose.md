@@ -18,5 +18,5 @@ tags:
 > > | --- | --- |
 > > | Symbol | ? |
 > > | Members | ? |
-> > | Region | [[Athar]] hunting grounds, [[Athalahr]] border |
+> > | Region | [[Athar]] hunting grounds, [[Athalaar]] border |
 > > | Leader | ? |

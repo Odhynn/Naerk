@@ -6,7 +6,7 @@ author: sfakias
 tags:
   - characters/leaders
   - countries/Athar
-  - countries/Athalahr
+  - countries/Athalaar
 
 
 ---
@@ -17,7 +17,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | around 3187 |
-> > | nationality | Athalahri |
+> > | nationality | Athalaari |
 > > | appearance | light blue radiant eyes, hooded cloak, staff |
 
 Daughter of [[Angaeradh]] and [[Auraelis]].
