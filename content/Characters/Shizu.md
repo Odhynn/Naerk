@@ -66,6 +66,8 @@ When she was 12, she waited by the docks of Harukyuuden harbour as the expeditio
 She took up the sword soon after, enrolling into the Kagami Ittou Ryu school of swordsmanship, under the tutelage of master Toshizou Shirokuma. The dojo was part of a martial arts academy housed in Gokumon-jou, a castle perched on a rocky hill in Harukyuuden, capital of Torajima Isle.
 Her dedication and skill saw her become first among the students and assistant master of the school, which focused on wielding a single katana in a left-forehand grip[^4].
 
+### Fall of Gokumon Castle
+
 When she was nineteen, the isles were embroiled in civil strife brought upon by the feuding of warlords and generals after the Yuuyami Marshal's passing. The martial grandmasters of Gokumon-jou, though not technically holding any kind of military rank or lordship, still held powerful sway in the political sphere and were popular with the common folk, and thus decided to take a stance, in line with the noble spirit of the academy.
 When the discord was reaching a breaking point, they were invited to a Lords' Assembly that was meant to prevent the breakout of a civil war. The opposing side took this as an opportunity to isolate and murder them, then mobilised their troops to seize Gokumon Castle once the grandmasters were dead.
 
@@ -73,6 +75,9 @@ Back in the castle, Shizu and the other leading students decided to honour their
 Having survived the fall of the castle among the girls taken captive, Shizu was rescued before dawn by her grandfather Heisuke who swooped in, killed her captors and took flight with her in his arms.
 
 In the aftermath, the now ruling Three Generals decreed that to avoid further bloodshed, everyone who had taken up arms against them would be allowed to go into exile. Heisuke however knew that their ships were patrolling the outward sea, to ensure such exiles never reached the mainland alive, so he led Shizu and a group of other political refugees inward, to Shikyoujin. Using the same astral passage his ancestors once had travelled through, they escaped through the cosmic void to Naerk, finding themselves washing out of [[Edhailin]].
+
+### Blood Moon
+
 Their arduous journey through the wilderness took them to Bjåglant, where they boarded a longship eastward. Misfortune had it that the Bloodmoon was nigh; its currents took hold of the ship and wrecked it on the shores of Selanaar. Dispersed along the woods and cliffs and struggling to regroup while battling oni and ancient demons through the haunted Selanahri cities, the Yuuyami group was decimated.
 Mortally wounded, Heisuke bequeathed an inert [[Shiji-Sha]] to Shizu with his dying breath.
 
