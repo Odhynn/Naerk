@@ -1,0 +1,39 @@
+---
+title: The Upholder's Promise
+subtitle: How young Shizu first met Shiji-sha
+date: 2015-09-13
+author: odysseas
+---
+
+At the age of twelve she went back to Shinizumi to spend her annual short spring break. Waiting to greet her upon her arrival, however, was not just Yumie, but her grandfather as well. 
+Kashiwa Heisuke, her father's father, was a revered priest of Hogojin (the Yuuyami aspect of the guardian deity) tending his mountain temple at the slopes of Fuyukaze mountain. He was so accomplished he had been granted feathered wings by the Guardian Angel, an embodiment of the deity's symbolic image. All the glamour of this was, of course, irrelevant to his grandchildren, who loved the wings because they were soft and warm and fuzzy and a fantastic thing to sleep on. As a matter of fact, he would often endure lying motionless on the floor throughout the night, so the brats wouldn’t wake up. 
+
+Those were the days nearing the Spring Equinox of the Year of the Sword, as unexpectedly, their parents had decided on a family expedition and had dragged the big and mighty angel-priest into this.
+For two days the whole Kashiwa clan was together. Heisuke turned them all into cloud and they flew over the peaks of Akayama. Shizu's siblings were alight with glee. Their father took them hiking downstream small rivers in the woodlands beyond. Their mother took them hunting and foraging mushrooms for the collective dinner at an elven settlement. Their grandfather told stories under the starlight sky by the hearth fire while they and about two dozen elves would lay around and listen.
+There had never been a merrier time for them, but Shizu noticed something was amiss, in the glances shared among the grownups, in the longing gaze her parents cast upon her and her delighted siblings. Something like regret, like untold sorrow.
+
+She found out when they returned back to the village, on the evening of the second day. After sending Soujirou and the girls to bed, her parents beckoned Shizu to sit with them and explained why they had to be gone for a while. That there were things that had to be done, in distant uncharted lands to the west. That she should take care of the family along with her grandfather while they were away.
+Shizu understood. Even Yumie seemed to understand, lying all sadwith her muzzle on the ground by the fireplace. Shizu stayed half-awake through the night and got up when she heard the soft clatter of armour, sometime before dawn. Yuuki noticed her sneaking up on them right away, but by that time both she and Kenjirou were standing in the doorway, fully armed for war, arrow quivers and campaign gear hanging on their backpacks. Her grandfather shook his head, standing against the wall with arms folded and wings laying lax. As it was, her parents could only regard Shizu with a sad smile before taking off into the night. And then dawn came.
+
+Thus Shizu took up her new role as the maternal executive power of the household. Heisuke tasked her with breaking the news, so over breakfast she told her younger siblings (more or less) that they would be going to live in Grandfather's place for a while, seeing as Mom and Dad had to go on an important sort of grown-up trip. Soujirou, Sen and Irihime seemed content with the way she put it, as the grandfather himself nodded his appreciation for her rhetoric skill while commenting there was much room for improvement. Yumie was still lying across Kenjirou’s and Yuuki’s empty bed, silently sighing.
+After all was done and said and preparations were made, the winged old priest and his four grandchildren turned into cloud once more and flew away from Shinizumi, over the mountains, the forests and the Sleeping Sea, to the grand island of Ryuujima and the small mountain temple of Hogojin.
+It was a beautiful and scenic, yet isolated place. The shrine complex was built with classic Kozakuran architecture, with stylish pagodas and arcing bridges hanging over terrifying cliffs and striking views, promising endless inspiration to the romantic and a single endless fall to the careless. A locale simply gorgeous and obviously unfit for 3-year olds, therefore (much to the dissapointment of the younger ones and the relief of Yumie) they were not going to stay there. Heisuke had arranged for a foster family in Hayama village to take them in for the duration of their parents' indefinite absence. As for Shizu, she would be returning to her academy soon. But still, her spring break was a few days short from over and she was mindful and agile enough to avoid a thousand-feet-fall, so her grandfather allowed her to tend the temple with him (not a word about it to her siblings of course), until the time he would Wind-Walk her back to Harukyuuden. Plus, he had promised he would spar with her on a suspended mountain bridge, so there was that as well.
+
+Shizu spent a few more days high up in the snowy Fuyukaze, trekking along the mountain paths, practicing for her imminent return to kenjutsu lessons, reading the books in her grandfather’s study, chopping firewood, making meals, and sweeping the wooden floors and pathways of the shrine complex. While polishing the inner altar hall floor, in the last afternoon of her stay, she sensed something odd. Looking around, her eyes soon fixed on a katana, sheathed in a plain ceremonial shirasaya and resting upon a horizontal daisho weapon stand, high behind the altar. Hesitantly yet without really thinking about it, Shizu approached, rose on her toes and after some effort, managed to close her fingers around the scabbard and take it off the stand. It was a hold so mismatched for her childish palm, and yet so familiar. She grasped the hilt with the other hand, and slowly brought the guard point before her eyes, ready to pull hilt and scabbard apart and be greeted with the gleam of the blade within.
+
+"O-Shizu?"
+Before she realised it, her grandfather was standing in the hall entrance. His expression was grave as ever she had seen him.
+"Ojii-san… I’m sorry, I … I just-" Shizu stammered.
+"Did you hear it?" interjected her grandfather.
+"… Eh? H-Hear what?" replied Shizu, puzzled.
+"Did you hear it speak?" said her grandfather, pacing towards her.
+"… I don’t understand."
+"The sword. It called to you" he said, coming close to look down upon Shizu. "Is that why you took it off the stand?"
+Shizu looked down at the katana, then back to her grandfather, her expression defining bemusement. Heisuke’s stern look softened as he gently took the sword off her hands.
+"No matter" he said, cracking a smile "it would certainly be weird if you could hear it now. Do tell me though… what was it that made you want to examine it?"
+"I dunno… sudden curiosity? I think…" Shizu muttered, relieved that her grandfather did not seem affronted by her indiscretion.
+Kashiwa Heisuke calmly put the sword to rest back on the stand, but did not relinquish his grasp. He remained aloof for a moment, looking all thoughtful. 
+"I see" he said, turning to smirk at her. Letting go of the shirasaya, he walked towards the entrance. "I think he likes you." he added as they emerged out into the day’s fading light. "You must have some real potential, O-Shizu. For the blade to call your name, before you’ve even had a chance to prove yourself… It’s a great honour".
+He paused to regard the clear reddening sky, and sat down by the stairs sweeped clean of snow. "An honour your father never had".
+Little Shizu sat beside him and pondered her grandfather’s words, still unable to guess what he was hinting at. "… I still don’t get it, Ojii-san".
+"You might someday…" replied old Heisuke. And his weary tender voice had made it sound not so much like an honour. But more like a promise.
