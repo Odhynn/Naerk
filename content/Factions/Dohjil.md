@@ -18,3 +18,5 @@ tags:
 > > | Region | River [[Kranor]], Southwest [[Fervolosh]] |
 > > | Capital | [[Kranårvikk]] |
 > > | Leader | [[Jarl Bugril]] Menilson |
+
+A northern tribe that settled in [[Kranor]] river. They were one of the first tribes to develop agriculture and settle from their previous nomad life. They cultivated a large area near the coast and [[Kranårvikk]]. Almost all their neighbors attacked them and very soon they ended up fighting every day to defend what they had so laboriously sown, so they learned how to defend themselves, possibly with the help of [[Mormankar]].

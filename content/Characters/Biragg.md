@@ -22,3 +22,4 @@ tags:
 > > | nationality | Oventhart |
 > > | appearance | ? |
 
+An archdruid that was the founder and the first leader of the [[Tearthis]] pack. in [[Zaelvosh]] Forest that died fighting the [[Beast of Water and Death]].
