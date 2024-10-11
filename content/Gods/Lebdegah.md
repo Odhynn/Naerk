@@ -1,31 +1,25 @@
 ---
-title: Iazip
-date: 2024-01-29
+title: Lebdegah
+subtitle: Lord of Chaos
+date: 2024-10-11
 author: sfakias
 tags:
-  - countries/Iazip
-
+  - gods/Primordial
+  - gods/Vethian
+  - factions/Vethians
+  - planes/Tartara
+  - planes/Zinctizuctra
 
 ---
-> [!attributes]
-> 
-> > [!quote]
-> >
-> > | | |
-> > | --- | --- |
-> > | Climate | Cold Antarctic |
-> > | Capital | [[Kleoktra]] |
-> > | Government | Oligarchy |
-> > | Languages | Vethian |
-> > | Population | 105000 |
-> > | Religions | [[Maeronian]], [[Yushan]], [[Hansa]] |
-> > | Imports | Meat, Corn, Potato, Gems, Metals |
-> > | Exports | Artwork, Sculpture, Fish, Whale Oil |
-> > | Important Events | Realms of Chaos |
 
-## The Realms of Chaos
+## Realms of Chaos
 
-When [[Lebdegah]] sent a meteorite from [[Veth]] belt onto Na'erk, it crashed into what is now [[Ismaya Bay]] in the year 2125. The damage from the impact was extensive, with tidal waves in many places to the west of [[Naerk]].
+
+Too much is known about [[Maeronian]] and his spells, wizards and cities. His brother, however, Lebdegah, is often sidelined. A mysterious creature with unknown purposes, he spent too much time traveling to other dimensions, and even more so to [[Zinctizuctra]], constantly trying to create instability and change, with himself enjoying the process more than anyone.
+
+His philosophy was that of permanent change and absolute chaos. He was the most unpredictable [[Vethian]], and was able to stay one step ahead of his enemies because no one could ever predict his movements. Even other [[Vethians]] failed to rise above him in their structure, no matter how many centuries they had lived together. For Lebdegah, believers are something useless and meaningless: something that limits his absolute freedom and forces him to remain still.
+
+He was always keen about developments in [[Material Plane]], but his travels in other dimensions had piqued his interest. However, after several millennia, the time came for him to deal with [[Naerk]]. And he did this by sending a meteorite from Veth belt onto Na'erk, which crashed into what is now [[Ismaya Bay]] in the year 2125. The damage from the impact was extensive, with tidal waves in many places to the west of [[Naerk]].
 
 The area was soon filled with Vethians. Sometimes friendly, sometimes hostile, and sometimes just plain curious, they occupied the southern islands and built their civilization there: [[Azarradon]], [[Yagalshu]], [[Kleoktra]], [[Ubalnu]], and [[Bluqqa]]. Battles soon broke out from 2129 onwards with [[Drozzin]]'s dragons and [[Bloodscale]]. Four battles were fought, which had mutual losses and succeeded in defining the frontiers of the two rival peoples: the [[Siege of Gorin]], the [[Naval Battle of Girnea]], and the two [[Battles of Khaled-Bal]].
 

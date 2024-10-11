@@ -5,6 +5,7 @@ author: sfakias
 tags:
   - gods/Primordial
   - gods/Vethian
+  - factions/Vethians
   - planes/Zinctizuctra
 
 
