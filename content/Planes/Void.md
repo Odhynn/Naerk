@@ -3,7 +3,7 @@ title: Void Plane
 date: 2024-02-06
 author: sfakias
 tags:
-  - planes/Void Plane
+  - planes/Void
 
 ---
 > [!attributes]
