@@ -7,7 +7,10 @@ tags:
   - gods/Karadosh
   - factions/Warclaw
   - factions/Sylvanaya
- 
+alias:
+  - "Werewolf"
+  - "werewolf"
+  - "werewolves"
 ---
 
 ## [[Warclaw]]
@@ -31,3 +34,5 @@ His spirit began to enter the bodies of local people as a host, and these in tur
 Apparently, this was something that took a long time for the [[Silvertail]], let alone the rest of the world, to understand. Initially, they thought that the symptoms presented by the victims were a classic case of lycanthropy, and they killed them on the spot: But often, several believed that it was some hereditary disease or a family issue: And this is because, the spirits carefully chose their victims. The result was that in some cases entire families were burned at the stake to "go away" from the evil, which rarely solved the problem. Sometimes, all the young people of a village were sacrificed, since the spirits preferred young victims and fresh flesh. The situation was getting out of hand, and the only culprit was a spirit: Allyx, as she was later named.
 
 Fortunately for many, the occurrences of Allyx attacks were few and far between. Historically there have been less than twenty such cases, and even the best hunters, rangers, shamans and druids have no idea what exactly the conditions are that create them, though it never happens to Silvertail. The only way to destroy them that has certain results is to imprison the dead werewolf's soul: a particularly time-consuming and arduous process, even for the most powerful druids. And there are too many who feel that trapping a soul goes against physical balance, so it's almost never practiced.
+
+## Alerius

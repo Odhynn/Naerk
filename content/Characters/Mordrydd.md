@@ -64,7 +64,7 @@ Before they could get to the Bjåglander side however, Mordrydd blew up the brid
 
 After chafing against the traditional outlook of his family, Mordrydd departed from Bjåglant on a [[Nagstad]] ship, eventually ending up in Belgosreim.
 After travelling along the coast a while and subsisting by selling medicines and salves, he settled in [[Kranårvikk]], where he opened up an alchemical shop. While the potions and salves remained his most basic source of income, reactive materials and bombs remained his passion, and the shop blew up twice during his stay.
-After the first explosion (which was [[a-bad-day-for-shopping|technically not his fault]]), he was hired as a pharmacist and physician by [[Jarl Bugril]]'s to tend to him and his [[Folegg Bugrilson|sickly son]].
+After the first explosion (which was [[a-bad-day-for-shopping|technically not his fault]]), he was hired as a pharmacist and physician by [[Jarl Bugril]]'s to tend to him and his [[Folegg|sickly son]].
 
 ## Champion of the North
 

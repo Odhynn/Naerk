@@ -4,7 +4,9 @@ subtitle: A Force of Nature
 date: 2024-04-11
 author: sfakias
 alias:
-  - "druids" 
+  - "druids"
+  - "druid"
+  - "Druid"
 tags:
    
 ---
