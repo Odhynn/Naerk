@@ -14,7 +14,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4316, [[Tarhelm]], [[Northern Darrok]] |
+> > | born | 4316, [[Tarhelm]], [[North Darrok]] |
 > > | appearance | white and light blue clothes |
 
 A powerful winter wizard in [[Four Winds Monastery]]

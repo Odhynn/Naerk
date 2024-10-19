@@ -3,7 +3,7 @@ title: Heyarosh
 date: 2024-05-03
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | Western [[Tarhelm]] |
 
-Heyarosh is the western part of the [[Tarhelm]] mountain range. It is home to numerous orc clans, as well as stone giant families. Thus, it is considered to be one of the most dangerous regions of [[Northern Darrok]].
+Heyarosh is the western part of the [[Tarhelm]] mountain range. It is home to numerous orc clans, as well as stone giant families. Thus, it is considered to be one of the most dangerous regions of [[North Darrok]].

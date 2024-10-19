@@ -8,7 +8,7 @@ tags:
   - factions/Sages of the North
   - factions/Fismint
   - countries/Korhond
-  - countries/Northern Darrok
+  - countries/North Darrok
 wiki:
   gender: male
   ancestry: human

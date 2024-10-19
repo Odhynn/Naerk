@@ -3,7 +3,7 @@ title: Rondorvick
 date: 2024-03-31
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -12,7 +12,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Location | Island east of [[Northern Darrok]] |
+> > | Location | Island east of [[North Darrok]] |
 
 The island of Rondorvick defines the end of the [[Angry Sea]] and the beginning of the [[Misty Sea]]. Many believe that it simultaneously sets another boundary, between culture and nature. The waves here crash wildly, carving strange shapes into the secluded rocks. This rather inhospitable island, however, for some inexplicable reason is one of the most frequent destinations for many travelers, druids and hermits.
 

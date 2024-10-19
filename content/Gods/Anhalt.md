@@ -41,7 +41,7 @@ tags:
 
 ## Defence of Kadrom
 
-In the old days, a few centuries after the [[Ghost War]], the dark elves, also known as drow, arrived in their swift ships from the far south and inhabited many islands. One of these was [[Urgol]], to the west of Northern Darrok. Their colony there was soon reinforced with powerful wizards. Apparently, their dreams of expansion didn't end there. So they tried to invade [[Northern Darrok]] and take over the dwarven strongholds.
+In the old days, a few centuries after the [[Ghost War]], the dark elves, also known as drow, arrived in their swift ships from the far south and inhabited many islands. One of these was [[Urgol]], to the west of North Darrok. Their colony there was soon reinforced with powerful wizards. Apparently, their dreams of expansion didn't end there. So they tried to invade [[North Darrok]] and take over the dwarven strongholds.
 
 Their first target was the fortress of [[Kadrom]]. Built on a rocky island, it was an advanced sea dwarven outpost, and one of the oldest. It was connected underground to a network of galleries and to the rest of the fortresses, and was the first step for the elven invasion. So they assembled a fleet of a hundred ships, and a powerful sorcerer summoned an entire company of devils to aid them in battle.
 
@@ -59,4 +59,4 @@ As the devil went to continue the slaughter, he felt his body degenerate and ret
 
 [[Kromlek]], the god of war, pulled on Anhalt's chain to return him to [[Kelzadam]], only to find it unliftable. He applied force, but it wouldn't budge an inch. The power of his will was so great, that even after death his soul remained motionless in this place. The dwarves of Kadrom, impressed by his sacrifice and devotion to duty, buried him in the same spot where he died, and placed upon the grave his broken shield and molten hammer.
 
-Impressed by Anhalt's fortitude, Kromlek decided to take him on as his assistant. He broke the chain and gave him divine power. The soul chain rattles when there is danger near the grave, and he undertook to protect and help those in similar need as he had then. His feat became known far and wide, and the drow never attacked Northern Darrok again. Anhalt is one of the few cases of dwarven gods who were able to gain respect and followers even among other races.
+Impressed by Anhalt's fortitude, Kromlek decided to take him on as his assistant. He broke the chain and gave him divine power. The soul chain rattles when there is danger near the grave, and he undertook to protect and help those in similar need as he had then. His feat became known far and wide, and the drow never attacked North Darrok again. Anhalt is one of the few cases of dwarven gods who were able to gain respect and followers even among other races.

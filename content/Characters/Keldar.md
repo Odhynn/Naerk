@@ -5,7 +5,7 @@ date: 2024-07-13
 author: sfakias
 tags:
   
-  - regions/Edhelwood
+  - countries/Edhelwood
   - factions/Edhellin
 
 ---

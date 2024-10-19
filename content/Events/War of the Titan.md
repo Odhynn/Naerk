@@ -13,7 +13,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | [[Tarhelm]], [[South Darrok]] |
-> > | Forces | at least 30000 tactical [[South Darrok]] army, 2000 dwarven [[Northern Darrok]] army vs 1000 giants and trolls |
+> > | Forces | at least 30000 tactical [[South Darrok]] army, 2000 dwarven [[North Darrok]] army vs 1000 giants and trolls |
 > > | Casualties | 3 villages destroyed, 5700 dead [[South Darrok]] warriors, 6000 civilians, 150 dwarven warriors, almost 600 giants and trolls |
 > > | Outcome | [[South Darrok]] defended, giant retreat |
 > > | Time | 4777 |

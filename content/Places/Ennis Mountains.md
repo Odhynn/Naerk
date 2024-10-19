@@ -3,7 +3,7 @@ title: Ennis Mountains
 date: 2024-08-26
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
   - countries/South Darrok
 ---
 > [!attributes]

@@ -5,7 +5,7 @@ author: sfakias
 tags:
 
 - factions/Edhellin
-  - regions/Edhelwood
+  - countries/Edhelwood
 
 ---
 > [!attributes]

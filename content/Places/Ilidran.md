@@ -4,7 +4,7 @@ date: 2024-07-19
 author: sfakias
 tags:
   - countries/Naryal
-  - regions/Edhelwood
+  - countries/Edhelwood
 
 ---
 > [!attributes]

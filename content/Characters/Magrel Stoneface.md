@@ -5,7 +5,7 @@ date: 2024-03-28
 author: sfakias
 tags:
   
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -15,7 +15,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | 4646, [[Awlass]] |
-> > | nationality | [[Northern Darrok]] |
+> > | nationality | [[North Darrok]] |
 > > | height | 3'11" |
 > > | weight | 157 lb. |
 > > | appearance | Brown hair, ruby eyes, adamantine shield and waraxe |

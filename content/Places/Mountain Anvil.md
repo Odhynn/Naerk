@@ -4,7 +4,7 @@ subtitle: Talhad
 date: 2024-03-28
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -16,7 +16,7 @@ tags:
 > > | Population | 63825, 98% Dwarves, 1% Stonefolk, 1% Other |
 > > | Government | Monarchy (King) |
 > > | Religions | [[Klont]], [[Vard]], [[Tarov]], [[Cromlek]], [[Anhalt]], [[Hedbba]] |
-> > | Location | south [[Northern Darrok]], north [[Tarhelm]] |
+> > | Location | south [[North Darrok]], north [[Tarhelm]] |
 
 ## History
 

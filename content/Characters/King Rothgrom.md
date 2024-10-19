@@ -6,7 +6,7 @@ author: sfakias
 tags:
 
   - characters/leaders
-  - countries/Northern Darrok
+  - countries/North Darrok
 ---
 > [!attributes]
 > 
@@ -14,9 +14,9 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4572, [[Awlass]], [[Northern Darrok]] |
+> > | born | 4572, [[Awlass]], [[North Darrok]] |
 > > | crowned | 4736 |
-> > | nationality | [[Northern Darrok]] |
+> > | nationality | [[North Darrok]] |
 > > | residence | [[Mountain Anvil]] |
 > > | appearance | Red hair, stocky built, decorated armor and hammer |
 

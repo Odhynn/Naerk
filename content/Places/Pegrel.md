@@ -3,7 +3,7 @@ title: Pegrel
 date: 2024-03-13
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | Island west of [[Tarhelm]] |
 
-The western point of [[Northern Darrok]].
+The western point of [[North Darrok]].

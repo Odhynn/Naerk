@@ -3,7 +3,7 @@ title: Skalenar
 date: 2024-03-13
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]
@@ -12,4 +12,4 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Location | Island west of [[Northern Darrok]] |
+> > | Location | Island west of [[North Darrok]] |

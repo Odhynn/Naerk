@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | North |
 
-This sea, famous for its tidal waves and storms, starts from [[Raven's Tower]], encircles [[Northern Darrok]], [[Korhond]] and [[Belgosreim]] until it reaches [[Bjåglant]] shores. Numerous sailors have found a watery grave in these waters, and those that do survive tell unsettling tales of sea monsters.
+This sea, famous for its tidal waves and storms, starts from [[Raven's Tower]], encircles [[North Darrok]], [[Korhond]] and [[Belgosreim]] until it reaches [[Bjåglant]] shores. Numerous sailors have found a watery grave in these waters, and those that do survive tell unsettling tales of sea monsters.

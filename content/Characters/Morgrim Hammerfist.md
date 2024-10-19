@@ -6,7 +6,7 @@ author: sfakias
 tags:
 
   - characters/NPCs
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]

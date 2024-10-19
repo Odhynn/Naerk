@@ -3,7 +3,7 @@ title: Paltenach
 date: 2024-03-13
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]

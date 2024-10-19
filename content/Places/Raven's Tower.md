@@ -3,7 +3,7 @@ title: Raven's Tower
 date: 2024-03-31
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]

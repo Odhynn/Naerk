@@ -5,7 +5,7 @@ date: 2024-07-09
 author: sfakias
 tags:
   
-  - countries/Northern Darrok
+  - countries/North Darrok
 
 ---
 > [!attributes]

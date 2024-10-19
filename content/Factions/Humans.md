@@ -11,7 +11,7 @@ Humans are one of the newest races to appear on [[Naerk]]. Intelligent, inventiv
 
 1) Ngamue: Black heritage, centered on the [[Ngamui Isles]], [[Zelgerosh]], [[Whistor]] and [[Markesh]].
 2) Kultari: Pink heritage, centered on [[Imtaria]], [[Oromil]], [[Urdankh]], [[Arbader]], [[Karrokh]] and [[South Darrok]].
-3) Jargen: White heritage, centered in [[Korhond]], [[Hoen]], [[Belgosreim]], [[Bjåglant]] and [[Northern Darrok]].
+3) Jargen: White heritage, centered in [[Korhond]], [[Hoen]], [[Belgosreim]], [[Bjåglant]] and [[North Darrok]].
 4) Zulhan: Pale heritage, home to [[Allwick]], [[Oventhart]], [[Marelthia]], [[Tithlon]], [[Tarthyn]] and [[Green Hills]].
 5) Hithlen: Orange heritage, with [[Hithlwin]] and [[Kelonarie]] as foci.
 6) Athalahri: Yellow heritage, with focus on [[Athalahr]].

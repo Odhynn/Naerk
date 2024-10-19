@@ -3,7 +3,7 @@ title: Hlafentar
 date: 2024-04-08
 author: sfakias
 tags:
-  - countries/Northern Darrok
+  - countries/North Darrok
   - countries/South Darrok
 ---
 > [!attributes]
