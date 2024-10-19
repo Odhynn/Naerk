@@ -28,6 +28,8 @@ Invigorated by their success, newfound power, and an influx of talent among thei
 
 This led to their duality as a political force to be reckoned with in the diplomatic sphere of Palaurim, and a secret agency that operates from the shadows well beyond its territories.
 
+![[../img/Berenfaer.jpg]]
+
 ## Origins
 
 > [!quote] "On the origins of the Berenfaer", letter for the billboard
@@ -47,8 +49,6 @@ This led to their duality as a political force to be reckoned with in the diplom
 > 
 > Heads held high,
 > Banshee
-
-![[../img/Berenfaer.jpg]]
 
 ## Structure
 
