@@ -40,7 +40,6 @@ wiki:
 > > | residence | [[Ekteron]] |
 > > | band | [[Band of Blood and Brimstone]] |
 
-> [!quote] 
 > Whoso stands apart from the world
 > will never change it.
 > _-- Kagami Ittou Ryu tenet_[^1]
@@ -70,14 +69,16 @@ Her dedication and skill saw her become first among the students and assistant m
 When she was nineteen, the isles were embroiled in civil strife brought upon by the feuding of warlords and generals after the Yuuyami Marshal's passing. The martial grandmasters of Gokumon-jou, though not technically holding any kind of military rank or lordship, still held powerful sway in the political sphere and were popular with the common folk, and thus decided to take a stance, in line with the noble spirit of the academy.
 When the discord was reaching a breaking point, they were invited to a Lords' Assembly that was meant to prevent the breakout of a civil war. The opposing side took this as an opportunity to isolate and murder them, then mobilised their troops to seize Gokumon Castle once the grandmasters were dead.
 
-Back in the castle, Shizu and the other leading students decided to honour their masters and the castle academy by defending it to their last. As a full-blown coup took place and clashes erupted in the streets of Haruykyuuden, Gokumon Castle became the rallying point and finally, the last stand of the popular resistance. At the end of a two-day siege, the troops of the Three Generals stormed it and slaughtered its last defenders, mostly young adults and teens; this was lamented as the Night of the Young.
+![[../img/Shizu-Gokumon.jpg]]
+
+Back in the castle, Shizu and the other leading students decided to honour their masters and the castle academy by defending it to their last. As a full-blown coup d'etat took place and skirmishes erupted in the streets of Haruykyuuden, Gokumon Castle became the rallying point and finally, the last stand of the popular resistance. At the end of a two-day siege, the troops of the Three Generals stormed it and slaughtered its remaining defenders, mostly young adults and teens; this was lamented as the Night of the Young.
 Having survived the fall of the castle among the girls taken captive, Shizu was rescued before dawn by her grandfather Heisuke who swooped in, killed her captors and took flight with her in his arms.
 
 In the aftermath, the now ruling Three Generals decreed that to avoid further bloodshed, everyone who had taken up arms against them would be allowed to go into exile. Heisuke however knew that their ships were patrolling the outward sea, to ensure such exiles never reached the mainland alive, so he led Shizu and a group of other political refugees inward, to Shikyoujin. Using the same astral passage his ancestors once had travelled through, they escaped through the cosmic void to Naerk, finding themselves washing out of [[Edhailin]].
 
 ### Blood Moon
 
-Their arduous journey through the wilderness took them to Bjåglant, where they boarded a longship eastward. Misfortune had it that the Bloodmoon was nigh; its currents took hold of the ship and wrecked it on the shores of Selanaar. Dispersed along the woods and cliffs and struggling to regroup while battling oni and ancient demons through the haunted Selanahri cities, the Yuuyami group was decimated.
+Their arduous journey through the wilderness took them to Bjåglant, where they boarded a longship eastward. Misfortune had it that the Bloodmoon was nigh; its currents took hold of the ship and wrecked it on the shores of [[Selanaar]]. Dispersed along the woods and cliffs and struggling to regroup while battling oni and ancient demons through the haunted Selanahri cities, the Yuuyami group was decimated.
 Mortally wounded, Heisuke bequeathed an inert [[Shiji-Sha]] to Shizu with his dying breath.
 
 The sole survivor of the political refugees, Shizu trudged on alone until she met two other accidental castaways from the Realms Beyond, two rangers who had trailed a suspicious archmage far too deep, and together they made their way to the summit of Eltirion. There, the astral tower's keeper, [[Angaeradh|the Prophetess Under the Mountain]], agreed to send the two rangers back to the Realms Beyond if Shizu would acquiesce to stay in Naerk for two years, for she had foreseen great destiny awaiting the swordmaiden in Naerk.

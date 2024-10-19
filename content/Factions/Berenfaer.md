@@ -16,8 +16,8 @@ tags:
 > > | Region | [[Zolkar]], [[Karrokh]] |
 > > | Leader | Assembly of Spymasters |
 
-> _We Shall Not Abide_
-> -- motto of the Berenfaer
+> We Shall Not Abide
+> -- _motto of the Berenfaer_
 
 Berenfaer is an organization of freedom fighters and undercover operatives that combat slavery and tyranny. Their presence was minute and scattered before the [[Zolkar's Dawn Riot]], when they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at its helm.
 Invigorated by their success, newfound power, and an influx of talent among their ranks, they quickly branched out beyond the shores of Zolkar, establishing contacts and safe houses in multiple regions where resistance against authoritarian rule and human trafficking is budding.
