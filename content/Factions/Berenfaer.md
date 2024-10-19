@@ -48,6 +48,8 @@ This led to their duality as a political force to be reckoned with in the diplom
 > Heads held high,
 > Banshee
 
+![[../img/Berenfaer.jpg]]
+
 ## Structure
 
 The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their agent nicknames and operate within regional cells that have only as much contact with the rest of the Berenfaer as is deemed safe by the higher layer of handlers and comms agents.
