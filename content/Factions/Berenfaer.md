@@ -28,7 +28,7 @@ This led to their duality as a political force to be reckoned with in the diplom
 
 ## Origins
 
-> [!quote] "On the origins of the Berenfaer", letter for the billboard
+> [!note] "On the origins of the Berenfaer", letter for the billboard
 > 
 > Dearest comrades,
 > I heard that a lot of the newcomers besides myself were confused at conflicting stories about what Berenfaer was before the uprising. Well. I did a little research here and there and this is what I found:
@@ -41,7 +41,7 @@ This led to their duality as a political force to be reckoned with in the diplom
 > - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by or by family or by torturers "Where is Berenfaer?", only to reply "_I am_ Berenfaer".
 > 
 > That's pretty much the short of it. The truth might lie somewhere in the middle.
-> One smashing takeaway is: We are Berenfaer.
+> One smashing takeaway is: _We are_ Berenfaer.
 > 
 > Heads held high,
 > Banshee
