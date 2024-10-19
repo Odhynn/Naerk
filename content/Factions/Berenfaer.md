@@ -21,8 +21,6 @@ tags:
 > We Shall Not Abide
 > -- motto of the Berenfaer
 
-## Description
-
 Berenfaer is an organization of freedom fighters and operatives that combat slavery and tyranny. Their presence was low-key and sporadic before the [[Zolkar's Dawn Riot]], when they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at its helm.
 Invigorated by their success, newfound power, and an influx of talent among their ranks, they quickly branched out beyond the shores of Zolkar, establishing contacts and safe houses in multiple regions where resistance against authoritarian rule and human trafficking is budding.
 
