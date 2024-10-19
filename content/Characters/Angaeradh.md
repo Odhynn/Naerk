@@ -6,9 +6,10 @@ author: odysseas
 tags:
   - characters/PCs
   - characters/leaders
-  - countries/Athalaar
-
+  - regions/Athalaar
+  - countries/Selanaar
 ---
+
 > [!attributes]
 > 
 > > [!quote]

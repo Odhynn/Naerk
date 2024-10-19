@@ -23,6 +23,6 @@ tags:
 > > | residence | Elestair |
 
 **Chief Comprade Steelshade**
-Leader and founder of [[Berenfaer]]
+Leader and founder of the modern revival of the [[Berenfaer]]
 Accomplished scout and fighter
 Organizer of [[Zolkar's Dawn Riot]]
