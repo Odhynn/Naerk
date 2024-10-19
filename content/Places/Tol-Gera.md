@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | Northern island of [[Karrokh]] |
 
-The biggest island of [[Karrokh]] that marks its northmost border. Its main port is [[Vaensir]]. The mainland is mostly desert.
+The biggest island of [[Karrokh]] that marks its northmost border. Its main port and capital is [[Vaensir]]. The mainland is mostly desert.
