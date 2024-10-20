@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Xeurim]], [[Yast]], [[Steenar]], [[Voolthow]], [[Sennek]] |
 > > | Location | southeast [[Zelgerosh]] |
 
-A vast pirate port and refuge full of unrully crews.
+A vast pirate port and refuge full of unrully crews. It is where the [[Pirate Council]] takes place.

@@ -24,4 +24,4 @@ tags:
  
  In the past, they spread destruction to the ancient empire of [[Zulhan]] with the help of their patron Aspect. Zulhan sent a massive army of mages and horsemen to deal with it, as all crops and life in its wake perished. With the help of druids and deeds, they were able to destroy her material being, but the damage was already done. The area her flock had passed through had been irreversibly deserted. Soon, a plague broke out in the kingdom.
  
- Today they are a shadow of their former self.
+ Today they are a shadow of their former self. There are reports of them appearing in several places, like in the troubled city of [[Velaroya]].

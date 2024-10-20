@@ -14,7 +14,7 @@ tags:
 > > | Climate | Tropical Wet-and-Dry |
 > > | Capital | [[Qillport]] |
 > > | Government | Confederate Oligarchy |
-> > | Languages | Common, Elven, Halfling,  |
+> > | Languages | Common, Elven, Halfling |
 > > | Population | 80000 |
 > > | Religions | [[Jalerk]], [[Yerastu]], [[Sennek]], [[Hydarax]], [[Yushan]], [[Drokasner]], [[Klemnestron]] |
 
