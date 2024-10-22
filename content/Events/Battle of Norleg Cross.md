@@ -1,11 +1,9 @@
 ---
-title: Dalvuigg
-subtitle: male giant scriber
-date: 2024-10-21
+title: Battle of Norleg Cross
+date: 2024-10-22
 author: sfakias
 tags:
-  
-  - countries/Hoen
+  - countries/Korhond
 
 ---
 > [!attributes]
@@ -14,17 +12,13 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4546, Hoen |
-> > | nationality | [[Hoen]] |
-> > | height | 17' |
-> > | appearance | Grey hair, silk and furs |
-> > | residence | Kranårvikk (as of 4818) |
+> > | Place | Northern [[Misty Sea]] |
+> > | Combatants | 300 frost giants against 3000 [[Fosh]] warriors |
+> > | Casualties | 5 frost giants; 150 [[Fosh]] warriors |
+> > | Outcome | Giants' retreat after lost duel |
+> > | Time | early 4797 |
 
-A traveling giant from [[Hoen]]. He is friendly and peaceful. 
-
-He introduced himself to the [[Fosh]] tribe as a historian. He carried countless runes and books with him and was very curious to learn and record the customs and habits of the locals. As the winter in the north in that year of 4796 proved especially harsh, the giant sat there, and soon became a friend and advisor to [[Jarl Rakof]], who valued his wisdom highly. Rakof went so far as to trust him with his newborn daughter, [[Jarlskona Lengosha|Lengosha]]. The giant loved the baby, who went so far as to cry whenever she was not in his arms, preferring him even to her mother.
-
-When spring came, Dalvuigg said goodbye to Fosh and the Jarl and made his way back to [[Hoen]]. What few knew, however, was that Dalvuigg was an advisor to Skalindrosh.Upon returning to [[Tronerdim]], he recounted in detail his experiences at the Giant King's court. But many prying ears heard these details. One of them was Gert, an ice giant who realized that he could rob [[Korhond]] of these riches. He hid his movements from [[Skalindrosh]] and moved west.
+Gert was an ice giant who realized that he could rob [[Korhond]] of its riches. He hid his movements from [[Skalindrosh]] and moved west.
 
 The Fosh clan were surprised to find one morning that an army of hundreds of giants had camped outside [[Norleg]] crossing and were preparing to attack them. Archer divisions were sent to deal with them. Their first shots laid down five giants, but they responded by hurling huge chunks of glacier that melted anyone in their elliptical path and quickly scattered the defensive line. The giants charged into the village in order, and then Rakof in his desperation found a rune Dalvuigg had left for him to communicate with and activated it, clutching it to his chest.
 
@@ -38,6 +32,4 @@ He attacked the beast with his spear, which had an icy tip. Dalvuigg parried a f
 
 Exhausted, Dalvuigg returned to his form. Gert began to strike him with his spear, and with the knife the scholar was even more unable to parry. He shouted a command, and a beam of light fell on Gert and burned his face, blinding him. Buying time, he gathered his strength to circle around Gert, who was thrashing blindly back and forth, furious. It formed runes, which coalesced to create lava, which was thrown at Gert. When he found out Dalvuigg's location he struck him in the leg with his spear, impaling him. They both knew they had to hurry. Dalvuigg was the first to move. He summoned a storm of freezing hail that fell on Gert. He remained unharmed, but the lava on him petrified and immobilized him. He fell down helpless, and after a while he admitted defeat.
 
-The village warriors approached in relief, knowing they had been saved. Dalvuigg treated his wound with magic, and then ordered Gert to leave there permanently and not return, except in peace. As compensation for the damage they did, Gert should each year choose thirty of his warriors, and send them into the service of the Fosh, to help them in any way they want. Gert swallowed his pride and walked away defeated.
-
-Since then, the giants gradually developed good relations with the Fosh. The thirty warriors were often filled voluntarily, as many wanted to take the opportunity to go live with the people, and learn their stories and customs and taste their food. Dalvuigg demanded that the giants be treated with respect, and they in turn found that no job was too difficult for one of them. The walls of the city grew in height, towers were built inside it, and canals were dug in the rivers, both for defense and for trade. Several of them even occasionally served as Rakof's bodyguards, as the final stage of their friendship.
+The village warriors approached in relief, knowing they had been saved. Dalvuigg treated his wound with magic, and then ordered [[Gert]] to leave there permanently and not return, except in peace. As compensation for the damage they did, Gert should each year choose thirty of his warriors, and send them into the service of the Fosh, to help them in any way they want. Gert swallowed his pride and walked away defeated.

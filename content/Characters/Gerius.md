@@ -18,7 +18,7 @@ tags:
 > > | --- | --- |
 > > | born | ? |
 > > | died | ? |
-> > | appearance | brown fure, red eyes |
+> > | appearance | brown fur, red eyes |
 > > | residence | [[Tithlon]] |
 
 ## Background
