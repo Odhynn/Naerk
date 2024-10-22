@@ -17,7 +17,7 @@ tags:
 > > | Place | North [[Belgosreim]] and [[Korhond]] |
 > > | Time | 4818 |
 
-When the [[Vethfall|invasion of Yast]] and his creatures on the Material Plane ended in the year 4818, a new problem arose in the north. With the intervention of someone unknown, the menhirs in the north that had been placed in the ancient years of the [[Winter's War]] to keep Wendigos away from habitable areas were broken overnight. The attacks began in border villages, east of [[Bur'gg]] territory and [[Osfån]]. The dead were multiplying rapidly, and the army of the undead was growing. The Bur'gg tribe, the lakemen, were the first to be called upon to face them.
+When the [[Vethfall|invasion of Yast]] and his creatures on the Material Plane ended early in the year 4818, a new problem arose in the north. With the intervention of someone unknown, the menhirs in the north that had been placed in the ancient years of the [[Winter's War]] to keep Wendigos away from habitable areas were broken overnight. The attacks began in border villages, east of [[Bur'gg]] territory and [[Osfån]]. The dead were multiplying rapidly, and the army of the undead was growing. The Bur'gg tribe, the lakemen, were the first to be called upon to face them.
 
 [[Jarlskona Darma]] issued a call to arms to all who were worth fighting, and she herself led the first battles, fighting in the front lines. With several losses they were able to win the first battles, but it was obvious that the situation would soon get worse. There was no way to stop the Wendigo from reproducing through the dead. No matter how many corpses they burned, they always found new ones somewhere.
 

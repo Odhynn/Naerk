@@ -28,4 +28,4 @@ A peaceful region with good relations with its south neighboring country, [[Gree
 
 ## Kambah Invasion
 
-After [[Green Hills Withdrawal]] from [[Palaurim]], [[Tarthyn Invasion|Tarthyn was invaded]] by [[Kambah]] forces in early 4819.
+After [[Green Hills Withdrawal]] from [[Palaurim]], [[Tarthyn Invasion|Tarthyn was invaded]] by [[Kambah]] forces in early 4819. [[Silkwin]] and its outskirts were lost after a day's siege and the compliance of [[King Odern]]. Thousands of refugees retreated to the north coast of lake [[Tartha]] and they also established two settlements in [[Pinewoods]].
