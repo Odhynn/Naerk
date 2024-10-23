@@ -17,12 +17,19 @@ tags:
 > > | --- | --- |
 > > | born | 4796, [[Hlafengrond]] |
 > > | nationality | [[Kalenvad]] Korhonder |
-> > | height | 6'1" |
-> > | weight | 179 lb. |
-> > | appearance | Brown hair and beard, brown eyes |
+> > | predecessor | [[jarl Forjod]] |
+> > | height | 6'2" |
+> > | weight | 184 lb. |
+> > | appearance | Brown hair and beard, light blue eyes |
 > > | residence | [[Hlafengrond]] |
 
-The leader of the [[Kalenvad]] tribe that rules from his seat in [[Hlafengrond]]. Son of runesmith [[Borlen]].
+The leader of the [[Kalenvad]] tribe that rules from his seat in [[Hlafengrond]]. Son of runesmith [[Borlen]] and grandson of [[Olaff]] trollslayer, whose look resembles.
+
+## Early Years
+
+Yuradal looked a lot like his grandfather [[Olaff]], whom he never met, and he was also alike him in personality and willpower. He exuded an aura about him of confidence and determination. And when [[Jarl Fegreth]] finally decided, after pressure from the locals and the Hurtvigsen to reclaim their land, Yuradal was the first chosen by all to join as Galnagh. And he did not disappoint them, as he emerged victorious from [[Vølrad]] in [[Thylhor]], and the territories were returned to the tribe.
+
+Such was the appeal of Yuradal, that all the young warriors called together to make him the new Jarl. Even among the elders, many supported him, and only a small portion of corrupt old men supported Fegreth as a bitter minority. Then Yuradal became Jarl of his clan, but his achievements did not end there. He tamed three giant eagles on his travels to [[Hlafentar]], fought the giants of [[Hither]], making them respect him and even send [[Weknar|their warriors]] to his personal guard.
 
 ## [[The Archery Contest of Lord Meeldas]]
 
