@@ -1,5 +1,5 @@
 ---
-title: Fervolosh
+title: Monastery of the Four Winds
 date: 2024-04-05
 author: sfakias
 tags:
