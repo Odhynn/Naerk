@@ -34,3 +34,5 @@ tags:
 The native warbands have long given up attacking Kleyton. In the last centuries, the island has suffered pirate attacks every several years and also threats from water monsters.
 
 Reisdok joined [[Palaurim]], the trade treaty of [[Imtaria]], at year 3998 under special terms. This was frowned upon by many natives and local rulers, because taxation increased, without increasing the revenue from trade at the same time. Kleyton, according to many, was already in very good development rate and there was no need to enter this alliance, even on the preferential terms it did (1/4 less taxation). Many council members resent that option, and some are preparing a draft negotiation that includes even softer terms. Of course, no one knows if Imtaria will accept it.
+
+![[../img/Reisdok.jpg]]

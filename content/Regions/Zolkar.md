@@ -34,3 +34,5 @@ Zolkar most recent turmoil happened during the [[Zolkar's Dawn Riot|a riot]], wh
 ## Relations
 
 Zolkar currently has two councillor seats in [[Palaurim]], one held by Berenfaer spymaster [[Steelshade]]. Imtaria monitors closely the unstable political situation in the country but has not yet taken any side.
+
+![[../img/Zolkar.jpg]]

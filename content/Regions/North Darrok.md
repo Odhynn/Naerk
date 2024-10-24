@@ -2,6 +2,8 @@
 title: North Darrok
 date: 2024-01-26
 author: sfakias
+alias:
+  - "Northern Darrok"
 tags:
   - countries/North Darrok
 ---
@@ -33,3 +35,5 @@ At 4765, [[North Darrok]] was attacked by [[Guldorom Horde|a huge horde]] of orc
 ## Culture
 
 The original Darrok manners, customs and dialect have been conserved much more in the north compared to the south.
+
+![[../img/North Darrok.jpg]]

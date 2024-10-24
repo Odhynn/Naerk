@@ -29,3 +29,5 @@ Kambah was a western district of Oventhart. It exported metals, minerals, qualit
 Numerous insurrections were incited by elves and [[Berenfaer]] from the eastern provinces to the borders with [[Oventhart]] during the late years of Fasroh's reign. Seeing his inability to take action, his grandchild [[Karahath]] killed him and ascended to his place. As a new tyrrant, he reformed and united [[Kenorex]] and orcs and he waged a sudden campaign that stopped the insurgents. He rallied giants and goblins from mountainous [[Hoen]] and marched south with a [[Defeated Army|huge and overwhelming army]]. After the defeat at [[Battle of Fherlon Plains]], he retreated back with his remaining Kenorex forces and [[Kambah]]'s hopes for territorial expansion came to a halt.
 
 Several decades afterwards, [[Karahath]] had recoverd from this failure. The armies of [[Kambah]] [[War of Karahath|attacked]] [[Oventhart]] and they annexed the town of [[Whitecross]] and several regions of southwestern [[Oventhart]] after many battles.
+
+![[../img/Kambah.jpg]]

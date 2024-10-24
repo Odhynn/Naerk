@@ -3,6 +3,8 @@ title: Athalaar
 subtitle: the haunted continent
 author: odysseas
 date: 2017-01-12
+alias:
+  - "Athalahr"
 tags:
   - regions/Athalaar
 ---
@@ -27,3 +29,5 @@ Over the course of the 48th century the ring of eternal storm around the shores 
 
 In 4890, the [[Sennarin|Sennarii]] clans, refugees of a disaster in the Realms Beyond, appeared through the ancient elven cosmic portals in the now eponymous region, where they established themselves and expanded after many years of conflict with the Bjåglanders as well as the creatures that the Bjåglanders and the Athar had already been fighting off for the previous 1200 years.
 The art and culture of these people is eerily similar to that of old Selanaar. Hypotheses outlining the possible influence of Selanaar to (or from) the Realms Beyond are increasingly alluded to in light of the recent Sennarii expeditions into the haunted heartland of the ancient kingdom.
+
+![[../img/Athalahr.jpg]]

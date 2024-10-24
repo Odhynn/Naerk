@@ -37,3 +37,5 @@ The two attempts by the natives to attack were made a month later, and failed mi
 ## Colony
 
 Today, almost half of the island belongs to Imtaria, and remains a colony. However, the governors have imposed particularly strict martial laws, especially regarding piracy and the natives. Thus, pirates who come to trade first pass through Karan's Cross to "wash" their goods, and then come to the colonists' ports. The elves have disappeared into the depths of the forest and are rarely seen, while the bugbears have begun to cooperate with the pirates in various dirty jobs, mainly with slaves and smuggling. As for slavery, the Imtarians turn a blind eye because no one controls them there, while it is convenient for their own business.
+
+![[../img/Stormfall.jpg]]

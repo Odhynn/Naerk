@@ -23,3 +23,5 @@ tags:
 > > | Important Events | Clapten Siege, Kraken Attack |
 
 A cold, inhospitable tundra full of great linnorms, frost giants, goblins and orc nomadic tribes. Home to the dreadful acolytes of [[Twilight Veil]]. On the western shores lies the whaler town of [[Clapten]]. Kraken and other sea monsters have plagued these frozen reaches and there are [[Lokkam Kraken|many instances]] of such attacks on ships and ports.
+
+![[../img/Belgosreim.jpg]]

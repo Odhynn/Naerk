@@ -31,3 +31,5 @@ In the early days, Green Hills were ravaged constantly by pillagers and invaders
 There is an ongoing struggle to repel invaders from the [[Defeated Army]] that constantly attack from Paraselt.
 
 Green Hills joined Palaurim but left after their envoy at South Trade Route was killed, with [[Imtaria]] to blame.
+
+![[../img/Green Hills.jpg]]

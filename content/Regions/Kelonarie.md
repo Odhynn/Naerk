@@ -21,3 +21,5 @@ tags:
 > > | Imports | Wanderers, Pilgrims, Magic Texts, Books |
 > > | Exports | Exotic Herbs, Magic Items, Rare Minerals |
 > > | Important Events | City of Grief, Twalar inhabitance |
+
+![[../img/Kelonarie.jpg]]

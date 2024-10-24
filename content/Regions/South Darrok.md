@@ -32,3 +32,5 @@ However, with the help of the [[[Palaurim]]] countries and the growth of trade, 
 ## Culture
 
 Most scholars believe that South Darrok has renounced most of its traditions from the old Darrok. They have adopted many southern customs, a result of the trade and contact with [[Imtaria]] and [[Palaurim]].
+
+![[../img/South Darrok.jpg]]

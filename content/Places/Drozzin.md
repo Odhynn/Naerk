@@ -29,3 +29,5 @@ Determined to stay, the colonists found allies in the island's native fey. Nymph
 After these events, the dragons stopped raiding. They realized that attacks there would be futile, and quickly found that they could not replace their dead as easily as the settlers did. Soon they were content with small skirmishes in the outskirts, which still drag on, while gradually in Ednais several traders came and settled, paying the corresponding servitude tax. Ednais gradually became the definitive border of the two cultures, who learned to respect each other.
 
 In recent years, [[Palaurim]] sent an exhibition to settle in the northeastern shores, composed primarily of [[Sergonial]] clergy and outcasts. They established a foothold and a fortified dock AT [[Newport]].
+
+![[../img/Drozzin.jpg]]

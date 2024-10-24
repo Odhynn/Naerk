@@ -21,3 +21,5 @@ tags:
 > > | Imports | Fruits, Vegetables, Timber, Beer, Precious Metals |
 > > | Exports | Slaves, Spices, Jewelry, Books, Magic Items, Gems, Artwork, Perfume |
 > > | Important Events | Flame Gulf Rivalry, Pirate Raids on Whistor |
+
+![[../img/Markesh.jpg]]

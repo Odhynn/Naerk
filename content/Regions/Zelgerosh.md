@@ -21,3 +21,5 @@ tags:
 > > | Imports | Trade Goods, Manufactured Goods, Oil, Iron, Armor |
 > > | Exports | Slaves, Exotic Beasts, Spices, Silk, Gold, Fabrics, Exotic Fruits, Alchemical Materials |
 > > | Important Events | Pirate Council, South Trade Route, Palaurim Colonization |
+
+![[../img/Zelgerosh.jpg]]
