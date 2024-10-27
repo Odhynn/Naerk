@@ -15,7 +15,7 @@ tags:
 > > | Place | [[Erstal]], [[Flame Gulf]], [[Markesh]] |
 > > | Time | 3974 |
 > > | Combatants | Sultan army and navy against [[Erstal]] garisson |
-> > | Outcome | 1400 dead warriors, 3200 dead civilians of Erstal, 680 dead warriors of [[Hoarinhel]]  |
+> > | Outcome | 1400 dead warriors, 3200 dead civilians of Erstal, 680 dead warriors of [[Hoarinhel]] |
 
 When [[Erstal]] declared independence from the Sultan's influence and began trade with [[Imtaria]] and [[Whistor]] without any control by the country's central administration, it was certain there would be consequences. The Sultan could not leave such an insult unanswered.
 
