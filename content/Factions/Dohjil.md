@@ -19,4 +19,4 @@ tags:
 > > | Capital | [[Kranårvikk]] |
 > > | Leader | [[Jarl Bugril]] Menilson |
 
-A northern tribe that settled in [[Kranor]] river. They were one of the first tribes to develop agriculture and settle from their previous nomad life. They cultivated a large area near the coast and [[Kranårvikk]]. Almost all their neighbors attacked them and very soon they ended up fighting every day to defend what they had so laboriously sown, so they learned how to defend themselves, possibly with the help of [[Mormankar]].
+A northern tribe that derived from the [[Karnag]] tribe on their journey to the east and settled in [[Kranor]] river. They were one of the first tribes to develop agriculture and settle from their previous nomad life. They cultivated a large area near the coast and [[Kranårvikk]]. Almost all their neighbors attacked them and very soon they ended up fighting every day to defend what they had so laboriously sown, so they learned how to defend themselves, possibly with the help of [[Mormankar]].

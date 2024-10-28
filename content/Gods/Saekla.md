@@ -36,4 +36,4 @@ tags:
 > > | Domains | Air, Freedom, Lightning, Nature, Travel |
 > > | Cleric Spells | 1st: Gust of Wind, 3rd: Lightning Bolt, 4th: Fly |
 
-One of the four [[Elemental Lords]] that emerged victorious from the [[Primordial War]], the Lord of the Air is more shy and distant than his brothers. His creation, [[Tartara]], was out of limits to him.
+One of the four [[Elemental Lords]] that emerged victorious from the [[Primordial War]], the Lady of the Air is more shy and distant than her brothers. Her creation, [[Tartara]], was out of limits to her.
