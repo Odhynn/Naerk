@@ -18,3 +18,7 @@ tags:
 > > | Leader | ? |
 
 An organisation that believes [[Ashiro]] was the greatest hero of the country and in elven superiority. They blame humans of [[Oventhart]] as the main reason for all the problems in the region. Many influential spies and agents of them have infiltrated the state services.
+
+## History
+
+They first multiplied their numbers when [[Kemil]] became known for his experiments in [[Warm River]], and they tried to recruit him.
