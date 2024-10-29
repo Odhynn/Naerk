@@ -45,3 +45,7 @@ The Elemental Lord of Fire, [[Fyrlean]], had underestimated her, and decided in 
 ## TARTARA
 
 In another instance, she was forced to intervene in order to contain the dangerous beings of Tartara. She formed there a huge stone prison that engulfed the plane and compressed everything inside, limiting [[Saekla]]'s creation and imprisoning the creatures in it. This enraged Saekla even more against her, although her intervention was necessary to maintain the order.
+
+## ATTOR AND THE FIRST GIANTS
+
+When [[Attor]], the first giant, asked for her help to give power to his art, she responded, and the first giants emerged. However, the other [[Elemental Lords]] didn't respond well to her sudden increase of influence and chaos broke out in the [[Elemental Ring]]. This ended when Attor secretly gave power and giant followers to the other Lords too, however this was believed to be a treachery by all four of them and they split his soul in four pieces upon his death, each claiming one and condemned him to eternal torture.
