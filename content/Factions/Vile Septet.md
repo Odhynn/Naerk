@@ -25,3 +25,7 @@ The answer came both from Anthis's bewilderment, not expecting another to appear
 Chaos ensued. Helpless, the wizards watched the demons tear them apart. Anthis tried to negate and close his Gate but with a Power Word from the flaming demon he was frozen in place watching his colleagues being slaughtered. More demons continued to pass through the gate, and soon the best of Pyrlon's wizards had been slaughtered. Only two remained alive beyond Anthis: An elven sorceress named [[Kervyl]], and an archmage, [[Releston]]. Kervyl, who loathed Anthis had come to the show having cast all the defensive spells she knew, while Releston had transformed into a dragon and began trading blows with the serpentine demoness. Very quickly they surrounded him, as soon as they finished with the rest, but he was able to fly away and save himself.
 
 Kervyl was the last. She shot bolts of lightning from her hands and roasted the first demon that reached her alive, but the rest blocked her every possible way of escape. They began pounding her with claws and swords, but to no avail. After a while she got tired and when [[Knaritzna]] fell on her, he knocked her down and immobilized her. The demons then hung her on the walls and began to torture her. The gate had been left open and there was no one to close it. Soon, hordes of demons had arrived, and they began to spread throughout [[Pyrlon]], which without its strongest mages was a feast for the insatiable jaws of the [[Abyss]].
+
+## Spoils of War
+
+
