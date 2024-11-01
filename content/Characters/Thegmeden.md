@@ -19,4 +19,4 @@ tags:
 > > | --- | --- |
 > > | appearance | 5'3", shadow figure |
 
-A small, shadowy and murderous demon believed by many to be the most sadistic amongst the [[Vile Septet]]. He relished in torture and assassinations during [[Pyrlon Carnage]].
+A small, shadowy and murderous demon believed by many to be the most sadistic amongst the [[Vile Septet]]. He relished in torture and assassinations during [[Pyrlon Carnage]] and took the eastern shores next to the forests, which became known as the [[Frostrifts]], vast expanses of unnatural red ice and undead that seemed to have emerged from [[Styx]].

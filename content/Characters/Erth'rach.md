@@ -19,4 +19,4 @@ tags:
 > > | --- | --- |
 > > | appearance | 8'3", scaled skin, stygian blade |
 
-A lizard-like hunter of Styx and member of the [[Vile Septet]] that arrived for his own personal motives after the [[Pyrlon Carnage]].
+A lizard-like hunter of Styx and member of the [[Vile Septet]] that arrived for his own personal motives after the [[Pyrlon Carnage]]. [[Erth'rach]] settled in the delta of the rivers north, and they were called Krverveka, the Blood Riverlands.
