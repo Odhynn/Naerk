@@ -52,7 +52,7 @@ Knaridzna was the first through the Gate and commanded a big part of the vanguar
 
 The next four chieftains came in the following days and weeks and were not involved in the immediate destruction of the city. Their motives were either personal or because one of the trio of Demon Overlords sent him as a servant or spy. They were [[Molroth]], a winged mage, [[Erth'rach]], a lizard-like hunter of Styx, [[Alzagur]], a fiendfolk alchemist, and finally [[Barrelid]], a form between an insect and a dog, who each brought their own subjects and settled in region.
 
-## First Raids
+## First Raids and Territory Split
 
 The first raids were easy enough for the demons. They didn't require much coordination on their part: They simply sent armies to pillage, which rarely met resistance in the southern villages of Almahr. In the few cases where they had resistance, they used spells or sent plagues that killed or worse created demonic mutations in the inhabitants. Only in the northern cities was anyone safe. As far as [[Kaylensev]] and [[Vyll River]], the whole area was covered in blood.
 
