@@ -64,6 +64,6 @@ These were able to temporarily stop the expansion of the demons, and the [[demon
 
 ## [[Bloodline War]]
 
-The conquest of the [[demons]] was eventually stopped by the defensive barriers that the Demonslavers built. Fortunately for them, there was another way out. A thin strip of land connected [[Olgizmar]] to [[Darrok]], a flat tidal expanse that at low tide barely became land and could be walked on for a few hours. It also had many dangerous reefs, which made most ships except small boats avoid this passage at high tide. This passage became the focus of the [[Vile Septet]] and the subsequent [[Bloodline War]].
+The conquest of the [[demons]] was eventually stopped by the defensive barriers that the Demonslavers built. Fortunately for them, there was another way out. A thin strip of land connected [[Olgizmar]] to [[Darrok]], a flat tidal expanse that at low tide barely became land and could be walked on for a few hours. It also had many dangerous reefs, which made most ships except small boats avoid this passage at high tide. This passage became the focus of the [[Vile Septet]] and the subsequent [[Bloodline War]]. The primary focus was the fortified city of [[Lamerpad]], a prize that was critical to gain a foothold in the mainland of [[South Darrok]]. The defence, however, was tested and proved true.
 
 ## After the War

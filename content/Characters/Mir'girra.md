@@ -20,3 +20,5 @@ tags:
 > > | appearance | 13', snake body, six arms |
 
 A cunning demon general that followed after [[Knaridzna]] through the Pyrlon Gate on the day of [[Pyrlon Carnage]]. She was an ally of [[Knaridzna]] and tried to see the big picture beyond the carnage. She stayed at [[Pyrlon]] and ruled the city with [[Molroth]].
+
+As a strategist, she played a crucial role in the conquest of [[Olgizmar]] and the [[Bloodline War]], as she commanded the siege of [[Lamerpad]].
