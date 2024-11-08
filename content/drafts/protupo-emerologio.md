@@ -153,9 +153,14 @@ enthroned as King.
 
 4453: Vigil Keep destroyed in Upperbung.  
 4467: Πραξικόπημα και θάνατος του Raptazeal στην Κόλαση.  
-4524: To Darrok χτίζει τείχος απέναντι στην προέλαση των Demonslavers.  
-4529: Οι δαίμονες απελευθερώνονται από τους Demonslavers.  
+4524: To Darrok χτίζει τείχος απέναντι στην προέλαση των Demonslavers.  ???
+4529: Οι δαίμονες απελευθερώνονται από τους Demonslavers. 
+
 4531: To Θηρίο από Νερό και Θάνατο ηττάται στο Oventhart.  
+
+4535: bloodline war 
+
+
 4580: Διαχωρισμός βόρειου και νότιου Darrok.  
 4630: Η μάχη του Dargonast, δημιουργία των Baelarch.
 

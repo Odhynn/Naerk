@@ -66,4 +66,9 @@ These were able to temporarily stop the expansion of the demons, and the [[demon
 
 The conquest of the [[demons]] was eventually stopped by the defensive barriers that the Demonslavers built. Fortunately for them, there was another way out. A thin strip of land connected [[Olgizmar]] to [[Darrok]], a flat tidal expanse that at low tide barely became land and could be walked on for a few hours. It also had many dangerous reefs, which made most ships except small boats avoid this passage at high tide. This passage became the focus of the [[Vile Septet]] and the subsequent [[Bloodline War]]. The primary focus was the fortified city of [[Lamerpad]], a prize that was critical to gain a foothold in the mainland of [[South Darrok]]. The defence, however, was tested and proved true.
 
+When [[Molroth]] informed them of the [[Darrok]] army movement, they were ready. They orchestrated a trap on the counterattack of [[Darrok]]'s folk and clergy that wanted revenge. The plan involved flooding the [[Bloodline]] and cutting off the frontguard. The [[Darrok]] force advanced with heavy losses, but the demons underestimated the divine zeal of the faithful. They also lost many, including [[Molroth]] and [[Erth'rach]]. When the Golden Emissaries [[Nalsar]] and [[La-Vermenel]] arrived, they caused even more casualties and the death of the second caused a massive eruption that destroyed permanently the [[Bloodline]].
+
 ## After the War
+
+The [[Vile Septet]] eventually recovered from the losses during the war with more demons that arrived from the portal. They also replaced the diseased [[Molroth]] and [[Erth
+rach]] among their ranks with new demon lords, but this time they kept their identities hidden.
