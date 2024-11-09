@@ -2,6 +2,10 @@
 title: Aspects
 date: 2024-02-06
 author: sfakias
+alias:
+  - Aspect
+  - aspects
+  - aspect
 tags:
   - gods/Aspects
   - planes/Evergrowing Forest
