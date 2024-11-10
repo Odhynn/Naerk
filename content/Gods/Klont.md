@@ -2,6 +2,8 @@
 title: Klont
 date: 2024-02-04
 author: sfakias
+alias:
+  - "Thorri-Rakam"
 tags:
   - gods/Primordial
   - planes/Kelzadam
@@ -69,4 +71,4 @@ The second was the [[Raven King]], a race of creatures from the [[Evergrowing Fo
 
 Finally, [[Yoll]] already had in his hands the ancient [[Vålnir]], the sword of the Valanshore aspect. Instead, as a weapon, he requested three light throwing axes for his daughter, made of the same material as the dwarves' [[Grondharr|shields]] and they were cutting through everything in their path, which they named [[Shatterwinds]]. For his armor he made the [[Aegis of the Storm]], from a piece of the shell of the oldest turtle on Na'erk, as big as an island. A light and practical armor that protected against the elements of nature and the sea.
 
-And so Thori-Rakkam, after twenty days of work, returned permanently to Kelzadam, where he could at last rest among the volcanoes and lava. No one asked him for anything anymore and he was officialy done with the demands of the gods. All the patrons of the plane received him with respect and gratitude, but accepted his desire for solitude.
+And so Thorri-Rakam, after twenty days of work, returned permanently to Kelzadam, where he could at last rest among the volcanoes and lava. No one asked him for anything anymore and he was officialy done with the demands of the gods. All the patrons of the plane received him with respect and gratitude, but accepted his desire for solitude.

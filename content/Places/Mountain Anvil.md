@@ -3,6 +3,8 @@ title: Mountain Anvil
 subtitle: Talhad
 date: 2024-03-28
 author: sfakias
+alias:
+  - "Talhad"
 tags:
   - countries/North Darrok
 
