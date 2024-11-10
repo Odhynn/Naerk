@@ -6,7 +6,7 @@ author: sfakias
 
 ## History
 
-An ancient greatsword from the [[Evergrowing Forest]] made from [[Valanshore]] herself. It was used by elder fey during the [[Ghost War]] and was later found in the lair of a linnorm by [[Yoll]] at the ruinded[[Ingotshield]] dwarven dungeons when [[Winter's War]] begun.
+An ancient greatsword from the [[Evergrowing Forest]] made from [[Valanshore]] herself. It was used by elder fey during the [[Ghost War]] and was later found in the lair of a linnorm by [[Yoll]] at the ruined [[Ingotshield]] dwarven dungeons when [[Winter's War]] begun. He used it to kill this linnorm, as well as numerous [[Icebringers]] and the ancient dragon [[Gridvaklur]].
 
 ## Properties
 

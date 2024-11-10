@@ -6,6 +6,10 @@ alias:
   - "demon archlords"
   - "Demon Archlord"
   - "demon archlord"
+  - "archdemon"
+  - "Archdemon"
+  - "Archdemons"
+  - "archdemons"
 tags:
   - gods/archdemons
   - planes/Abyss

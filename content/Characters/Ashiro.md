@@ -7,6 +7,8 @@ tags:
   - characters/leaders
   - characters/PCs
   - countries/Oventhart
+  - factions/Stormcrushers
+
 
 ---
 > [!attributes]
@@ -25,7 +27,8 @@ Ashiro was born during the [[Great Northern War]]. Having experienced the conseq
 
 ## Winter War
 
-Being one of the most iconic figures in [[Naerk]], if not the most iconic, before he even reached the height of his power and abilities, the [[Winter War]] came. A war like no other, in which he met for the first time a series of deities, from [[Yerastu]] to [[Sergonial]]. The conclusion he drew was that the gods see mortals as pawns with a role to slaughter each other for their own sake and whatever feuds they have at the time. The result was that he hated the gods, with the exception of perhaps the [[Aspects]], and he did manage to prove once again that he was right and that mortals can choose their own fate, when only he and three of his fellow warriors managed to turn the tide of the war and end it as they wanted in defiance of the will of the gods. Once again, the whole world was talking about Ashiro's abilities with the difference that this time it wasn't just mortals that were intrigued.
+Being one of the most iconic figures in [[Naerk]], if not the most iconic, before he even reached the height of his power and abilities, the [[Winter War]] came. He joined the [[Stormcrushers]] and sieged the [[Eye of Veth]] from the winter witch [[Tayra]].
+He played a critical role in a war like no other, in which he met for the first time a series of deities, from [[Yerastu]] to [[Sergonial]]. The conclusion he drew was that the gods see mortals as pawns with a role to slaughter each other for their own sake and whatever feuds they have at the time. The result was that he hated the gods, with the exception of perhaps the [[Aspects]], and he did manage to prove once again that he was right and that mortals can choose their own fate, when only he and three of his fellow warriors managed to turn the tide of the war and end it as they wanted in defiance of the will of the gods. Once again, the whole world was talking about Ashiro's abilities with the difference that this time it wasn't just mortals that were intrigued.
 
 ## Golden Age of Naerk
 

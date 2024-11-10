@@ -8,6 +8,7 @@ tags:
   - characters/leaders
   - regions/Athalaar
   - countries/Selanaar
+  - factions/Stormcrushers
 ---
 
 > [!attributes]
