@@ -6,7 +6,7 @@ author: sfakias
 tags:
   - characters/leaders
   - characters/PCs
-  - countries/Thimvert Reach
+  - regions/Thimvert
   - factions/Stormcrushers
 
 ---
