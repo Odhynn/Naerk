@@ -1,6 +1,6 @@
 ---
 title: Granit, the Bastard of the North
-subtitle: "The Cunning", "The Lucky", "The Hero"
+subtitle: The Cunning, The Lucky, The Hero
 date: 2024-11-13
 author: sfakias
 tags:
