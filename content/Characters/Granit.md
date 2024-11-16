@@ -20,4 +20,4 @@ tags:
 > > | born | 4751, [[Korhond]] |
 > > | appearance | Rough skin, 6'7" |
 
-The father of [[Knut]] Granitson, his life is described in [[The Saga of Granit, The Bastard of the North]].
+The son of [[Dimma]], grandson of [[Aegir]] and father of [[Knut]] Granitson, his adventurous life is described in [[The Saga of Granit, The Bastard of the North]]. He tempered the [[Aspects]], especially [[Crel'vach]], with his actions and was punished with eternal attempts to try and perform his boastings.

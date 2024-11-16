@@ -22,4 +22,4 @@ tags:
 > > | appearance | Grey hair and beard, brown eyes |
 > > | residence | [[Kranårvikk]] |
 
-The proud ex-Jarl of [[Crel]] tribe. Father of two daughters, including the witch [[Frigg]]
+The proud ex-Jarl of [[Crel]] tribe. Father of two daughters, including the witch [[Frigg]].
