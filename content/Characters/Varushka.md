@@ -18,7 +18,7 @@ tags:
 > > | died | 4818 |
 > > | appearance | grey thick hair, pustules, hump |
 
-A daughter of the [[Norns]] that tasked a two-headed troll, [[Balbar]], to kill the orc [[Grimson]], that defied the will of the [[Norns]]. She promised him unlimited power on his success.
+A daughter of the [[Norns]] that tasked a two-headed troll, [[Balbar]], to kill the orc [[Grimson]], that defied the will of the [[Norns]]. She promised him unlimited power on his success. In another instance, she tricked the mighty Warblade [[Ceron]] into believing he committed murder, forcing him into self-exile.
 
 ## Prophecy for the sons of [[Elder Gorhald]]
 

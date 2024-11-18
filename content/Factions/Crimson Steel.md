@@ -2,6 +2,8 @@
 title: Crimson Steel
 date: 2024-03-31
 author: sfakias
+alias:
+- "Order of the Cave"
 tags:
 
 - factions/Crimson Steel
