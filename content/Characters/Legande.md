@@ -6,7 +6,7 @@ author: sfakias
 tags:
   
   - countries/Reisdok
-  = factions/Cornuzel
+  - factions/Cornuzel
 
 ---
 > [!attributes]
