@@ -19,4 +19,4 @@ tags:
 > > | Region | around [[Angry Sea]], [[Volosherg]] |
 > > | Leader | [[Tharvold]] the Sculptor |
 
-One of the major druid orders of the north, the Fismint gather in a Flock at [[Raven's Tower]]. They are known to be extremely headstrong and stubborn but in many cases they help farmers and commonfolk. They have numerous hermits among their ranks.
+One of the major druid orders of the north, the Fismint gather in a Flock at [[Raven's Tower]]. They are known to be extremely headstrong and stubborn but in many cases they help farmers and commonfolk. They have numerous hermits among their ranks and are rumored to be amongst the most stubborn and headstrong [[Druids]]. However, they resort to violence only when there is no other way.

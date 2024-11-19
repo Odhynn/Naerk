@@ -15,9 +15,9 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4717, [[Whistor]] |
-> > | crowned | 4752, Whistor |
-> > | died | 4773, Whistor |
+> > | born | 4755, [[Whistor]] |
+> > | crowned | 4790, Whistor |
+> > | died | 4811, Whistor |
 > > | nationality | Whistorian |
 > > | appearance | Gold Hair, Blue Eyes, Tan Skin |
 

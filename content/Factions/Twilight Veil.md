@@ -28,5 +28,7 @@ In the year 1893, a group of wizards defected from the Twilight Veil. The reason
 
 With no one to stop them from engaging in their forbidden rites and spells, the renegades soon began to gain more and more power. They put no moral barrier to their power, and began to summon [[Asura]] and destroy villages. They killed the captives in ceremonies to get more power, and once they mustered an able force they attacked larger settlements. They moved northeast into the tundra and invaded [[Guldak]]. They magically enslaved all the inhabitants without exception and sacrificed them in a gruesome ceremony, which included many savage tortures.
 
+When [[Principia Magicka]] was established in various countries, numerous members of [[Twilight Veil]] objected and refused to apply it. Arothal was absent and when he returned, decades later, he refused to elaborate on the subject.
+
 They organised a siege on [[Clapten]] at 4740, as they hated the way the whalers lack of respect on the ways of the north.
 

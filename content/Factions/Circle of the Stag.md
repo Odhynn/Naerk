@@ -20,3 +20,5 @@ tags:
 > > | Members | Druids and nomads |
 > > | Region | [[Mitheryn]], [[Sennarin]] |
 > > | Leader | ? |
+
+A [[Druids|Druid Circle]] operating in [[Mitheryn]] Forest. It has a reputation of being mostly peaceful and comprehensive.

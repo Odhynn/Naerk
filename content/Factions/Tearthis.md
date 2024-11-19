@@ -20,7 +20,7 @@ tags:
 > > | Region | [[Oventhart]], [[Melario]] woods |
 > > | Leader | [[Oliven]] |
 
-Tearthis Pack is arguably one of the most powerful druid circles. This pack was made shortly after the end of the [[Great War of the North]], by 3 mighty druids of the region. [[Biragg]], [[Oliven]] and [[Ingasto]]. Biragg, although the weakest of the three, was the founder and the first leader of the pack.
+Tearthis Pack is arguably one of the most powerful druid circles. They try to balance the tensions between the civilised regions and authorities and the natural world. This pack was made shortly after the end of the [[Great War of the North]], by 3 mighty druids of the region. [[Biragg]], [[Oliven]] and [[Ingasto]]. Biragg, although the weakest of the three, was the founder and the first leader of the pack.
 
 Biragg operated in [[Zaelvosh Forest]].
 Oliven in [[Melario Woods]].

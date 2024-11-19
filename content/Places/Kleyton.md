@@ -21,7 +21,7 @@ tags:
 
 ## Description
 
-The city is a huge commercial center, which is one of the largest cities in all of Na'erk. Most ships from [[Imtaria]] to [[Whistor]] or [[Zelgerosh]] stop here for supplies and trade. For centuries now, the local authority collected a small tax from every ship that stopped, which they invested in the Arcane Academy, also known as [[Azarak]], and the Bridge of Dreams.
+The city is a huge commercial center, which is one of the largest cities in all of Na'erk. Most ships from [[Imtaria]] to [[Whistor]] or [[Zelgerosh]] stop here for supplies and trade. For centuries now, the local authority collected a small tax from every ship that stopped, which they invested in the Arcane Academy, also known as [[Azarak]], and the Bridge of Dreams. The magic influence is imminent on many more buildings, as well as the enchanted gardens of the city, a place with constant blossoming flowers.
 
 Kleyton is governed by a co-ed council of 21 members. Of these, 6 are merchants, guild leaders, and aristocrats, 3 are shipwrights with a large fleet, four are priests of [[Sumril]], [[Sennek]], [[Yushan]] and [[Maeronian]] while the remaining 8 are wizards, of which 7 are [[Cornuzel]]. Decisions are taken by a simple majority, but for the most critical there must be an absolute one, i.e. 11 people. The decisions of the council are strictly respected, and there are enough guards and golems to ensure that they are followed.
 

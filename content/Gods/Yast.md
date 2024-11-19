@@ -33,7 +33,7 @@ tags:
 > > | Divine Font | Harm |
 > > | Divine Skill | Occultism |
 > > | Favored Weapon | Bastard Sword |
-> > | Domains | Abomination, Darkness, Destruction, Nightmares, Pain, Sorrow, Star, Void |
+> > | Domains | Abomination, Darkness, Destruction, Nightmares, Nothingness, Pain, Sorrow, Star, Void |
 > > | Cleric Spells | 1st: Grim Tendrils, 5th: Aberrant Form, 9th: Astral Labyrinth |
 
 [[Yast]] is a self-exiled [[Primordial]] and [[Auromia]]'s son. He understood, albeit belatedly, her plans and considered that trying to co-exist with the material plane as the highest treason. He wanted no contact with the material dimension and was afraid of it. From the beginning he gathered all his strength to destroy it. However, [[Malahir]]'s influence usually prevents the attacks and incursions of his ethereal beings into the material world. Yast eventually became qurious of the material world and tried to send spies to understand it.

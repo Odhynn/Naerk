@@ -33,7 +33,7 @@ tags:
 > > | Divine Font | Heal |
 > > | Divine Skill | Society |
 > > | Favored Weapon | Claws or Longsword |
-> > | Domains | Cities, Duty, Knowledge, Truth, Wealth, Wyrmkin |
+> > | Domains | Cities, Dragon, Duty, Knowledge, Truth, Wealth, Wyrmkin |
 > > | Cleric Spells | 1st: Burning Hands, 4th: Reflective Scales, 6th: Dragon Form |
 
 Wise Ruler of [[Sunshine]]

@@ -201,8 +201,7 @@ Imtaria με την Kambah.
 4765: Εισβολή της ορδής του Guldorom στο βόρειο Darrok.
 
 4768: Snåfr Kugroen attacks Keldrev's Kraken.  
-4773: Μάχες μεταξύ της Kambah και του Oventhart. King Raldon death. Queen
-Della enthroned in Whistor.  
+4773: Μάχες μεταξύ της Kambah και του Oventhart.
 4775: Δεύτερη έκρηξη του Kegrozal στο Paraselt.  
 4776: Battle for Fellgaunt.  
 4777: Tavethirs' death. Giant Attack on South Darrok, Dumspergronds' death.
@@ -233,11 +232,9 @@ Celestial intervention.
 4801: Φυγή του Wolf Legion.
 
 4802: O Nurladan Quakesville γίνεται βασιλιάς των Πράσινων Λόφων.  
-4811: Ο Rongerak γίνεται βασιλιάς της Kambah.
-
+4811: Ο Rongerak γίνεται βασιλιάς της Kambah. King Raldon death. Queen Della enthroned in Whistor.  
 4812: Ίδρυση του Order of the Scroll.  
 4815: Σπάει η συνθήκη ειρήνης. Ναυμαχία της Ομίχλης.
-
 4816: O στρατός της Palaurim και των Πράσινων Λόφων ηττάται στο Paraselt από
 τα Lavahead Goblins.
 

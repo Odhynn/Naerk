@@ -20,4 +20,4 @@ tags:
 > > | nationality | [[Green Hills]] |
 > > | appearance | Brown hair, beard, 6'2" |
 
-The current king of [[Green Hills]] and son of [[King Lordin]].
+The current king of [[Green Hills]] and son of [[King Lordin]]. After the tragic events in the island of [[Sinaxon]], where his brother [[Erdin]] died, he declared [[Green Hills Withdrawal]] from [[Palaurim]] and [[Green Hills - Focus Shift]].

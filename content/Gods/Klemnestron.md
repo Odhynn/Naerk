@@ -33,7 +33,7 @@ tags:
 > > | Divine Font | Harm |
 > > | Divine Skill | Intimidate |
 > > | Favored Weapon | Claws or Shortsword |
-> > | Domains | Confidence, Destruction, Might, Sorrow, Tyranny, Wealth, Wyrmkin |
+> > | Domains | Confidence, Destruction, Dragon, Might, Sorrow, Tyranny, Wealth, Wyrmkin |
 > > | Cleric Spells | 1st: Burning Hands, 4th: Reflective Scales, 6th: Dragon Form |
 
 During the creation of the [[Elemental Ring]], there were many dragons scattered across the planes. Many of them wandered aimlessly, both in the [[Material Plane]] and in the rest. They lived only to destroy and terrorize others, blinded by their own egoism and sense of superiority.
