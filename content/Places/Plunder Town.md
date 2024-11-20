@@ -18,3 +18,7 @@ tags:
 > > | Location | southeast [[Zelgerosh]] |
 
 A vast pirate port and refuge full of unrully crews. It is where the [[Pirate Council]] takes place.
+
+## History
+
+Originally a fortified outpost founded by [[Qurin]] and general [[Duarte]] during the [[First Zelgerosh Expedition]], the second quickly took over and expelled all those not loyal to him. He started attacking merchant convoys and eventually turned to piracy. The settlement quickly became a pirate refuge, the name originated from the plunder that arrived in town, waiting to be spent or deposited.
