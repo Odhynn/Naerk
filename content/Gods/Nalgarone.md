@@ -12,7 +12,7 @@ tags:
 
 ---
 
-Nalgarone was a renowned architect that worked in [[Zelgerosh]], having arrived there on [[Qurin]]'s mission from [[Imtaria]]. Both the native tribes and the pirates to the south often sought his help to build some of their largest and most imposing buildings. The most important of these were the temples of the [[City of the Sun God]], the Columns of [[Itza]], as well as the underground city of [[Qishiso]].
+Nalgarone was a renowned architect that worked in [[Zelgerosh]], having arrived there on [[Qurin]]'s mission from [[Imtaria]] during the [[First Zelgerosh Exploration]]. Both the native tribes and the pirates to the south often sought his help to build some of their largest and most imposing buildings. The most important of these were the temples of the [[City of the Sun God]], the Columns of [[Itza]], as well as the underground city of [[Qishiso]].
 
 In reality, Nalgarone, although he seemed kind to everyone and willing to help, had another goal: to make the best creation for himself. Until then, he kept aside the most of the money he was given, and he could make everything they asked of him at half the cost of what others estimated. At the same time, he made the vaults so that they had a back tunnel where he could rob them.
 

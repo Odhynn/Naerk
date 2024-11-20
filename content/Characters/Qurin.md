@@ -14,6 +14,8 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | ?, [[Imtaria]] |
+> > | born | 3343, [[Faankar]], [[Imtaria]] |
 > > | died | ? |
 > > | appearance | ? |
+
+A legendary explorer and baron of [[Faankar]] from [[Imtaria]] that performed the [[First Zelgerosh Exploration]] starting from [[Oscia]] at 3381 with five ships. A pious servant of [[Sigard]] and a distant relative of [[Prince Valanir]].
