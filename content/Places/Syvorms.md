@@ -1,5 +1,6 @@
 ---
 title: Syvorms
+subtitle: Second Capital of Imtaria
 date: 2024-03-13
 author: sfakias
 tags:
@@ -18,3 +19,5 @@ tags:
 > > | Location | northeast [[Imtaria]] |
 
 The third biggest city of [[Imtaria]] and the place where [[Palaurim]] was first signed. Syvorms is the biggest merchant destinataion in the [[Misty Sea]] as it connects many regions and trade routes. The city is also the base of operations for the Syvorms Chartographic Society (SCS), that made most of the [[Naerk]] maps up to date.
+
+The castle is also the ancestral seat of the Ragas Emperor family.

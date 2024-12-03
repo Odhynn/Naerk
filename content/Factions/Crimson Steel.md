@@ -55,4 +55,6 @@ About a millennium ago the Order of the Cave was created, with many of the power
 
 Then, they came to an agreement. The Steel are reunited, with an undisputed leader (or Darkh as they call him, as his real name is lost upon taking office), who has the ability to issue whatever orders he wants at will. The Order continued to operate with relative autonomy. Thus, four chiefs are seated, below the leader, along with his right hand. A leader from the Cave, two Crimson, and a position open to anyone, now occupied by the Lady of Pain. The four leaders are staffed by the most capable people in there, since every time a position opens up anyone who wants to risk their life can claim it. They, along with the leader's right-hand man, constitute the highest body of the Steel, following the leader's word and deciding by vote on matters not resolved by the leader. Instead of voting, decisions are rarely made "on corpses", that is, if any of the five chooses, they can choose to defend their vote with their lives against anyone who has a different opinion. "On corpses," the Lady of Pain has decided more times than anyone.
 
+They are infamously known for the assassination of the [[Emperor Nillengar I]] Ragas of [[Imtaria]].
+
 In recent years, Crimson Steel became active in [[Oventhart]] for unknown reasons.

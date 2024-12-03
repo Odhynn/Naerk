@@ -16,3 +16,7 @@ tags:
 > > | Government | Monarchy (Lord) |
 > > | Religions | [[Sigard]], [[Factar]], [[Laerion]], [[Reszek]], [[Malahir]], [[Hydarax]] |
 > > | Location | central [[Imtaria]], north [[Goldenmist]] lake |
+
+## History
+
+The decisive [[Battle of Traitors Field]] that decided the downfall of the Neruso dynasty and the ascension of the Ragas dynasty was fought on the plains east of the city at 4227.

@@ -17,3 +17,4 @@ tags:
 > > | Religions | [[Yushan]], [[Steenar]], [[Hansa]], [[Sigard]], [[Sumril]] |
 > > | Location | south [[Whistor]] |
 
+A city with a strong priesthood and [[Divinalis]] presence.

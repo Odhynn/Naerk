@@ -1,5 +1,6 @@
 ---
 title: Brevilla
+subtitle: Black sheep of Whistor
 date: 2024-08-25
 author: sfakias
 tags:
@@ -15,6 +16,8 @@ tags:
 > > | Location | island in east [[Whistor]] |
 
 A semi-independent island from [[Whistor]] rule. It is believed to be a refuge for pirates and a base for numerous illegal activities. Many sailors utilise it for underground trade.
+
+## Black sheep of [[Whistor]]
 
 The largest island of the [[Walgri Isles]], Brevilla was a constant thorn in [[Whistor]]'s administration and development. And this was for many reasons. First, it was the most remote island in the sea and the largest, which required autonomous administration in many matters. The responsible duke, based in [[Carlitta]], faced enormous problems. He had to contain the scourge of pirates, keep the Southern Trade Route safe and also deal with the island's internal dangers.
 
