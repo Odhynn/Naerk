@@ -1,5 +1,5 @@
 ---
-title: Emperor Nilengar I Ragas
+title: Emperor Nillengar I Ragas
 subtitle: male human emperor
 date: 2024-12-03
 author: sfakias
