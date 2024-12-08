@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Saekla]], [[Hydarax]], [[Gibba]], [[B'tolen]], [[Malahir]] |
 > > | Location | west [[South Darrok]] |
 
-This city on the shore of [[Serpent's Tail]] is connected with a huge and ancient bridge with [[Flair]] on the opposite side.
+This city on the shore of [[Serpent's Tail]] is connected with a huge and ancient bridge with [[Flair]] on the opposite side. It is connected with [[Lamerpad]] via a main stone-paved highway.
