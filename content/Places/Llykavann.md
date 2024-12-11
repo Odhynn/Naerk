@@ -23,4 +23,4 @@ The established capital of [[South Darrok]] after the split with [[Northern Darr
 
 Llykavann had become the new capital of South Darrok for two main reasons: The first was that it was the closest city to [[Imtaria]] and its merchant ships and caravans could reach it more easily. The second was that it was also the safest area during the civil strife, a few years before during the secession from the north. However, it was still a city that had grown suddenly, it did not have a specific shape and its streets remained narrow and unpaved. At the same time, the city had low wooden walls and only the governor's tower was a complete structure.
 
-That was the state of the city when [[Arbader]] attacked it at the start of the [[Decade War of Arbader and South Darrok]].
+That was the state of the city when [[Arbader]] attacked it at the start of the [[Decade War of Arbader and South Darrok]]. The city was breached within a day an subsequently looted and plundered. The defence held just enough for some citizens could escape.

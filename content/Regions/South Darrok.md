@@ -37,7 +37,7 @@ Llykavann had become the new capital of South Darrok for two main reasons: The f
 
 This was the state of South Darrok when suddenly, one morning, the people of Llykavann saw the banners of Arbader's army marching to the south. In fact, this invasion had been in preparation for a long time. In the decline of [[Darrok]] after the civil war, the rising power of [[Arbader]] and [[Hasnev]] found an excuse to expand. But that was not the only reason: In the [[Queenswood]], the forest east of Llykavann, there was a grove of trees that were sacred to the city: The first queen of Darrok had walked there and carved trees with silver and precious stones. The value of these trees was incalculable, obviously in the case of Hasnev not for sentimental but for financial reasons.
 
-Thus started the [[Decade War of Arbader and South Darrok]]. Thousands died from both sides in the numerous battles, but ten years later the country was able to regain most of its lost territory and pushed Arbader south once again.
+Thus started the [[Decade War of Arbader and South Darrok]]. [[Llykavann]] fell with surprise and was looted, with many dead and mass pillage and plunder. Thousands subsequently died from both sides in the numerous battles that followed, but ten years later the country was able to regain most of its lost territory and pushed Arbader south once again.
 
 South Darrok currently has 10 councelors in Palaurim.
 

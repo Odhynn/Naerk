@@ -16,3 +16,5 @@ tags:
 > > | Government | Feudarchy (Lord) |
 > > | Religions | [[Hansa]], [[Factar]], [[Steenar]], [[Sigard]], [[Huntsman]] |
 > > | Location | west [[Arbader]] |
+
+This city boasts a vast agricultural production and is the home of many knights of [[Arbader]].

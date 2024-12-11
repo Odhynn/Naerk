@@ -19,3 +19,5 @@ tags:
 
 > [!quote] 
 > _"Problem wasn't that our Holy City fought side by side with goblins and cyclops. Problem was that money was the motive."_
+
+This city, named after the famous saint [[Condall]], boasts a vast agricultural production and is the home of many knights of [[Arbader]]. However, money and profit is thought to have undermined the values upon which the city was built.
