@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | southeast [[Whistor]] |
 
-A vast desert covering most of the southeastern part of the island of [[Whistor]].
+A vast and dangerous desert covering most of the southeastern part of the island of [[Whistor]]. It is very hot and water is scarce and various hostile monsters are found here.
