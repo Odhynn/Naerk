@@ -26,3 +26,6 @@ However, agents of the [[Crimson Steel]] were sent as disguised soldiers to Menn
 
 When his brother Torris found himself retreating from Volprost with heavy losses, he asked for help from Mennis. Only two companies rushed to help, as many battalions had returned freed "prisoners" and spies who had begun to breed discord in the army. The majority did not trust Torris and considered that he did not have the luxury of asking for help as they said that his tactics were wrong and that he should hold out alone.
 
+After the massacre at [[Queenswood]], Arbader's forces began to advance north. They eventually crossed the forest's edge and began to plunder what was left of the [[Volprost Plains]]. Darrok's army had been disorganized but soon managed to regroup in the main camps of Relmon and Irmast. [[Gwendoline]] organized three cavalry battalions with General [[Odr]] and General [[Mennis]] and they plowed through the valleys. On their way they found countless disorganized [[Arbader]] soldiers, who had been far removed from their supplies, and in the open valleys the cavalry had a huge advantage. Their war bulls trampled the soldiers who were looting villages without any cohesion.
+
+

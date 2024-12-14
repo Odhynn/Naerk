@@ -19,4 +19,6 @@ tags:
 
 A river city with flourishing trade and horse breeding.
 
-During the [[Decade War of Arbader and South Darrok]] it was successfully protected, albeit with heavy casualties, under the command of lieutenant [[Mennis]] Lionhead. A giant stone statue looking south was erected to commemorate his deeds and bravery.
+During the [[Decade War of Arbader and South Darrok]] it was successfully protected, albeit with heavy casualties, under the command of lieutenant [[Mennis]] Lionhead. A truce for one-year was signed on the city at 4593.
+
+A giant stone statue looking south was erected after the war to commemorate his deeds and bravery.

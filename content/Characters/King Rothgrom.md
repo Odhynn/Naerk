@@ -1,5 +1,5 @@
 ---
-title: King Rothgrom Hammersmash
+title: King Rothgrom "Hammersmash" Bandarak
 subtitle: male dwarf king
 date: 2024-03-31
 author: sfakias
