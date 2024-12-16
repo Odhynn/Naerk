@@ -26,3 +26,5 @@ tags:
 Leader and founder of the modern revival of the [[Berenfaer]]
 Accomplished scout and fighter
 Organizer of [[Zolkar's Dawn Riot]]
+
+A main figure of the [[Berenfaer]]. His methods are sometimes quite unusual and questionable but the results are indisputable.

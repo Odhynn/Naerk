@@ -3,8 +3,8 @@ title: Weeping Eye
 date: 2024-03-28
 author: sfakias
 tags:
-  - gods/Reszek
-  - gods/Nahema
+
+  - countries/South Darrok
  
 ---
 > [!attributes]

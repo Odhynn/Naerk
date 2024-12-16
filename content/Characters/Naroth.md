@@ -1,5 +1,5 @@
 ---
-title: 1st Admiral Naroth Geadan
+title: 1st Admiral Naroth Geadanya
 subtitle: male finfolk priest
 date: 2024-02-28
 author: sfakias
@@ -22,11 +22,11 @@ tags:
 > > | appearance | Blue hair, celadon eyes |
 > > | residence | [[Syvorms]] |
 
-**1st Admiral Naroth Geadan**
+**1st Admiral Naroth Geadanya**
 Chief Admiral of [[Palaurim]] Navy
 Archpriest of [[Hydarax]]
 Prince of [[Urdankh]]
-Father of [[Deator Geadan]]
+Father of [[Deator]] Geadanya
 
 He survived [[Battle of Misty Sea]], after he managed to escape [[Rongerak]]'s treachery and form a defence with his spells and commands to salvage part of the fleet. After the Battle, he wasn't ready to lay down his arms. He wanted to take action, and he had many ideas in mind. However, he knew in his heart that he would take on his duties with much more joy if he saw the values of justice and peace, which defined him and his own country, represented in the faces and decisions of the high officials and the emperor. Instead, he saw greed, laziness and indifference. And he knew that this alone could bring disaster. 
 
