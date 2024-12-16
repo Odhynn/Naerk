@@ -1,5 +1,5 @@
 ---
-title: Archbishop Felippe Sandiaz
+title: Archbishop Saint Felippe Sandiaz
 subtitle: human priest
 date: 2024-12-03
 author: sfakias
