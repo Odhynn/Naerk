@@ -1,6 +1,6 @@
 ---
 title: Taurlin Silvertail
-subtitle: male werewolf
+subtitle: male elf werewolf
 date: 2024-07-09
 author: sfakias
 tags:

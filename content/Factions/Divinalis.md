@@ -19,7 +19,7 @@ tags:
 > > | Members | Thousands of Clergy and Flock |
 > > | Religion | [[Hansa]], [[Sigard]], [[Sumril]] |
 > > | Region | [[Whistor]] |
-> > | Leader | Three Archbishops of each Clergy |
+> > | Leader | Archbishops of each Clergy: [[Valerio]] from [[Sigard]]'s |
 
 ## First Convocation of the Triad
 

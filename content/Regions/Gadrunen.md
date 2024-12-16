@@ -14,6 +14,8 @@ tags:
 > > | --- | --- |
 > > | Climate | Cold |
 > > | Languages | Jotun |
+> > | Place | present day [[Kambah]], [[Hoen]], [[Hoss Glacier]] and [[Korhond]] |
+> > | Time | -2350 to 1630 |
 > > | Religions | [[Drokasner]] |
 
 The greatest empire of the giants, spreading from [[Hoen]] and North [[Oventhart]] to the reaches of [[Belgosreim]]. Their race was originally storm, mountain, frost and tundra giants that built colossal structures, hundreds of yards tall.

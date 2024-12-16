@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | [[Sunshine]] |
-> > | Time | -2700 to - |
+> > | Time | -2700 to - 1550 |
 
 ## Origin
 
