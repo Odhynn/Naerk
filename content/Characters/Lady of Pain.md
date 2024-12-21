@@ -32,3 +32,5 @@ Believed to be an old friend of [[King Laorwick II|Laorwick]]
 
 > [!quote] 
 > Don't give me a reason to exercise violence...
+
+A master assassin and possible leader of the [[Order of the Cave]]. She held huge power in [[Hasnev]] until the events of [[Hasnev, Revolt and Betrayal]]. She wished an [[Awkward Farewell]] to [[Olsarthis]] after her loyal servants caught him in the city's [[Xeurim]] temple.
