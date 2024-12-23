@@ -2,7 +2,7 @@
 title: Primordials
 date: 2024-06-30
 author: sfakias
-alias:
+aliases:
   - primordials
   - Primordial
   - primordial
