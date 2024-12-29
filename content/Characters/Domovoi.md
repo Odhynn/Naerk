@@ -16,7 +16,7 @@ tags:
 > > | --- | --- |
 > > | born | 4761, south [[Paraselt]] |
 > > | died | 4777, [[Four Winds Monastery]] |
-> > | appearance | 7', black hair, huge tusks, grey skin, red eyes |
+> > | appearance | 7'4", 319 lbs, black hair, huge tusks, grey skin, red eyes |
 
 ## Story
 

@@ -17,7 +17,7 @@ tags:
 > > | --- | --- |
 > > | born | 4747, [[Oventhart]] |
 > > | nationality | Oventhart |
-> > | appearance | Short golden hair, spiked black full plate, falchion |
+> > | appearance | 6', 173 lbs, Short golden hair, spiked black full plate, falchion |
 > > | residence | [[Oventhart]] and [[Tarthyn]] |
 
 A pious warrior that achieved legendary status during the [[War of Karahath]] and afterwards, fighting fiends.

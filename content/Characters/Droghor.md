@@ -10,9 +10,9 @@ wiki:
   gender: male
   ancestry: gnome
   profession: dragon adept
-  born: 4732
-  height: 3'15"
-  weight: 50 lb.
+  born: 4743
+  height: 3'2"
+  weight: 48 lb.
   residence: [[Sunshine]]
 ---
 > [!attributes]
@@ -21,8 +21,8 @@ wiki:
 > >
 > > | | |
 > > | --- | --- |
-> > | born | 4732, [[Markesh]] |
-> > | appearance | 3'5", scales and dragon wings |
+> > | born | 4743, [[Markesh]] |
+> > | appearance | 3'2", scales and dragon wings, bright red eyes, dark orange hair |
 >
 > > [!quote]
 > > 
