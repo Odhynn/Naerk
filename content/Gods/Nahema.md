@@ -35,3 +35,5 @@ tags:
 > > | Favored Weapon | Spear |
 > > | Domains | Creation, Cities, Family, Healing, Passion |
 > > | Cleric Spells | 1st: Instant Pottery, 2nd: Instant Parade, 4th: Creation |
+
+Amehan is the ancient force of Creation. She was created with [[Amehan]] by the [[Equalizer]].

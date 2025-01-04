@@ -36,6 +36,8 @@ tags:
 > > | Domains | Destruction, Decay, Dust, Pain, Sorrow, Void |
 > > | Cleric Spells | 1st: Phantom Pain, 6th: Disintegrate, 9th: Disjunction |
 
+Amehan is the ancient force of Destruction. He was created with [[Nahema]] by the [[Equalizer]].
+
 ## History
 
 The Destroyer, tried to enforce his role against [[Nahema]], his sister, to destroy creation. His was [[Styx]], the Trap of Souls, and numerous other plots to destroy existence. He gave power and fury to Karadosh, he aided the [[Chosen]] [[Archdemons]] at the [[Demonic Civil War]], and he tried with all his power to annihilate [[Neverborn]], to no avail, resulting in the creation of the first undead. Most of his ways of influencing the [[Material Plane|Material World]] are subtle and indirect, as defined by his creator, the [[Equalizer]].
