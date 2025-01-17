@@ -17,7 +17,7 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Symbol | Sitting Lion |
+> > | Symbol | Sitting Lion, sometimes made from driftwood |
 > > | Members | mostly solitary hermits |
 > > | Region | From [[Imtaria]] to [[Paraselt]] |
 > > | Leader | [[Molish Santhak]] |

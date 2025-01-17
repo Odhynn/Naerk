@@ -15,4 +15,4 @@ tags:
 > > | --- | --- |
 > > | Region | North |
 
-These wise figures are [[Chandor]] the Outsider, [[Velchor]] the Bold, [[Oracle]] the Seer, [[Raefibb]] the Grim and [[Arothal]] the Distant. Ancient and legendary, they are respected and revered in most of the northern regions of [[Naerk]]. They gathered and formed the [[Skrûn]] to write down a history archive.
+These wise figures are [[Chandor]] the Outsider, [[Velchor]] the Bold, [[Oracle]] the Seer, [[Raefibb]] the Grim and [[Arothal]] the Distant. Ancient and legendary, they are respected and revered in most of the northern regions of [[Naerk]]. They gather and form the [[Skrûn]] to write down a history archive.
